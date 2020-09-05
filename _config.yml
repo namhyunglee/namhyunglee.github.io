@@ -23,8 +23,8 @@ tagline: 방송대 경제학과 조교수
 description: >- # this means to ignore newlines until "baseurl:"
  방송통신대학교 경제학과 조교수 이남형
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://namhyunglee.net" # the base hostname & protocol for your site, e.g. http://example.com
-# email: namhyunglee@knou.ac.kr
+url: "https://namhyunglee.net" # the base hostname & protocol for your site, e.g. http://example.com
+email: namhyunglee@knou.ac.kr
 
 # # Your social accounts.
 # social:
