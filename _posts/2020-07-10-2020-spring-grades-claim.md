@@ -7,6 +7,8 @@ permalink: /posts/:slug/
 categories: 공지
 tags: [서양경제사, 기술혁신의 경제학, 기말 시험]
 ---
+## [평가] 2020학년도 1학기 서양경제사, 기술혁신의 경제학 성적 정정 기간
+
 <!-- wp:paragraph -->
 <p>안녕하세요, 이남형입니다.</p>
 <!-- /wp:paragraph -->

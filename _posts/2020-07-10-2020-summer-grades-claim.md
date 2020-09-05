@@ -7,6 +7,8 @@ permalink: /posts/:slug/
 categories: 공지
 tags: [경제분석의 역사]
 ---
+## [평가] 2020학년도 여름계절학기 디지털경제의 이해, 경제분석의 역사 성적 정정 기간
+
 <!-- wp:paragraph -->
 <p>안녕하세요, 이남형입니다.</p>
 <!-- /wp:paragraph -->

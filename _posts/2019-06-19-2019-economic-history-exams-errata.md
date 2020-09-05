@@ -7,9 +7,9 @@ permalink: /posts/:slug/
 categories: 정정
 tags: [서양경제사, 기말 시험]
 ---
-<!-- wp:heading {"level":4} -->
-<h4>기말시험 12번 문항</h4>
-<!-- /wp:heading -->
+## [정정] 2019년 1학기 서양경제사
+
+### 기말시험 12번 문항
 
 <!-- wp:paragraph -->
 <p>다음 중 농업혁명에 대한 설명으로 맞는 것은?</p>

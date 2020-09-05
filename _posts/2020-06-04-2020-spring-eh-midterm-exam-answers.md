@@ -7,6 +7,8 @@ permalink: /posts/:slug/
 categories: 공지
 tags: [서양경제사, 출석수업 대체 과제물]
 ---
+## [평가] 2020학년도 1학기 서양경제사, 출석대체과제물 답안 공개
+
 <!-- wp:paragraph -->
 <p>안녕하세요, 이남형입니다.</p>
 <!-- /wp:paragraph -->

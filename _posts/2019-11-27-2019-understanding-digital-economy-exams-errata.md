@@ -7,9 +7,9 @@ permalink: /posts/:slug/
 categories: 정정
 tags: [디지털 경제의 이해, 출석대체시험]
 ---
-<!-- wp:heading {"level":4} -->
-<h4>출석대체시험 37번 문항</h4>
-<!-- /wp:heading -->
+## [정정] 2019년 2학기 디지털 경제의 이해
+
+### 출석대체시험 37번 문항
 
 <!-- wp:paragraph -->
 <p>네트워크의 성격이 있는 시장의 전략에 대한 설명으로 맞는 것은? <br></p>
