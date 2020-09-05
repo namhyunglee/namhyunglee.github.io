@@ -1,0 +1,56 @@
+---
+title: '[정정] 2018년 2학기 디지털 경제의 이해 기말 시험 24번'
+date: 2018-12-05T23:53:07+09:00
+layout: post
+slug: errata-de-2018-final-exam
+permalink: /posts/:slug/
+categories: 정정
+tags: [디지털 경제의 이해, 기말 시험]
+---
+<!-- wp:heading {"level":4} -->
+<h4>기말시험 24번 문항</h4>
+<!-- /wp:heading -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted">공유 경제의 확산에서 예측 가능한 점은?</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted">1 공유 소비에서 신뢰 형성과 중개 비용의 감소는 중요하지 않음<br>2 공유 소비에서 신뢰 형성을 위해 블록체인 기술이 결합될 수 있음 <br>3 공유 생산은 소프트웨어의 영역을 넘어 활용되는 분야가 없음<br>4 기술이 계속 발전 중인 경우, 공동 기술 개발은 불리 </pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p>정답을 3번에서 2번으로 정정합니다.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>설명</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>공유 소비에서 신뢰 형성을 위해 블록체인 기술이 결합될 수 있습니다.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>공유 소비에서 신뢰 형성과 중개 비용의 감소는 중요합니다.<br>공유 생산은 소프트웨어의 영역을 넘어 씨앗, 건축 설계 등에도 활용됩니다.<br>기술이 계속 발전 중인 경우, 공동 기술 개발이 유리할 수 있습니다.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>관련 내용</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>동영상 강의 1:28:19 - 1:32:05,<br>프리젠테이션 파일 슬라이드 42-44번,<br>강의안 p. 88-89, 10.4.3 공유경제의 확산,<br>연습문제 10강 5번</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted">공유 소비<br>- 유휴 자원을 최소화 시키는 방향으로 움직일 것<br>- 신뢰 형성과 중개 비용의 감소가 중요한 이슈가 될 수 있음 → 블록체인과의 결합 가능성</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted">공유 생산<br>- 소프트웨어 이외의 기술적 조건을 만족하는 영역<br>위키피디아, 오픈 씨앗, 오픈 건축<br>- 기술이 계속 발전 중에 있어, 배타적 기술 개발보다 공동 기술 개발이 더 유리한 경우<br>→ 인공지능, 블록체인, 전기 자동차 등</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p>혼란을 드려 죄송합니다.</p>
+<!-- /wp:paragraph -->

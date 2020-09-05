@@ -1,0 +1,48 @@
+---
+title: '[정정] 2019년 2학기 디지털 경제의 이해 출석대체시험 37번'
+date: 2019-11-27T16:15:42+09:00
+layout: post
+slug: errata-de-2019-mid-exam
+permalink: /posts/:slug/
+categories: 정정
+tags: [디지털 경제의 이해, 출석대체시험]
+---
+<!-- wp:heading {"level":4} -->
+<h4>출석대체시험 37번 문항</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>네트워크의 성격이 있는 시장의 전략에 대한 설명으로 맞는 것은? <br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted"> ① 불연속 전략은 성능과 개방을 중시하는 것으로 제조 능력이 뒤떨어지는 기업에게 유리하다.<br> ② 성능 우선 전략은 성능과 통제를 중시하는 것으로 시장에 신규진입하려는 기업이 선택할만하다.<br> ③ 통제된 전환 전략은 통제와 개방을 중시하는 것으로, 소프트웨어의 업그레이드가 대표적이다.<br> ④ 개방된 전환 전략은 호환성과 개방을 중시하는 것으로, 신제품이 다수의 생산자로부터 전환비용 없이 공급되므로 소비자에게 가장 불리하다.</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p>정답을 3번에서 2번으로 정정합니다.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>설명</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>다른 보기는 아래 이유로 잘못된 설명입니다.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>보기 1, 불연속: 하드웨어 제조 능력에 우위가 있는 기업에게 유리<br>보기 3, 통제된 전환: 호환성과 개방을 중시<br>보기 4, 개방된 전환: 신제품이 다수 생산자로부터 전환비용 없이 공급되므로 소비자에게 가장 유리</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>따라서, 정답 공지를 3번에서 2번으로 정정합니다.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>관련내용: 4강</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>동영상 강의 54:40-1:02:02<br>프리젠테이션 파일 슬라이드 61-68<br>강의안 35-36쪽<br>연습문제 9-14번</p>
+<!-- /wp:paragraph -->
