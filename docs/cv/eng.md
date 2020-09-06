@@ -32,7 +32,7 @@ nav_order: 2
 
 
 
-## Research (in Korean)
+## Research
 
 ### Articles
 
