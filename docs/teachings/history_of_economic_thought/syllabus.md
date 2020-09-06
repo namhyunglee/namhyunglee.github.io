@@ -47,9 +47,9 @@ nav_order: 3
 - 홍훈, 류동민, 박종현, 김진방, 박만섭, 2014,  『경제의 교양을 읽는다 - 고전편』, 더난출판사. 
 - 홍훈, 최정규, 김진방, 박만섭, 이규상, 2014,  『경제의 교양을 읽는다 - 현대편』, 더난출판사.
 - 니알 키시타이니/김진원 옮김, 2018, 『경제학의 모험』, 부키.
-  * (Niall Kishtainy, 2018, <em>A Little History of Economics</em>, Yale University Press.)
+  * Niall Kishtainy, 2018, <em>A Little History of Economics</em>, Yale University Press.
 - 로버트 하일브로너/장상환 옮김, 『세속의 철학자들』, 이마고. 
-  - (Robert Heilbroner, 1999, <em>The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers</em>, 7th ed., Touchstone Books.)
+  - Robert Heilbroner, 1999, <em>The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers</em>, 7th ed., Touchstone Books.
 - Roger E. Backhouse and Keith Tribe, 2017, <em>The History of Economics: A course for students and teachers</em>, Agenda publishing.
 - Heinz Kurz and Jeremiah Riemer, 2017, <em>Economic Thought: A Brief History</em>, Columbia University Press.
 - Henry William Spiegel, 1991, <em>The Growth of Economic Thought</em>, Duke University Press.
