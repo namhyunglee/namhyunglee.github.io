@@ -3,7 +3,7 @@ title: '[평가] 2020학년도 1학기 서양경제사, 출석대체과제물 �
 date: 2020-06-04T07:24:03+09:00
 layout: post
 slug: eh-2020-mid-exams-answers
-permalink: /posts/:categorie/:slug/
+permalink: /posts/:categories/:slug/
 categories: notices
 tags: [서양경제사, 출석수업 대체 과제물]
 ---
