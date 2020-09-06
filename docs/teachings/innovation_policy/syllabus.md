@@ -37,9 +37,9 @@ nav_order: 7
 강의안으로 수업을 진행하지만, 다음의 도서를 참고하면 좋다.
 
 - 수잔 스카치머/오준병 옮김, 2018, 『혁신과 유인』, 법문사.
-  * (Suzanne Scotchmer, 2006, <em>Innovation and Incentives</em>, MIT Press.)
+  * Suzanne Scotchmer, 2006, <em>Innovation and Incentives</em>, MIT Press.
 - 폴라 스테판/인윤희 옮김, 2013,  『경제학은 과학을 어떻게 움직이는가』, 글항아리.
-  * (Paula Stephan, 2012, <em>How Economics Shapes Science</em>, Harvard University Press.)
+  * Paula Stephan, 2012, <em>How Economics Shapes Science</em>, Harvard University Press.
 
 
 ### 강의 구성
