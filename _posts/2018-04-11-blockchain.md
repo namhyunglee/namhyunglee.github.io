@@ -2,9 +2,9 @@
 title: '[워킹페이퍼] 분산 원장 기술과 블록 체인'
 date: 2018-04-11T20:55:35+09:00
 layout: post
-slug: resources-wp-blockchain
-permalink: /posts/:slug/
-categories: 자료
+slug: wp-blockchain
+permalink: /posts/:categories/:slug/
+categories: resources
 tags: [워킹페이퍼, 블록체인, 분산원장, 디지털 경제의 이해]
 ---
 ## [워킹페이퍼] 분산 원장 기술과 블록 체인
