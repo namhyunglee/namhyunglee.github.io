@@ -35,7 +35,7 @@ nav_order: 1
 주 교재로 선정한 아래 도서는 참고할만 하므로 한 번 보기를 권하며, 수강을 마친 후 이 분야를 더 관심있게 보고 싶은 경우 매우 유용하다. 
 
 - 칼 군나르 페르손, 폴 샤프/박이택 옮김. 2016, 『유럽경제사: 지식, 제도 성장, 600-현재』, 해남. 
-  * (Karl Gunnar Persson and Paul Sharp, 2015, <em>An Economic History of Europe: Knowledge, Institutions and Growth, 600 to the Present</em>, 2nd ed., Cambridge University Press.)
+  * Karl Gunnar Persson and Paul Sharp, 2015, <em>An Economic History of Europe: Knowledge, Institutions and Growth, 600 to the Present</em>, 2nd ed., Cambridge University Press.
 
 동영상 강의를 시청한 후 주교재 읽기를 권하며, U-KNOU 홈페이지 자료실의 강의계획서에 동영상 강의 해당 차수의 주교재 관련 장을 정리해놓았다.
 
@@ -43,15 +43,16 @@ nav_order: 1
 
 - 경제교육연구회. 『사람의 역사, 경제의 역사』. 시그마프레스.
 - 로버트 C. 앨런/이강국 옮김.2017, 『세계경제사』. 교유서가.
-  * (Robert C. Allen, 2011, <em>Global Economic History: A Very Short Introduction</em>, Oxford University Press).
+  * Robert C. Allen, 2011, <em>Global Economic History: A Very Short Introduction</em>, Oxford University Press.
 - 윌리엄 N. 괴츠만/위대선 옮김. 『금융의 역사』. 지식의날개. 
-  * (William N. Goetzman, 2017, <em>Money Changes Everything: How Finance Made Civilization Possible</em>, Princeton University Press.)
+  * William N. Goetzman, 2017, <em>Money Changes Everything: How Finance Made Civilization Possible</em>, Princeton University Press.
 - 팀 하포드/박세연 옮김. 2018, 『팀 하포드의 경제학 팟캐스트: 현대 경제를 만든 50가지 생각들』. 세종서적. 
-  * (Tim Harford, 2017, <em>Fifty Inventions That Shaped the Modern Economy</em>, Riverhead Books.)
+  * Tim Harford, 2017, <em>Fifty Inventions That Shaped the Modern Economy</em>, Riverhead Books.
 
 ### 강의 구성
 
-- 장기 경제 성장- 전기봉건사회
+- 장기 경제 성장
+- 전기봉건사회
 - 후기봉건사회
 - 금융 및 기업 제도의 기원
 - 지리상의 발견과 상업혁명
