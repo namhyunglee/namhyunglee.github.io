@@ -38,7 +38,7 @@ tags: [경제분석의 역사]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>또는 홈페이지:&nbsp;<a rel="noreferrer noopener" href="http://www.namhyunglee.net/aboutexams/" target="_blank">http://www.namhyunglee.net/aboutexams/</a><br>로 문의주시기 바랍니다.</p>
+<p>또는 홈페이지:&nbsp;<a rel="noreferrer noopener" href="https://www.namhyunglee.net/questions/teachings/" target="_blank">https://www.namhyunglee.net/questions/teachings/</a><br>로 문의주시기 바랍니다.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
