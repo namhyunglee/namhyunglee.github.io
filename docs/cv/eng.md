@@ -11,7 +11,7 @@ nav_order: 2
 - Department of Economics, Korea National Open University 
   * Main Building 413, 86 Daehak-ro, Jongro-gu, Seoul, South Korea, 03087.
 - Email: namhyunglee@knou.ac.kr
-- Homepage: http://faculty.knou.ac.kr/~namhyunglee/
+- Homepage: [http://faculty.knou.ac.kr/~namhyunglee/](http://faculty.knou.ac.kr/~namhyunglee/){:target="_blank"}
 
 
 
@@ -227,4 +227,4 @@ nav_order: 2
 
 
 
-- Last updated: Aug. 28, 2020
+- Last updated: Aug. 28, 2020 -
