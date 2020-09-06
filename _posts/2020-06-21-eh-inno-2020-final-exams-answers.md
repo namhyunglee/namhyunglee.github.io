@@ -30,7 +30,7 @@ tags: [서양경제사, 기술혁신의 경제학, 기말 시험]
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>홈페이지: <a href="https://www.namhyunglee.net/questions/teachings/" target="_blank" rel="noreferrer noopener">https://www.namhyunglee.net/questions/teachings/</a><br>로 문의 주시기 바랍니다.</p>
+<p>홈페이지: <a href="https://www.namhyunglee.net/questions/exams/" target="_blank" rel="noreferrer noopener">https://www.namhyunglee.net/questions/exams/</a><br>로 문의 주시기 바랍니다.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
