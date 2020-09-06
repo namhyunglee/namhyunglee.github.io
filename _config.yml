@@ -36,6 +36,7 @@ email: namhyunglee@knou.ac.kr
 #   weibo: weibo_username
 
 remote_theme: pmarsceill/just-the-docs
+encoding: UTF-8
 
 #permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
