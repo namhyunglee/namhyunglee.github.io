@@ -2,9 +2,9 @@
 title: '[평가] 2020학년도 여름계절학기 디지털경제의 이해, 경제분석의 역사 성적 정정 기간'
 date: 2020-07-10T23:02:46+09:00
 layout: post
-slug: notices-de-het-2020-summer-final-calls
-permalink: /posts/:slug/
-categories: 공지
+slug: de-het-2020-summer-final-calls
+permalink: /posts/:categories/:slug/
+categories: notices
 tags: [경제분석의 역사]
 ---
 ## [평가] 2020학년도 여름계절학기 디지털경제의 이해, 경제분석의 역사 성적 정정 기간
