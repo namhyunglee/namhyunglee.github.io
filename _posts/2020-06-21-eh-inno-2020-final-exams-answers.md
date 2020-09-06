@@ -2,9 +2,9 @@
 title: '[평가] 2020학년도 1학기 서양경제사, 기술혁신의 경제학 기말 평가 답안 공개'
 date: 2020-06-21T19:17:11+09:00
 layout: post
-slug: notices-eh-inno-2020-final-exams-answers
-permalink: /posts/:slug/
-categories: 공지
+slug: eh-inno-2020-final-exams-answers
+permalink: /posts/:categories/:slug/
+categories: notices
 tags: [서양경제사, 기술혁신의 경제학, 기말 시험]
 ---
 ## [평가] 2020학년도 1학기 서양경제사, 기술혁신의 경제학 기말 평가 답안 공개
