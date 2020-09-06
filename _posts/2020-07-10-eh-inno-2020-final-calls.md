@@ -2,9 +2,9 @@
 title: '[평가] 2020학년도 1학기 서양경제사, 기술혁신의 경제학 성적 정정 기간'
 date: 2020-07-10T22:56:38+09:00
 layout: post
-slug: notices-eh-inno-2020-final-calls
-permalink: /posts/:slug/
-categories: 공지
+slug: eh-inno-2020-final-calls
+permalink: /posts/:categories/:slug/
+categories: notices
 tags: [서양경제사, 기술혁신의 경제학, 기말 시험]
 ---
 ## [평가] 2020학년도 1학기 서양경제사, 기술혁신의 경제학 성적 정정 기간
