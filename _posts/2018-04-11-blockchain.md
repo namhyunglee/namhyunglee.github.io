@@ -51,4 +51,4 @@ tags: [워킹페이퍼, 블록체인, 분산원장, 디지털 경제의 이해]
 
 
 
-이 글은 [연세대학교 경영연구소 4차 산업혁명 플랫폼, 브리프 5호](http://4ir.yonsei.ac.kr/?p=2122" target="_blank" rel="noreferrer noopener){:target="_blank"}로도 발간되었습니다.
+이 글은 [연세대학교 경영연구소 4차 산업혁명 플랫폼, 브리프 5호](http://4ir.yonsei.ac.kr/?p=2122"){:target="_blank"}로도 발간되었습니다.
