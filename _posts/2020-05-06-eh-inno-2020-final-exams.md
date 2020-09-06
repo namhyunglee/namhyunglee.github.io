@@ -2,9 +2,9 @@
 title: '[평가] 2020학년도 1학기 기말 평가 관련 (6월 18일 수정)'
 date: 2020-05-06T21:25:10+09:00
 layout: post
-slug: notices-eh-inno-2020-final-exams
-permalink: /posts/:slug/
-categories: 공지
+slug: eh-inno-2020-final-exams
+permalink: /posts/:categories/:slug/
+categories: notices
 tags: [서양경제사, 기술혁신의 경제학, 기말 시험]
 ---
 ## [평가] 2020학년도 1학기 기말 평가 관련 (6월 18일 수정)
