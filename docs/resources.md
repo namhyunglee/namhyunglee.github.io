@@ -16,7 +16,7 @@ nav_order: 5
 
 
 ### 구글 클래스룸
-- [이용 안내](https://sites.google.com/knou.ac.kr/econlecture/home/gsuite/classroom){:target="_blank"}
+- [접속 안내](https://sites.google.com/knou.ac.kr/econlecture/home/gsuite){:target="_blank"}
 
 ### 포드캐스트
 - [에스프레소](https://sites.google.com/knou.ac.kr/salon/covid19){:target="_blank"}
