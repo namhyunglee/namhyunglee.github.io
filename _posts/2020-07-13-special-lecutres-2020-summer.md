@@ -2,9 +2,9 @@
 title: '[요청] 2020학년도 프라임 칼리지 특강 수강'
 date: 2020-07-13T18:17:36+09:00
 layout: post
-slug: notices-special-lecutres-2020
-permalink: /posts/:slug/
-categories: 공지
+slug: special-lecutres-2020-summer
+permalink: /posts/:categories/:slug/
+categories: notices
 tags: [특강, 프라임 칼리지, 코로나19]
 ---
 ## [요청] 2020학년도 프라임 칼리지 특강 수강
