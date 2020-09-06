@@ -11,7 +11,7 @@ nav_order: 1
 - 한국방송통신대학교 경제학과 
   * 대한민국 서울특별시 종로구 대학로 86 본관 413호 (03087).
 - 이메일: namhyunglee@knou.ac.kr
-- 홈페이지: http://faculty.knou.ac.kr/~namhyunglee/
+- 홈페이지: [http://faculty.knou.ac.kr/~namhyunglee/](http://faculty.knou.ac.kr/~namhyunglee/){:target="_blank"}
 
 ## 교육 과정
 - 박사, 경제학, 고려대학교, 2017.
