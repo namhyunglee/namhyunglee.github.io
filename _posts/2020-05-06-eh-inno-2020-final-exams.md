@@ -46,7 +46,7 @@ tags: [서양경제사, 기술혁신의 경제학, 기말 시험]
 <!-- /wp:list -->
 
 <!-- wp:list -->
-<ul><li>문의<br>홈페이지 상담 <a href="http://www.namhyunglee.net/qnalist/" target="_blank" rel="noreferrer noopener">http://www.namhyunglee.net/qnalist/</a><br>또는 이메일 <a rel="noreferrer noopener" href="mailto:namhyunglee@knou.ac.kr" target="_blank">namhyunglee@knou.ac.kr</a></li></ul>
+<ul><li>문의<br>홈페이지 상담 <a href="https://www.namhyunglee.net/questions/teaching/" target="_blank" rel="noreferrer noopener">https://www.namhyunglee.net/questions/teaching/</a><br>또는 이메일 <a rel="noreferrer noopener" href="mailto:namhyunglee@knou.ac.kr" target="_blank">namhyunglee@knou.ac.kr</a></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
