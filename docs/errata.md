@@ -4,7 +4,7 @@ title: 교재 정정
 date: 2018-03-23T04:02:42+09:00
 permalink: /errata/
 nav_order: 4
-has_children: true
+has_children: fale
 has_toc: false
 ---
 
