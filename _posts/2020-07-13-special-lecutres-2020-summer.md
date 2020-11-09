@@ -1,5 +1,5 @@
 ---
-title: '[요청] 2020학년도 프라임 칼리지 특강 수강'
+title: '[특강] 2020학년도 프라임 칼리지 특강 수강'
 date: 2020-07-13T18:17:36+09:00
 layout: post
 slug: special-lecutres-2020-summer
