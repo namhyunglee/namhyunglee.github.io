@@ -7,7 +7,7 @@ permalink: /posts/:categories/:slug/
 categories: notices
 tags: [특강, 프라임 칼리지, 코로나19]
 ---
-## [요청] 2020학년도 프라임 칼리지 특강 수강
+## [특강] 2020학년도 프라임 칼리지 특강 수강
 
 <!-- wp:paragraph -->
 <p>교내 다른 교수님들과 함께 프라임 칼리지에서 특강을 열게 되었습니다.</p>
