@@ -1,6 +1,6 @@
 ---
 title: '[특강] 포스트 코로나를 논하다 (무료)'
-date: 
+date:  2020-11-09T21:02:43+09:00
 layout: post
 slug: special-lecutres-2020-post-COVID19
 permalink: /posts/:categories/:slug/
