@@ -11,7 +11,7 @@ nav_order: 2
 - Department of Economics, Korea National Open University 
   * Main Building 413, 86 Daehak-ro, Jongro-gu, Seoul, South Korea, 03087.
 - Email: namhyunglee@knou.ac.kr
-- Homepage: [http://faculty.knou.ac.kr/~namhyunglee/](http://faculty.knou.ac.kr/~namhyunglee/){:target="_blank"}
+- Homepage: [http://faculty.knou.ac.kr/~namhyunglee/](http://faculty.knou.ac.kr/~namhyunglee/)
 
 
 
@@ -36,6 +36,7 @@ nav_order: 2
 
 ### Articles
 
+- Shin, Woojin and Lee, Namhyung, 2020, "A Textbook without being read or with hand stains only on the front pages: Adult learners’ watching behavior of recorded economics video lectures", <em>Journal of Korean Association for Educational Information and Media</em>, 26(4), 955--984.
 - Baek, Jongsung and Lee, Namhyung, 2019, "Why do people accept cherry stone?: Reconstruction of Hayek's money competition," <em>Ordo Economics Journal</em>, 22(1), 151--166.
 - Shin, Woojin and Lee, Namhyung, 2018, "Analysis of Academic Achievement in Online-based Economics Education: Focusing on Basic Courses and Gender of Adult Learners", <em>Theory and Research in Citizenship Education</em>, 50(3), 181--202.
 - Choi, Eunju and Lee, Namhyung, 2017, "A Historical Path of North Korea's Trade Institution: based on Europe's pasts", <em>SA-CHONG</em>, (92), 153--206.
