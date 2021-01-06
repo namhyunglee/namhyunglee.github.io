@@ -10,7 +10,7 @@ nav_order: 1
 # 이남형
 - 한국방송통신대학교 경제학과 
   * 대한민국 서울특별시 종로구 대학로 86 본관 413호 (03087).
-- 이메일: namhyunglee@knou.ac.kr
+- 이메일: [namhyunglee@knou.ac.kr](mailto:namhyunglee@knou.ac.kr)
 - 홈페이지: [http://faculty.knou.ac.kr/~namhyunglee/](https://www.namhyunglee.net){:target="_blank"}
 
 ## 교육 과정
@@ -40,7 +40,7 @@ nav_order: 1
 - [최은주, 이남형, 2017, 「북한 무역 제도의 역사적 전개에 대한 일고찰: 근대 유럽의 경험에 비추어」, 『史叢』, (92). 153--206.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002269721){:target="_blank"}
 - [이남형, 김준일, 2016, 「경제학이 오픈소스 소프트웨어에 대해 알고 있는 것: 역사, 산업 조직, 정책 함의」, 『경제학연구』, 64(2). 127--166.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002117779){:target="_blank"}
 - [이남형, 조남운, 강영준, 김아미, 최은철, 2016, 「행위자 기반 시뮬레이션을 통한 공공 연구개발비 지출제도 비교 연구」, 『산업혁신연구』, 32(2), 227--255.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002118543){:target="_blank"}
-- [이남형, 박상수, 배인철, 이충기, 2016,「조건부가치측정법을 이용한 야생동물 교통사고 예방사업의 경제적 가치 추정」, 『환경영향평가』, 25(1), 1--14.(https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002084602)]{:target="_blank"}
+- [이남형, 박상수, 배인철, 이충기, 2016,「조건부가치측정법을 이용한 야생동물 교통사고 예방사업의 경제적 가치 추정」, 『환경영향평가』, 25(1), 1--14.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002084602){:target="_blank"}
 
 ### 도서
 
