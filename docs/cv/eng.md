@@ -42,7 +42,7 @@ nav_order: 2
 - Choi, Eunju and Lee, Namhyung, 2017, "A Historical Path of North Korea's Trade Institution: based on Europe's pasts", <em>SA-CHONG</em>, (92), [153--206.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002269721){:target="_blank"}
 - Lee, Namhyung and Joonil Kim, 2016, "The knowns and the unknowns about open source software: history, industrial organization and policy implications", <em>The Korean Journal of Economic Studies</em>, 64(2), [127--166.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002117779){:target="_blank"}
 - Lee, Namhyung, Namun Cho, Youngjun Kang, Ahmi Kim, and Euncheol Choi, 2016, "Public R&amp;D Expenditure Framework and Dynamics of Technology Enhancement: Based on the Agent-Based Simulation", <em>The Journal of Business and Economics</em>, 32(2), [227--255.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002118543){:target="_blank"}
-- Lee, Namhyung, Sangsoo Park, Inchul Bae and Chungki Lee, 2016, "Contingent Valuation of Wildlife-Vehicle Collision Prevention Projects", <em>Journal of Environmental Impact Assessment</em>, 25(1), [1--14.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002084602)]{:target="_blank"}
+- Lee, Namhyung, Sangsoo Park, Inchul Bae and Chungki Lee, 2016, "Contingent Valuation of Wildlife-Vehicle Collision Prevention Projects", <em>Journal of Environmental Impact Assessment</em>, 25(1), [1--14.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002084602){:target="_blank"}
 
 
 
