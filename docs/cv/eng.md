@@ -10,8 +10,8 @@ nav_order: 2
 # Namhyung Lee
 - Department of Economics, Korea National Open University 
   * Main Building 413, 86 Daehak-ro, Jongro-gu, Seoul, South Korea, 03087.
-- Email: namhyunglee@knou.ac.kr
-- Homepage: [http://faculty.knou.ac.kr/~namhyunglee/](http://faculty.knou.ac.kr/~namhyunglee/)
+- Email: [namhyunglee@knou.ac.kr](mailto:namhyunglee@knou.ac.kr)
+- Homepage: [http://faculty.knou.ac.kr/~namhyunglee/](https://www.namhyunglee.net/){:target="_blank"}
 
 
 
@@ -36,13 +36,13 @@ nav_order: 2
 
 ### Articles
 
-- Shin, Woojin and Lee, Namhyung, 2020, "A Textbook without being read or with hand stains only on the front pages: Adult learners’ watching behavior of recorded economics video lectures", <em>Journal of Korean Association for Educational Information and Media</em>, 26(4), 955--984.
-- Baek, Jongsung and Lee, Namhyung, 2019, "Why do people accept cherry stone?: Reconstruction of Hayek's money competition," <em>Ordo Economics Journal</em>, 22(1), 151--166.
-- Shin, Woojin and Lee, Namhyung, 2018, "Analysis of Academic Achievement in Online-based Economics Education: Focusing on Basic Courses and Gender of Adult Learners", <em>Theory and Research in Citizenship Education</em>, 50(3), 181--202.
-- Choi, Eunju and Lee, Namhyung, 2017, "A Historical Path of North Korea's Trade Institution: based on Europe's pasts", <em>SA-CHONG</em>, (92), 153--206.
-- Lee, Namhyung and Joonil Kim, 2016, "The knowns and the unknowns about open source software: history, industrial organization and policy implications", <em>The Korean Journal of Economic Studies</em>, 64(2), 127--166.
-- Lee, Namhyung, Namun Cho, Youngjun Kang, Ahmi Kim, and Euncheol Choi, 2016, "Public R&amp;D Expenditure Framework and Dynamics of Technology Enhancement: Based on the Agent-Based Simulation", <em>The Journal of Business and Economics</em>, 32(2), 227--255.
-- Lee, Namhyung, Sangsoo Park, Inchul Bae and Chungki Lee, 2016, "Contingent Valuation of Wildlife-Vehicle Collision Prevention Projects", <em>Journal of Environmental Impact Assessment</em>, 25(1), 1--14.
+- Shin, Woojin and Lee, Namhyung, 2020, "A Textbook without being read or with hand stains only on the front pages: Adult learners’ watching behavior of recorded economics video lectures", <em>Journal of Korean Association for Educational Information and Media</em>, 26(4), [955--984.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002662948){:target="_blank"}
+- Baek, Jongsung and Lee, Namhyung, 2019, "Why do people accept cherry stone?: Reconstruction of Hayek's money competition," <em>Ordo Economics Journal</em>, 22(1), [151--166.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002453631){:target="_blank"}
+- Shin, Woojin and Lee, Namhyung, 2018, "Analysis of Academic Achievement in Online-based Economics Education: Focusing on Basic Courses and Gender of Adult Learners", <em>Theory and Research in Citizenship Education</em>, 50(3), [181--202.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002390777){:target="_blank"}
+- Choi, Eunju and Lee, Namhyung, 2017, "A Historical Path of North Korea's Trade Institution: based on Europe's pasts", <em>SA-CHONG</em>, (92), [153--206.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002269721){:target="_blank"}
+- Lee, Namhyung and Joonil Kim, 2016, "The knowns and the unknowns about open source software: history, industrial organization and policy implications", <em>The Korean Journal of Economic Studies</em>, 64(2), [127--166.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002117779){:target="_blank"}
+- Lee, Namhyung, Namun Cho, Youngjun Kang, Ahmi Kim, and Euncheol Choi, 2016, "Public R&amp;D Expenditure Framework and Dynamics of Technology Enhancement: Based on the Agent-Based Simulation", <em>The Journal of Business and Economics</em>, 32(2), [227--255.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002118543){:target="_blank"}
+- Lee, Namhyung, Sangsoo Park, Inchul Bae and Chungki Lee, 2016, "Contingent Valuation of Wildlife-Vehicle Collision Prevention Projects", <em>Journal of Environmental Impact Assessment</em>, 25(1), [1--14.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002084602)]{:target="_blank"}
 
 
 
