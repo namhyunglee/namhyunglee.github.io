@@ -11,7 +11,7 @@ nav_order: 1
 - 한국방송통신대학교 경제학과 
   * 대한민국 서울특별시 종로구 대학로 86 본관 413호 (03087).
 - 이메일: namhyunglee@knou.ac.kr
-- 홈페이지: [http://faculty.knou.ac.kr/~namhyunglee/](http://faculty.knou.ac.kr/~namhyunglee/){:target="_blank"}
+- 홈페이지: [http://faculty.knou.ac.kr/~namhyunglee/](https://www.namhyunglee.net){:target="_blank"}
 
 ## 교육 과정
 - 박사, 경제학, 고려대학교, 2017.
@@ -34,13 +34,13 @@ nav_order: 1
 ## 연구
 
 ### 연구 논문
-- 신우진, 이남형, 2020, 「한 번도 보지 않거나 앞 장만 손때가 묻은 교과서: 성인 학습자의 온라인 경제학 강의 시청 행동」, 『교육정보미디어연구』, 26(4). 955--984.
-- 백종성, 이남형, 2019, 「왜 버찌씨를 받을까?: 하이에크 경쟁 화폐 이론의 재구성」, 『질서경제저널』, 22(1). 151--166.
-- 신우진, 이남형, 2018, 「온라인 기반 경제학 교육의 학업 성적 분석: 기초 공통 과목과 성인 학습자의 성별을 중심으로」, 『시민교육연구』, 50(3). 181--202.
-- 최은주, 이남형, 2017, 「북한 무역 제도의 역사적 전개에 대한 일고찰: 근대 유럽의 경험에 비추어」, 『史叢』, (92). 153--206.
-- 이남형, 김준일, 2016, 「경제학이 오픈소스 소프트웨어에 대해 알고 있는 것: 역사, 산업 조직, 정책 함의」, 『경제학연구』, 64(2). 127--166.
-- 이남형, 조남운, 강영준, 김아미, 최은철, 2016, 「행위자 기반 시뮬레이션을 통한 공공 연구개발비 지출제도 비교 연구」, 『산업혁신연구』, 32(2), 227--255.
-- 이남형, 박상수, 배인철, 이충기, 2016,「조건부가치측정법을 이용한 야생동물 교통사고 예방사업의 경제적 가치 추정」, 『환경영향평가』, 25(1), 1--14.
+- [신우진, 이남형, 2020, 「한 번도 보지 않거나 앞 장만 손때가 묻은 교과서: 성인 학습자의 온라인 경제학 강의 시청 행동」, 『교육정보미디어연구』, 26(4). 955--984.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002662948){:target="_blank"}
+- [백종성, 이남형, 2019, 「왜 버찌씨를 받을까?: 하이에크 경쟁 화폐 이론의 재구성」, 『질서경제저널』, 22(1). 151--166.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002453631){:target="_blank"}
+- [신우진, 이남형, 2018, 「온라인 기반 경제학 교육의 학업 성적 분석: 기초 공통 과목과 성인 학습자의 성별을 중심으로」, 『시민교육연구』, 50(3). 181--202.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002390777){:target="_blank"}
+- [최은주, 이남형, 2017, 「북한 무역 제도의 역사적 전개에 대한 일고찰: 근대 유럽의 경험에 비추어」, 『史叢』, (92). 153--206.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002269721){:target="_blank"}
+- [이남형, 김준일, 2016, 「경제학이 오픈소스 소프트웨어에 대해 알고 있는 것: 역사, 산업 조직, 정책 함의」, 『경제학연구』, 64(2). 127--166.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002117779){:target="_blank"}
+- [이남형, 조남운, 강영준, 김아미, 최은철, 2016, 「행위자 기반 시뮬레이션을 통한 공공 연구개발비 지출제도 비교 연구」, 『산업혁신연구』, 32(2), 227--255.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002118543){:target="_blank"}
+- [이남형, 박상수, 배인철, 이충기, 2016,「조건부가치측정법을 이용한 야생동물 교통사고 예방사업의 경제적 가치 추정」, 『환경영향평가』, 25(1), 1--14.(https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002084602)]{:target="_blank"}
 
 ### 도서
 
