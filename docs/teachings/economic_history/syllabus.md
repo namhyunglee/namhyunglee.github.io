@@ -30,14 +30,14 @@ nav_order: 1
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, U-KNOU 홈페이지 자료실에 강의안 파일이 업로드 되어 있다(2021년 1학기 현재 Ver. 2.1).
+강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 과목 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231) 자료실에 강의안 파일이 업로드 되어 있다(2021년 1학기 현재 Ver. 2.1).
 
 주 교재로 선정한 아래 도서는 참고할만 하므로 한 번 보기를 권하며, 수강을 마친 후 이 분야를 더 관심있게 보고 싶은 경우 매우 유용하다. 
 
 - 칼 군나르 페르손, 폴 샤프/박이택 옮김. 2016, 『유럽경제사: 지식, 제도 성장, 600-현재』, 해남. 
   * Karl Gunnar Persson and Paul Sharp, 2015, <em>An Economic History of Europe: Knowledge, Institutions and Growth, 600 to the Present</em>, 2nd ed., Cambridge University Press.
 
-동영상 강의를 시청한 후 주교재 읽기를 권하며, U-KNOU 홈페이지 자료실의 강의계획서에 동영상 강의 해당 차수의 주교재 관련 장을 정리해놓았다.
+동영상 강의를 시청한 후 주교재 읽기를 권하며, U-KNOU 캠퍼스 과목 홈페이지 자료실의 강의계획서에 동영상 강의 해당 차수의 주교재 관련 장을 정리해놓았다.
 
 ### 참고 도서
 
