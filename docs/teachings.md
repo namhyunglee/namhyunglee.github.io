@@ -28,6 +28,8 @@ has_toc: false
 ### 경영대학원 MBA 경제정책전공
 - 2학기
   * [과학기술정책의 경제학적 접근](/teachings/innvoation_policy/)
+  
+  
     {% comment %}
     * [2020년 2학기 오리엔테이션](/teachings/innvoation_policy/orientation/)
     {% endcomment %}
