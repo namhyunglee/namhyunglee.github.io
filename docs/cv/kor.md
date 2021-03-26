@@ -76,9 +76,10 @@ nav_order: 1
 - 「누가 비디오 게임을 하는가? 성인이용자의 사회경제적 배경」 (공동저자 조문석). 2019년 한국조사연구학회 추계학술대회, 2019년 11월 22일, 대한상공회의소, 서울.
 - 「왜 버찌씨를 받을까? 암호화폐와 화폐이론의 재구성」 (공동저자 백종성). 2019 경제학 공동학술대회, 2019년 2월 14일 -- 15일, 성균관대학교, 서울.
 - 「공유경제가 재정에 미칠 효과 분석」. 2018년 한국재정정책학회 하계학술대회, 2018년 6월 29일,한남대학교, 대전.
-- 「행위자 기반 시뮬레이션을 통한 공공 R\&amp;D 지출 제도 비교 연구」 (공동저자 강영준, 김아미, 조남운, 최은철). 2015 한국사회경제학회 가을학술대회; 2015년 11월 20일, 프란치스코 교육회관, 서울; 2015 한국재정정책학회 하계학술대회; 2015년 6월 26일, 경북대학교.
+- 「행위자 기반 시뮬레이션을 통한 공공 R&D 지출 제도 비교 연구」 (공동저자 강영준, 김아미, 조남운, 최은철). 2015 한국사회경제학회 가을학술대회; 2015년 11월 20일, 프란치스코 교육회관, 서울; 2015 한국재정정책학회 하계학술대회; 2015년 6월 26일, 경북대학교.
 - 「생태통로에 대한 지불의사액 추정과 로드킬 감소를 위한 생태통로 조성 방안」 (공동저자 배인철, 이충기). 한국환경영향평가학회 2014년도 추계학술대회, 2014년 10월 1일, 서울대학교 평창캠퍼스, 강원.
-- "Dynamics of license regime: the case of open source software development." 2012 한국사회경제학회 여름 학술대회, 2012년 7월 6일 -- 7일, 충남발전연구원, 대전.- 「민간자본 고속도로의 최적 가격 산출: PoA를 통한 접근」 (공동저자 조남운, 김균). 2011 경제학 공동학술대회, 2011년 2월 10일 -- 11일, 중앙대학교, 서울.
+- "Dynamics of license regime: the case of open source software development." 2012 한국사회경제학회 여름 학술대회, 2012년 7월 6일 -- 7일, 충남발전연구원, 대전.
+- 「민간자본 고속도로의 최적 가격 산출: PoA를 통한 접근」 (공동저자 조남운, 김균). 2011 경제학 공동학술대회, 2011년 2월 10일 -- 11일, 중앙대학교, 서울.
 - "The skill difference contributes to success?: the case of open source software development (co-authored with Cho Nam-un)." 4th FLOSS International Workshop on Free/Libre/Open Source Software: Business models, social networks and collaborative knowledge development, GSBC and Department of Economics Friedrich Schiller University, Jena, Germany, Jul. 1--2, 2010.
 - "A Caveman with Linux: The Naturalistic Approach to Open Source Software Development (co-authored with Cho Nam-un)." 6th European Meeting on Applied Evolutionary Economics, Volksbad, Jena, Germany, May 21--23, 2009.
 - "Was Hayek right after all? His unsettled dilemma: spontaneous order and evolutionary game." 35th Annual Meeting of the History of Economics Society, York University, Toronto, Canada, June 27--30, 2008.
