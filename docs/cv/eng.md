@@ -107,7 +107,8 @@ nav_order: 2
 
 ### Conferences, Workshops, and Summer School Attended
 
-- First Korean Association for Political Economy Winter School, Korea University, Seoul, Feb. 20-21, 2019.- First Graz Summer School, "Evolutionary Economics 25 years after the seminal contribution of Nelson and Winter: Problems and Perspectives", Graz Schumpeter Center, Graz, Austria, July 15-22, 2007.
+- First Korean Association for Political Economy Winter School, Korea University, Seoul, Feb. 20-21, 2019.
+- First Graz Summer School, "Evolutionary Economics 25 years after the seminal contribution of Nelson and Winter: Problems and Perspectives", Graz Schumpeter Center, Graz, Austria, July 15-22, 2007.
 - SASE 17th Annual Meeting, "What Counts? Calculation, Representation, Association", Central European University, Budapest, Hungary, June 30--July 2, 2005.
 
 
