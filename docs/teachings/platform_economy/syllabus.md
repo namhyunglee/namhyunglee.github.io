@@ -36,7 +36,7 @@ nav_order: 4
 
 ### 참고 도서
 
-- 마셜 밴 앨스타인, 상짙 폴 초더리, 제프리 파커/이현경 옮김, 2017, 『플랫폼 레볼루션』, 부키.
+- 마셜 밴 앨스타인, 상지트 폴 초더리, 제프리 파커/이현경 옮김, 2017, 『플랫폼 레볼루션』, 부키.
   * Geoffrey G. Parker, Marshall W. Van Alstyne and Sangeet Paul Choudary, 2017, <em> Platform Revolution: How Networked Markets Are Transforming the Economy </em>, W.W. Norton &amp; Company.
 - 마이클 쿠수마노, 데이비드 요피, 애너벨 가우어/오수원 옮김, 2021, 『플랫폼 비즈니스의 모든 것』, 부키. 
   * Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie, 2019,<em> The Business of Platforms: Strategy in the Age of Digital Competition, Innovation, and Power </em>, Harper Business.
