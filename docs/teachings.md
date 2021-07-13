@@ -16,6 +16,7 @@ has_toc: false
 - 2학기 
   * [경제분석의 역사](/teachings/history_of_economic_thought/)
   * [디지털 경제의 이해](/teachings/digital_economy/)
+  * [플랫포 경제의 이해](/teachings/platform_economy/)
 
 
 ### 방송대 프라임 칼리지
