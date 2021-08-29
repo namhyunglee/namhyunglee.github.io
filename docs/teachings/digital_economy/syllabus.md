@@ -6,6 +6,9 @@ permalink: /teachings/digital_economy/
 parent: 강의
 nav_order: 4
 ---
+### 디지털 경제의 이해: 시장 구조, 가격, 그리고 전략(Understanding digital economy: market structure, pricing, and strategy)
+
+강의 홈페이지: [U-KNOU 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU0911001&cntsId=KNOU0911)
 
 ### 강의 개요
 이 강의는 디지털 기술이 경제에 미치는 영향을 크게 두 부분에서 다루고자 한다. 
@@ -37,7 +40,7 @@ nav_order: 4
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, U-KNOU 홈페이지 자료실에 강의안과 프리젠테이션이 업로드 되어 있다(2020년 2학기 현재 Ver. 1.2).
+강의안으로 수업을 진행하며, U-KNOU 캠퍼스 홈페이지 과목 자료실에 강의안과 프리젠테이션이 업로드 되어 있다.
 
 ### 참고 도서
 
@@ -72,7 +75,8 @@ nav_order: 4
 - 노동생산성의 수수께끼
 - 미래는 과거와 다를 것인가
 
-### 기타: 상세 강의계획서, 강의안, 연습문제, 과제 관련 자료 등
+### 기타: 상세 강의계획서, 연습문제, 과제 관련 자료 등
+
 U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
 
 접속 방법
@@ -80,11 +84,11 @@ U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
 1. 학교 홈페이지 [https://www.knou.ac.kr](https://www.knou.ac.kr) 로그인 
 → 맞춤 정보 보기 
 → 나의 수강 정보 '학습하기' 클릭 
-→ 학습목록에서 "서양경제사" 선택 
+→ 학습목록에서 "디지털 경제의 이해" 선택 
 → '강의자료실' 선택 
 
 또는
 
 2. U-KNOU 캠퍼스 홈페이지 [https://ucampus.knou.ac.kr/](https://www.knou.ac.kr) 로그인 
-→ 학습목록에서 "서양경제사” 선택
+→ 학습목록에서 "디지털 경제의 이해” 선택
 →  '강의자료실’ 선택
