@@ -7,6 +7,10 @@ permalink: /teachings/innvoation_policy/
 parent: 강의
 nav_order: 7
 ---
+
+## 과학기술정책의 경제학적 접근
+### Economics of science and technology policy
+
 ### 강의 개요
 
 이 수업에서는 기술 혁신을 역사적 과정과 제도적 맥락에서 살펴본다.
