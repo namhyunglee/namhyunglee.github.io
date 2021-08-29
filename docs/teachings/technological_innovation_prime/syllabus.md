@@ -7,6 +7,9 @@ parent: 강의
 nav_order: 5
 ---
 
+## 기술 혁신의 경제학
+### Economics of Technological Innovation
+
 ### 강의 개요
 
 지속적인 경쟁 환경에 처한 기업에게 기술 혁신은 경쟁 우위를 유지할 수 있는 매우 중요한 요건이다. 
