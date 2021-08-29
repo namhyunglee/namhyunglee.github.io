@@ -6,8 +6,8 @@ permalink: /teachings/digital_economy/
 parent: 강의
 nav_order: 4
 ---
-### 디지털 경제의 이해: 시장 구조, 가격, 그리고 전략
-## (Understanding digital economy: market structure, pricing, and strategy)
+## 디지털 경제의 이해: 시장 구조, 가격, 그리고 전략
+### (Understanding digital economy: market structure, pricing, and strategy)
 
 강의 홈페이지: [U-KNOU 캠퍼스, 디지털 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU0911001&cntsId=KNOU0911)
 
