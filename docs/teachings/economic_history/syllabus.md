@@ -7,6 +7,12 @@ parent: 강의
 nav_order: 1
 ---
 
+## 서양경제사: 장기 경제 성장과 금융제도의 진화 
+### Economic history of western world: a long-run economic growth and an evolution of financial institutions
+
+강의 홈페이지: [U-KNOU 캠퍼스, 서양경제사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231}
+
+
 ### 강의 개요
 
 이 강의에서는 19세기 이후 전세계에서 나타나는 괄목할만한 경제 성장의 역사 중 서유럽의 성장사에 초점을 맞추며, 특히 자본주의 시스템의 성격과 변화를 설명하고자 한다.
