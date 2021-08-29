@@ -10,7 +10,7 @@ nav_order: 1
 ## 서양경제사: 장기 경제 성장과 금융제도의 진화 
 ### Economic history of western world: a long-run economic growth and an evolution of financial institutions
 
-강의 홈페이지: [U-KNOU 캠퍼스, 서양경제사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231}
+강의 홈페이지: [U-KNOU 캠퍼스, 서양경제사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231)
 
 
 ### 강의 개요
