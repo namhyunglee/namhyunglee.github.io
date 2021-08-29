@@ -6,6 +6,13 @@ permalink: /teachings/history_of_economic_thought/
 parent: 강의
 nav_order: 3
 ---
+
+## 경제 분석의 역사
+### History of Economic Analysis
+
+강의 홈페이지: [U-KNOU 캠퍼스, 경제분석의 역사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1331001&cntsId=KNOU1331)
+
+
 ### 강의 개요
 이 강의에서는 경제학의 중요한 개념이 어디에서 비롯되었고, 그 내용은 무엇이며, 또 어떻게 변해왔는지를 훑어 본다. 
 
@@ -71,7 +78,7 @@ nav_order: 3
 - 하이에크
 - 폰 노이만과 존 내쉬
 
-### 기타: 상세 강의계획서, 강의안, 연습문제, 과제 관련 자료 등
+### 기타: 상세 강의계획서, 연습문제, 과제 관련 자료 등
 U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
 
 접속 방법
@@ -79,11 +86,11 @@ U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
 1. 학교 홈페이지 [https://www.knou.ac.kr](https://www.knou.ac.kr) 로그인 
 → 맞춤 정보 보기 
 → 나의 수강 정보 '학습하기' 클릭 
-→ 학습목록에서 "서양경제사" 선택 
+→ 학습목록에서 "경제분석의 역사" 선택 
 → '강의자료실' 선택 
 
 또는
 
 2. U-KNOU 캠퍼스 홈페이지 [https://ucampus.knou.ac.kr/](https://www.knou.ac.kr) 로그인 
-→ 학습목록에서 "서양경제사” 선택
+→ 학습목록에서 "경제분석의 역사” 선택
 →  '강의자료실’ 선택
