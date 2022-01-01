@@ -19,4 +19,4 @@ nav_order: 5
 - [접속 안내](https://sites.google.com/knou.ac.kr/econlecture/home/gsuite){:target="_blank"}
 
 ### 포드캐스트
-- [에스프레소](https://sites.google.com/knou.ac.kr/salon/covid19){:target="_blank"}
+- [에스프레소](https://www.edwith.org/espresso-covid19){:target="_blank"}
