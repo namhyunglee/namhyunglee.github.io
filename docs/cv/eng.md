@@ -11,7 +11,7 @@ nav_order: 2
 - Department of Economics, Korea National Open University 
   * Main Building 413, 86 Daehak-ro, Jongro-gu, Seoul, South Korea, 03087.
 - Email: [namhyunglee@knou.ac.kr](mailto:namhyunglee@knou.ac.kr)
-- Homepage: [http://faculty.knou.ac.kr/~namhyunglee/](https://www.namhyunglee.net/){:target="_blank"}
+- Homepage: [https://faculty.knou.ac.kr/~namhyunglee/](https://www.namhyunglee.net/){:target="_blank"}
 
 
 
@@ -47,7 +47,7 @@ nav_order: 2
 
 
 ### Books
-
+- Shim, Jiyoung, Namhyung Lee, Yongchul Lee, Il Jang, Seyoun Jeong, Jiyoun Cha and Moonsun Chou, <em> Issues on the Current Europe</em>, KNOU Press: Seoul, 2021. (Chs. 10, 12, 14).
 - Lee, Chungki and Namhyung Lee, <em>Economics of Firms</em>, KNOU Press: Seoul, 2020. (Chs. 7--11).
 - Lee, Chungki and Namhyung Lee, <em>Economy in Life</em>, KNOU Press: Seoul. (Chs. 7--13, Appendix 1--2).
 - Naval Warfare Command Center, <em>Spanish Naval Warfare History</em>, Gyeryong: ROKN, 2002. (part of Spanish naval development in 15-17th century and public finance.)
@@ -56,7 +56,7 @@ nav_order: 2
 
 ### Technical Reports
 
-- Korea Creative Content Agency, "Economic Behavior of playing video games", <em>Preliminary Survey on Game Users Panel 202</em>0, Ch. 5 Sec. 3, 2019.
+- Korea Creative Content Agency, "Economic Behavior of playing video games", <em>Preliminary Survey on Game Users Panel 2020</em>, Ch. 5 Sec. 3, 2019.
 - National Assembly Budget Office, "France's Fiscal Decentralization", <em>Current status and implications of financial decentralization in major countries</em>, Ch. 5, Seoul, 2018.
 - National Assembly Budget Office, "Characteristics and introduction of smart factory: focusing on foreign countries", <em>A Study on the Effect of Smart Factory Introduction on Employment: focusing on foreign case</em>s, Ch. 3, Seoul, 2018.
 - National Assembly Budget Office, "Current status of National and Regional Financial Assistance of Social Welfare State Support Project", <em>Analysis of Local Finance Burden Due to Expansion of Large-scale State-aid Welfare Project</em>, Ch. 2, Seoul, 2017.
@@ -229,4 +229,4 @@ nav_order: 2
 
 
 
---- Last updated: Jan. 5, 2021 ---
+--- Last updated: Nov. 3, 2021 ---

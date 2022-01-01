@@ -17,7 +17,7 @@ nav_order: 1
 
 이 강의에서는 19세기 이후 전세계에서 나타나는 괄목할만한 경제 성장의 역사 중 서유럽의 성장사에 초점을 맞추며, 특히 자본주의 시스템의 성격과 변화를 설명하고자 한다.
 
-세부적으로는 중세 유럽 경제의 특징, 영국 산업혁명의 원인과 결과, 19세기 유럽 대륙의 산업화와 근대적 경제성장, 세계화와 불평등, 그리고 11세기 이후 금융제도의 형성을 다룰 것이다. 
+세부적으로는 중세 유럽 경제의 특징, 영국 산업혁명의 원인과 결과, 19세기 유럽 대륙의 산업화와 근대적 경제성장, 세계화와 불평등, 그리고 11세기 이후 금융제도의 형성을 다룬다.
 
 ### 강의 목표
 
@@ -30,23 +30,17 @@ nav_order: 1
 
 ### 수강 전에 들어야 하는 과목
 
-필수는 아니지만, 다음 과목을 들으면 수업 내용을 이해하는 데 도움이 된다.
+필수는 아니지만, 다음 과목을 들으면 수업 내용을 이해하는 데 큰 도움이 된다.
 
 - 기초미시경제론, 기초거시경제론, 고급거시경제론
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 과목 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231) 자료실에 강의안 파일이 업로드 되어 있다(2021년 1학기 현재 Ver. 2.1).
-
-주 교재로 선정한 아래 도서는 참고할만 하므로 한 번 보기를 권하며, 수강을 마친 후 이 분야를 더 관심있게 보고 싶은 경우 매우 유용하다. 
-
-- 칼 군나르 페르손, 폴 샤프/박이택 옮김. 2016, 『유럽경제사: 지식, 제도 성장, 600-현재』, 해남. 
-  * Karl Gunnar Persson and Paul Sharp, 2015, <em>An Economic History of Europe: Knowledge, Institutions and Growth, 600 to the Present</em>, 2nd ed., Cambridge University Press.
-
-동영상 강의를 시청한 후 주교재 읽기를 권하며, U-KNOU 캠퍼스 과목 홈페이지 자료실의 강의계획서에 동영상 강의 해당 차수의 주교재 관련 장을 정리해놓았다.
+강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 과목 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231) 자료실에 강의안 파일이 업로드 되어 있다(2022년 1학기 현재 Ver. 2.2).
 
 ### 참고 도서
-
+- 칼 군나르 페르손, 폴 샤프/박이택 옮김. 2016, 『유럽경제사: 지식, 제도 성장, 600-현재』, 해남. 
+  * Karl Gunnar Persson and Paul Sharp, 2015, <em>An Economic History of Europe: Knowledge, Institutions and Growth, 600 to the Present</em>, 2nd ed., Cambridge University Press.
 - 경제교육연구회. 『사람의 역사, 경제의 역사』. 시그마프레스.
 - 로버트 C. 앨런/이강국 옮김.2017, 『세계경제사』. 교유서가.
   * Robert C. Allen, 2011, <em>Global Economic History: A Very Short Introduction</em>, Oxford University Press.

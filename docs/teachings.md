@@ -27,7 +27,7 @@ has_toc: false
   * [디지털 경제의 이해](/teachings/digital_economy_prime/)
 
 ### 방송대 경영대학원 MBA 경제정책전공
-- 2학기
+- 1학기
   * [과학기술정책의 경제학적 접근](/teachings/innvoation_policy/)
   
   
