@@ -8,7 +8,7 @@ has_children: true
 has_toc: false
 ---
 
-2021년 1월 5일 현재
+2021년 11월 3일 현재
 
 - [경력](/cv/kor/)
 - [Curriculum Vitae (in English)](/cv/eng/)
