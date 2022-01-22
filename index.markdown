@@ -1,6 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# - 블록체인과 공급망 관리 (공동연구: 정세윤)
+# - 기술 공개 혁신의 역사적 사례와 지속 가능성
+# - 오픈 소스 소프트웨어 개발의 발전과 라이센스의 역할
 
 layout: default
 title: 소개
@@ -25,13 +28,10 @@ nav_order: 1
 - 녹화 동영상 강의의 학습분석학(Learning Analytics): 학습자의 사회경제적 배경을 중심으로 (공동연구: 신우진)
 - 게임 이용자의 경제적 행태 (한국콘텐츠진흥원, 게임이용자 패널 연구)
 - 문화적 진화의 수용: 하이에크와 보울스의 비교 (한국방송통신대학교, 2018년 1/4분기 학술연구비 지원 사업)
-# - 블록체인과 공급망 관리 (공동연구: 정세윤)
 
 이외에도 다음 주제를 공부 중입니다.
 
 - 1950-1960년대 경제학의 게임이론 수용 과정
-# - 기술 공개 혁신의 역사적 사례와 지속 가능성
-# - 오픈 소스 소프트웨어 개발의 발전과 라이센스의 역할
 - 자유 은행 시기(Free-banking era)의 역사적 교훈 (공동연구: 백종성)
 
 다음의 연구 방법을 주로 사용합니다.
