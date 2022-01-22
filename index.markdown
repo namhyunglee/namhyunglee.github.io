@@ -1,9 +1,8 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-# - 블록체인과 공급망 관리 (공동연구: 정세윤)
-# - 기술 공개 혁신의 역사적 사례와 지속 가능성
-# - 오픈 소스 소프트웨어 개발의 발전과 라이센스의 역할
+# 블록체인과 공급망 관리 (공동연구: 정세윤)
+
 
 layout: default
 title: 소개
