@@ -36,7 +36,7 @@ email: namhyunglee@knou.ac.kr
 #   linkedin: linkedin_username
 #   weibo: weibo_username
 
-remote_theme: pmarsceill/just-the-docs
+remote_theme: mmistakes/minimal-mistakes@4.24.0 #pmarsceill/just-the-docs
 encoding: UTF-8
 
 #permalink: pretty
