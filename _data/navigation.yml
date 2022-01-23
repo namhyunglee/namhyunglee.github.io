@@ -1,14 +1,14 @@
 main:
   - title: "경력"
-    url: /docs/_pages/cv/
+    permalink: /docs/_pages/cv-archive/
   - title: "강의"
-    url: /docs/_pages/teachings/
+    permalink: /docs/_pages/teachings-archive/
   - title: "상담"
-    url: /docs/_pages/questions/
+    permalink: /docs/_pages/questions-archive/
   - title: "교재 정정"
-    url: /docs/_pages/errata/
+    permalink: /docs/_pages/errata-archive/
   - title: "참고자료"
-    url: /docs/_pages/resources/
+    permalink: /docs/_pages/resources-archive/
 #  - title: "Tags"
 #    url: /tags/
 #  - title: "Pages"

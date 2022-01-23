@@ -1,7 +1,7 @@
 ---
 #type: pages
 title: 강의
-permalink: /docs/_pages/teachings/
+permalink: /docs/_pages/teachings-archive/
 date: 2018-03-23T04:03:05+09:00
 collection: teachings
 

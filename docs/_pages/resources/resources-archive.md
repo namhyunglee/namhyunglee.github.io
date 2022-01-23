@@ -1,7 +1,7 @@
 ---
 #type: pages
 title: 참고자료
-permalink: /docs/_pages/resources/
+permalink: /docs/_pages/resources-archive/
 date: 2020-02-24T17:04:03+09:00
 collection: resources
 

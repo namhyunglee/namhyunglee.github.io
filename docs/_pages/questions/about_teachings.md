@@ -3,7 +3,7 @@ layout: default
 title: 과목 상담
 date: 2018-09-05T18:04:38+09:00
 layout: page
-permalink: /questions/teachings/
+permalink: /questions/about_teachings/
 parent: 상담
 nav_order: 1
 ---
