@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 #layout: pages
 title: 과학기술 정책의 경제학적 접근 (MBA, 1학기)
 date: 2022-01-23

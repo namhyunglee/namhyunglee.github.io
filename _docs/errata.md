@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 title: 교재 정정
 date: 2022-01-23
 permalink: /docs/errata/

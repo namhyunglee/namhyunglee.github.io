@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 title: 경력
 date: 2021-11-03
 permalink: /docs/cv/

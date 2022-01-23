@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 title: Namhyung Lee
 date: 2021-11-03
 permalink: /docs/cv/eng/

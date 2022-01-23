@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 #layout: pages
 title: 교재 정정
 date: 2019-09-02T11:11:50+09:00

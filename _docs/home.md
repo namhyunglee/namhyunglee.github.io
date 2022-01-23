@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 title: 소개
 date: 2022-01-23
 permalink: /

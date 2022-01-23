@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 title: 강의
 date: 2022-01-23
 permalink: /docs/teachings/

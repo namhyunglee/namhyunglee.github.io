@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 #layout: pages
 title: 기술 혁신의 경제학 (프라임 칼리지, 1학기)
 date: 2022-01-23

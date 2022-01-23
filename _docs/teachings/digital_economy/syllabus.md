@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 #layout: pages
 title: 디지털 경제의 이해 - 시장 구조, 가격, 그리고 전략 (2학기)
 date: 2022-01-23

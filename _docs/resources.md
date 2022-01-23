@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 title: 참고자료
 date: 2022-01-23
 permalink: /docs/resources/

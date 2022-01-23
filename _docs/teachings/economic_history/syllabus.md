@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 #layout: pages
 title: 서양경제사 - 장기 경제 성장과 금융제도의 진화 (1학기)
 date: 2022-01-23

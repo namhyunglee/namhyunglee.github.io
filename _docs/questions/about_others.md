@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 #layout: pages
 title: 기타 상담
 date: 2018-04-11T16:41:08+09:00

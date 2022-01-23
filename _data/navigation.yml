@@ -17,3 +17,52 @@ main:
 #    url: /collection-archive/
 #  - title: "External Link"
 #    url: https://google.com
+
+docs:
+  - title: 홈페이지 
+    children:
+	- title: "소개"
+	  url: /
+	- title: "경력"
+  	  url: /docs/cv/
+	- title: "참고자료"
+	  url: /docs/resources/
+
+  - title: 방송대 강의
+    children:
+      - title: "1학기, 기술혁신의 경제학"
+        url: /docs/teachings/technological_innovation/
+      - title: "1학기, 서양경제사"
+        url: /docs/teachings/economic_history/
+      - title: "2학기, 경제분석의 역사"
+        url: /docs/teachings/history_of_economic_thought/
+      - title: "2학기, 디지털 경제의 이해"
+        url: /docs/teachings/digital_economy/
+      - title: "2학기, 플랫폼 경제의 이해"
+        url: /docs/teachings/platform_economy/			
+	
+  - title: 방송대 프라임 칼리지 강의
+    children:
+      - title: "1학기, 기술혁신의 경제학"
+        url: /docs/teachings/technological_innovation_prime/
+      - title: "2학기, 디지털 경제의 이해"
+        url: /docs/teachings/digital_economy_prime/
+	
+  - title: 방송대 경영대학원 MBA 경제정책전공
+    children:
+      - title: "1학기, 과학기술 정책의 경제학적 접근"
+        url: /docs/teachings/innvoation_policy/
+	
+  - title: 상담
+    children:
+      - title: "과목 상담"
+        url: /docs/questions/about_teachings/
+      - title: "시험 정답 문의"
+        url: /docs/questions/about_exams/
+      - title: "기타 상담"
+        url: /docs/questions/about_others/
+
+  - title: 교재 정정
+    children:
+      - title: "생활 속의 경제 (2019)"
+        url: /docs/errata/ie-2019-textbook/				

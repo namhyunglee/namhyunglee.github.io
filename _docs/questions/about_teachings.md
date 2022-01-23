@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 #layout: pages
 title: 과목 상담
 date: 2018-09-05T18:04:38+09:00

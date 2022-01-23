@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 #layout: default
 title: 시험 정답 문의
 date: 2018-12-05T23:58:08+09:00

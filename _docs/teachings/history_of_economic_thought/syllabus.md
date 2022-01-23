@@ -1,5 +1,5 @@
 ---
-type: pages
+type: default
 #layout: pages
 title: 경제분석의 역사 (2학기)
 date: 2022-01-23
