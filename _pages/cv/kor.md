@@ -5,6 +5,10 @@ date: 2020-09-03T16:39:25+09:00
 permalink: /cv/kor/
 parent: 경력
 nav_order: 1
+classes: wide
+toc: true
+#toc_label: "경력"
+#toc_icon: "cog"
 ---
 
 # 이남형
