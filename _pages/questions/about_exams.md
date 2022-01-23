@@ -2,7 +2,7 @@
 layout: default
 title: 시험 정답 문의
 date: 2018-12-05T23:58:08+09:00
-permalink: /questions/about_exams/
+permalink: /docs/questions/about_exams/
 parent: 상담
 nav_order: 2
 ---

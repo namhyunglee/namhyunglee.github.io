@@ -2,8 +2,7 @@
 title: '[정정] 생활 속의 경제(2019)'
 date: 2019-09-02T11:11:50+09:00
 layout: pages
-slug: ie-2019-textbook
-permalink: /docs/errata/
+permalink: /docs/errata/ie-2019-textbook/
 categories: errata
 tags: [생활속의 경제, 교재]
 ---

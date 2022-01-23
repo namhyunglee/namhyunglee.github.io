@@ -21,4 +21,4 @@ toc: true
 
 ### 교재 오류/오타 정정
 
-- [생활 속의 경제 (2019)](/docs/_pages/errata/ie-2019-textbook/)
+- [생활 속의 경제 (2019)](/docs/errata/ie-2019-textbook/)

@@ -2,7 +2,7 @@
 layout: default
 title: 기타 상담
 date: 2018-04-11T16:41:08+09:00
-permalink: /questions/about_others/
+permalink: /docs/questions/about_others/
 parent: 상담
 nav_order: 3
 ---
