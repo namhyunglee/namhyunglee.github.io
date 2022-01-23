@@ -1,7 +1,7 @@
 ---
 type: pages
 title: 교재 정정
-date: 2019-12-18T17:32:30+09:00
+date: 2022-01-23
 permalink: /docs/errata/
 collection: errata
 entries_layout: grid

@@ -1,14 +1,13 @@
 ---
 type: pages
-title: 경력
-date: 2020-09-03T16:39:25+09:00
+title: 이남형
+date: 2021-11-03
 permalink: /docs/cv/kor/
 collection: cv
 entries_layout: grid
 toc: true
 ---
 
-# 이남형
 - 한국방송통신대학교 경제학과 
   * 대한민국 서울특별시 종로구 대학로 86 본관 413호 (03087).
 - 이메일: [namhyunglee@knou.ac.kr](mailto:namhyunglee@knou.ac.kr)
@@ -191,5 +190,3 @@ toc: true
 ## 기타
 
 - 군 복무: 대한민국 해군, 중위 전역, 2000년 7월 -- 2003년 6월.
-
---- 최종수정: 2021년 11월 3일 --- 

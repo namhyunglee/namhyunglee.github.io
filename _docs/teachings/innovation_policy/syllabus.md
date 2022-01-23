@@ -2,7 +2,7 @@
 type: pages
 #layout: pages
 title: 과학기술 정책의 경제학적 접근 (MBA, 1학기)
-date: 2018-06-06T07:39:20+09:00
+date: 2022-01-23
 permalink: /docs/teachings/innvoation_policy/
 collection: teachings
 entries_layout: grid

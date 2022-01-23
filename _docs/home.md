@@ -1,7 +1,7 @@
 ---
 type: pages
 title: 소개
-date: 2018-03-23T04:02:17+09:00
+date: 2022-01-23
 permalink: /
 entries_layout: grid
 toc: true

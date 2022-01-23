@@ -1,7 +1,7 @@
 ---
 type: pages
 title: 강의
-date: 2018-03-23T04:03:05+09:00
+date: 2022-01-23
 permalink: /docs/teachings/
 collection: teachings
 entries_layout: grid

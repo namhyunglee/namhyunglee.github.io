@@ -1,7 +1,7 @@
 ---
 type: pages
 title: 상담
-date: 2019-12-18T17:32:30+09:00
+date: 2022-01-23
 permalink: /docs/questions/
 collection: questions
 entries_layout: grid

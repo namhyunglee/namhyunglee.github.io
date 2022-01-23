@@ -2,7 +2,7 @@
 type: pages
 #layout: pages
 title: 디지털 경제의 이해 (프라임 칼리지, 2학기)
-date: 2018-03-23T04:04:22+09:00
+date: 2022-01-23
 permalink: /docs/teachings/digital_economy_prime/
 collection: teachings
 entries_layout: grid

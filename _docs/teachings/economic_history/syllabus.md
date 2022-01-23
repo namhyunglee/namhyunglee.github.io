@@ -2,7 +2,7 @@
 type: pages
 #layout: pages
 title: 서양경제사 (1학기)
-date: 2019-01-16T11:48:40+09:00
+date: 2022-01-23
 permalink: /docs/teachings/economic_history/
 collection: teachings
 entries_layout: grid

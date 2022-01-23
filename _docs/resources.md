@@ -1,7 +1,7 @@
 ---
 type: pages
 title: 참고자료
-date: 2020-02-24T17:04:03+09:00
+date: 2022-01-23
 permalink: /docs/resources/
 collection: resources
 entries_layout: grid

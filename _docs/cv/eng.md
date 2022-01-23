@@ -1,14 +1,13 @@
 ---
 type: pages
-title: Curriculum Vitae
-date: 2020-09-03T17:17:35+09:00
+title: Namhyung Lee
+date: 2021-11-03
 permalink: /docs/cv/eng/
 collection: cv
 entries_layout: grid
 toc: true
 ---
 
-# Namhyung Lee
 - Department of Economics, Korea National Open University 
   * Main Building 413, 86 Daehak-ro, Jongro-gu, Seoul, South Korea, 03087.
 - Email: [namhyunglee@knou.ac.kr](mailto:namhyunglee@knou.ac.kr)
@@ -227,7 +226,3 @@ toc: true
 ## Miscellaneous
 
 - Military Service: in the Republic of Korea Navy, retired as Lieutenant Jr, Jul. 2000--Jun. 2003.
-
-
-
---- Last updated: Nov. 3, 2021 ---

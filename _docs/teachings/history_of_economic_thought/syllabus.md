@@ -2,7 +2,7 @@
 type: pages
 #layout: pages
 title: 경제분석의 역사 (2학기)
-date: 2019-07-12T17:27:58+09:00
+date: 2022-01-23
 permalink: /docs/teachings/history_of_economic_thought/
 collection: teachings
 entries_layout: grid

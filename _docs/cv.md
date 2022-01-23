@@ -1,7 +1,7 @@
 ---
 type: pages
 title: 경력
-date: 2019-12-18T17:32:30+09:00
+date: 2021-11-03
 permalink: /docs/cv/
 collection: cv
 entries_layout: grid

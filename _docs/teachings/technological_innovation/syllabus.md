@@ -2,7 +2,7 @@
 type: pages
 #layout: pages
 title: 기술 혁신의 경제학 (1학기)
-date: 2018-12-07T17:41:17+09:00
+date: 2022-01-23
 permalink: /docs/teachings/technological_innovation/
 collection: teachings
 entries_layout: grid

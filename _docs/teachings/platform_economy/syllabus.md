@@ -2,7 +2,7 @@
 type: pages
 #layout: pages
 title: 플랫폼 경제의 이해 (2학기)
-date: 2021-07-13
+date: 2022-01-23
 permalink: /docs/teachings/platform_economy/
 collection: teachings
 entries_layout: grid
