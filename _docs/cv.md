@@ -10,5 +10,5 @@ toc: true
 
 2021년 11월 3일 현재
 
-- [경력](/docs/cv/kor/)
-- [Curriculum Vitae (in English)](/docs/cv/eng/)
+### [경력](/docs/cv/kor/)
+### [Curriculum Vitae (in English)](/docs/cv/eng/)
