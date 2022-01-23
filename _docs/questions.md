@@ -1,9 +1,11 @@
 ---
-#type: pages
+type: pages
+#layout: pages
 title: 상담
-permalink: /docs/questions/
 date: 2019-12-18T17:32:30+09:00
+permalink: /docs/questions/
 collection: questions
+entries_layout: grid
 toc: true
 
   # _pages

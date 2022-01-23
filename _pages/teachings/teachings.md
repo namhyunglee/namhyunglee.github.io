@@ -1,9 +1,11 @@
 ---
-#type: pages
+type: pages
+#layout: pages
 title: 강의
-permalink: /docs/teachings/
 date: 2018-03-23T04:03:05+09:00
+permalink: /docs/teachings/
 collection: teachings
+entries_layout: grid
 toc: true
 
   # _pages
