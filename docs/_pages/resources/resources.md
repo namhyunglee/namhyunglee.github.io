@@ -1,7 +1,7 @@
 ---
   # _pages
   - scope:
-      path: "/teachings/"
+      path: "/docs/_pages/resources/"
       type: pages
 	  nav_order: 3
 	  has_children: true

@@ -1,7 +1,7 @@
 ---
   # _pages
   - scope:
-      path: "/cv/"
+      path: "/docs/_pages/cv/"
       type: pages
 	#nav_order: 2
 	#has_children: true
@@ -14,5 +14,5 @@
 
 2021년 11월 3일 현재
 
-- [경력](/cv/kor/)
-- [Curriculum Vitae (in English)](/cv/eng/)
+- [경력](/docs/_pages/cv/kor/)
+- [Curriculum Vitae (in English)](/docs/_pages/cv/eng/)

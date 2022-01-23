@@ -1,7 +1,7 @@
 ---
   # _pages
   - scope:
-      path: "/errata/"
+      path: "/docs/_pages/errata/"
       type: pages
 	nav_order: 3
 	has_children: true
@@ -14,4 +14,4 @@
 
 ### 교재 오류/오타 정정
 
-- [생활 속의 경제 (2019)](/posts/errata/ie-2019-textbook/)
+- [생활 속의 경제 (2019)](/docs/_pages/errata/ie-2019-textbook/)
