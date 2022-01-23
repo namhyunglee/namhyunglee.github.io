@@ -27,8 +27,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.namhyunglee.net
 email: namhyunglee@knou.ac.kr
 
-author:
-  name: "이남형"
+#author:
+#  name: "이남형"
 #  avatar: "/assets/images/bio-photo.jpg"
 #  bio: "I am an **amazing** person." # Note: Markdown is allowed
 #  location: "Somewhere"
@@ -59,8 +59,8 @@ author:
 #      url: "https://instagram.com/mmistakes"
 
 #theme: minimal-mistakes-jekyll
-#remote_theme: pmarsceill/just-the-docs
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: pmarsceill/just-the-docs
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 encoding: UTF-8
 
 #permalink: pretty
