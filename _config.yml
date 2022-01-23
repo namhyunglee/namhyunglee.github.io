@@ -36,8 +36,9 @@ email: namhyunglee@knou.ac.kr
 #   linkedin: linkedin_username
 #   weibo: weibo_username
 
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 #remote_theme: pmarsceill/just-the-docs
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 encoding: UTF-8
 
 #permalink: pretty
@@ -122,6 +123,7 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 plugins:
 #  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 compress_html:
   clippings: all
