@@ -12,7 +12,7 @@
 	#date: 2018-03-23T04:02:42+09:00
 title: 경력
 #layout: collection
-permalink: /docs/_pages/cv
+permalink: /docs/_pages/cv/
 #collection: portfolio
 entries_layout: grid
 ---
