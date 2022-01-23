@@ -1,19 +1,19 @@
 ---
   # _pages
-  - scope:
+#  - scope:
 #      permalink: "/docs/_pages/"
-      type: pages
+ #     type: pages
 	#nav_order: 2
 	#has_children: true
 	#has_toc: false
-    values:
-      layout: single
+#    values:
+#      layout: single
 	#title: 경력
 	#date: 2018-03-23T04:02:42+09:00
 title: 경력
-#layout: collection
-permalink: /docs/_pages/cv/
-#collection: portfolio
+layout: collection
+permalink: /cv/
+collection: cv
 entries_layout: grid
 ---
 
