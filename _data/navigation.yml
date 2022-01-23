@@ -28,6 +28,7 @@ docs:
       - title: "참고자료"
         url: /docs/resources/
 
+docs:
   - title: 방송대 강의
     children:
       - title: "1학기, 기술혁신의 경제학"
@@ -40,19 +41,22 @@ docs:
         url: /docs/teachings/digital_economy/
       - title: "2학기, 플랫폼 경제의 이해"
         url: /docs/teachings/platform_economy/			
-		
+
+docs:		
   - title: 방송대 프라임 칼리지 강의
     children:
       - title: "1학기, 기술혁신의 경제학"
         url: /docs/teachings/technological_innovation_prime/
       - title: "2학기, 디지털 경제의 이해"
         url: /docs/teachings/digital_economy_prime/
-		
+
+docs:		
   - title: 방송대 경영대학원 MBA 경제정책전공
     children:
       - title: "1학기, 과학기술 정책의 경제학적 접근"
         url: /docs/teachings/innvoation_policy/
-		
+
+docs:		
   - title: 상담
     children:
       - title: "과목 상담"
@@ -62,6 +66,7 @@ docs:
       - title: "기타 상담"
         url: /docs/questions/about_others/
 
+docs:
   - title: 교재 정정
     children:
       - title: "생활 속의 경제 (2019)"
