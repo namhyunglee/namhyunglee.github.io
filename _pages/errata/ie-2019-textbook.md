@@ -1,10 +1,13 @@
 ---
+type: pages
+#layout: pages
 title: '[정정] 생활 속의 경제(2019)'
 date: 2019-09-02T11:11:50+09:00
-layout: pages
 permalink: /docs/errata/ie-2019-textbook/
-categories: errata
+collection: errata
 tags: [생활속의 경제, 교재]
+entries_layout: grid
+toc: true
 ---
 ## [정정] 생활 속의 경제(2019)
 

@@ -1,9 +1,11 @@
 ---
-#type: pages
+type: pages
+#layout: pages
 title: 참고자료
-permalink: /docs/resources/
 date: 2020-02-24T17:04:03+09:00
+permalink: /docs/resources/
 collection: resources
+entries_layout: grid
 toc: true
 
   # _pages
