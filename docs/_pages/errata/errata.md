@@ -8,7 +8,7 @@
 	has_toc: false
     values:
       layout: single
-	title: 상담
+	title: 교재 오류/오타 정정
 	date: 2019-12-18T17:32:30+09:00
 ---
 
