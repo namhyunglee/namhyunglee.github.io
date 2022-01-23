@@ -1,6 +1,5 @@
 ---
 type: pages
-#layout: pages
 title: 경력
 date: 2019-12-18T17:32:30+09:00
 permalink: /docs/cv/

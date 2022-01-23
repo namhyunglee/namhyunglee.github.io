@@ -1,24 +1,11 @@
 ---
 type: pages
-#layout: pages
 title: 강의
 date: 2018-03-23T04:03:05+09:00
 permalink: /docs/teachings/
 collection: teachings
 entries_layout: grid
 toc: true
-
-  # _pages
-#  - scope:
-#      path: "/docs/_pages/teachings/"
-#      type: pages
-	#  nav_order: 3
-	#  has_children: true
-	#  has_toc: false
-#    values:
-  #    layout: single
-	#  title: 강의
-	 # date: 2018-03-23T04:03:05+09:00
 ---
 
 ### 방송대 경제학과
@@ -42,8 +29,3 @@ toc: true
 ### 방송대 경영대학원 MBA 경제정책전공
 - 1학기
   * [과학기술정책의 경제학적 접근](/docs/teachings/innvoation_policy/)
-  
-  
-    {% comment %}
-    * [2020년 2학기 오리엔테이션](/teachings/innvoation_policy/orientation/)
-    {% endcomment %}
