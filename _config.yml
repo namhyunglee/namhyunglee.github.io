@@ -27,14 +27,36 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.namhyunglee.net
 email: namhyunglee@knou.ac.kr
 
-# # Your social accounts.
-# social:
-#   github: github_username
-#   twitter: twitter_username
-#   facebook: facebook_username
-#   instagram: instagram_username
-#   linkedin: linkedin_username
-#   weibo: weibo_username
+author:
+  name: "이남형"
+#  avatar: "/assets/images/bio-photo.jpg"
+#  bio: "I am an **amazing** person." # Note: Markdown is allowed
+#  location: "Somewhere"
+#  links:
+#    - label: "Made Mistakes"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://mademistakes.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/mmistakes"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/mmistakes"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/mmistakes"
+
+#footer:
+#  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/mmistakes"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/mmistakes"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/mmistakes"
 
 #theme: minimal-mistakes-jekyll
 #remote_theme: pmarsceill/just-the-docs
@@ -117,21 +139,28 @@ color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-115799530-1
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-115799530-1"
+    anonymize_ip: false # default
+	
 plugins:
 #  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
 
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
+defaults:
+   # _posts
+   - scope:
+       path: ""
+       type: posts
+     values:
+       layout: single
+       read_time: true
+       comments: true
+       share: true
+       related: true 
 
 # Exclude from processing.
 # The following items will not be processed, by default.

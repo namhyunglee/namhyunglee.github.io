@@ -1,9 +1,10 @@
 ---
-layout: default
-title: 블로그
-date: 
-permalink: /posts/
-nav_order: 8
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 #has_children: true
 #has_toc: false
 ---

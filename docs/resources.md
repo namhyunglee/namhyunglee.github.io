@@ -1,8 +1,10 @@
 ---
-layout: default
-title: 참고 자료
-date: 2020-02-24T17:04:03+09:00
-nav_order: 5
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 ---
 ### 한국방송통신대학교
 - [대학 포털 홈페이지](https://knou.ac.kr){:target="_blank"}

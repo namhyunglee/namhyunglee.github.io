@@ -1,11 +1,10 @@
 ---
-layout: default
-title: 상담
-date: 2019-12-18T17:32:30+09:00
-permalink: /questions/
-nav_order: 4
-has_children: true
-has_toc: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 ---
 ### 상담
 

@@ -1,11 +1,10 @@
 ---
-layout: default
-title: 교재 정정
-date: 2018-03-23T04:02:42+09:00
-permalink: /errata/
-nav_order: 4
-has_children: false
-has_toc: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 ---
 
 ### 교재 오류/오타 정정

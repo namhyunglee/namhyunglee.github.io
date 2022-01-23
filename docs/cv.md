@@ -1,11 +1,10 @@
 ---
-layout: default
-title: 경력
-date: 2018-03-23T04:02:42+09:00
-permalink: /cv/
-nav_order: 2
-has_children: true
-has_toc: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 ---
 
 2021년 11월 3일 현재

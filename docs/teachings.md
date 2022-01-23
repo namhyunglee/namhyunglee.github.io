@@ -1,11 +1,10 @@
 ---
-layout: default
-title: 강의
-date: 2018-03-23T04:03:05+09:00
-permalink: /teachings/
-nav_order: 3
-has_children: true
-has_toc: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 ---
 
 ### 방송대 경제학과
