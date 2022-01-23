@@ -1,14 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-# 블록체인과 공급망 관리 (공동연구: 정세윤)
-
-
-layout: default
+type: pages
 title: 소개
 date: 2018-03-23T04:02:17+09:00
 permalink: /
-nav_order: 1
+entries_layout: grid
+toc: true
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# 블록체인과 공급망 관리 (공동연구: 정세윤)
 ---
 
 안녕하세요, 이남형입니다.

@@ -1,6 +1,5 @@
 ---
 type: pages
-#layout: pages
 title: 경력
 date: 2020-09-03T16:39:25+09:00
 permalink: /docs/cv/kor/

@@ -1,25 +1,13 @@
 ---
 type: pages
-#layout: pages
 title: 참고자료
 date: 2020-02-24T17:04:03+09:00
 permalink: /docs/resources/
 collection: resources
 entries_layout: grid
 toc: true
-
-  # _pages
-#  - scope:
-#      path: "/docs/_pages/resources/"
-#      type: pages
-	#  nav_order: 3
-	#  has_children: true
-	#  has_toc: false
-    #values:
-     # layout: single
-	  #title: 참고 자료
-	  #date: 2020-02-24T17:04:03+09:00
 ---
+
 ### 한국방송통신대학교
 - [대학 포털 홈페이지](https://knou.ac.kr){:target="_blank"}
 - [강의 홈페이지](https://ucampus.knou.ac.kr/){:target="_blank"}
