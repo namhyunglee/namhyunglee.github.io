@@ -1,8 +1,7 @@
 ---
   # _pages
   - scope:
-      path: ""
-	  permalink: /teachings/
+      path: "/teachings/"
       type: pages
 	  nav_order: 3
 	  has_children: true

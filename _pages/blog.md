@@ -1,8 +1,7 @@
 ---
-  # _pages
+  # _posts
   - scope:
       path: ""
-	  permalink: /_posts/
       type: pages
 	nav_order: 2
 	has_children: true
