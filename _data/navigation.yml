@@ -17,19 +17,3 @@ main:
 #    url: /collection-archive/
 #  - title: "External Link"
 #    url: https://google.com
-
-docs:
-  - title: 홈페이지 
-    children:
-	- title: "소개"
-	  url: /
-	- title: "경력"
-  	  url: /docs/cv/
-	- title: "강의"
-	  url: /docs/teachings/
-	- title: "상담"
-	  url: /docs/questions/
-	- title: "교재 정정"
-	  url: /docs/errata/
-	- title: "참고자료"
-	  url: /docs/resources/
