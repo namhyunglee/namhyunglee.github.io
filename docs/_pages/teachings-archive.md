@@ -1,15 +1,21 @@
 ---
+#type: pages
+title: 강의
+permalink: /docs/_pages/teachings/
+date: 2018-03-23T04:03:05+09:00
+collection: teachings
+
   # _pages
-  - scope:
-      path: "/docs/_pages/teachings/"
-      type: pages
-	  nav_order: 3
-	  has_children: true
-	  has_toc: false
-    values:
-      layout: single
-	  title: 강의
-	  date: 2018-03-23T04:03:05+09:00
+#  - scope:
+#      path: "/docs/_pages/teachings/"
+#      type: pages
+	#  nav_order: 3
+	#  has_children: true
+	#  has_toc: false
+#    values:
+  #    layout: single
+	#  title: 강의
+	 # date: 2018-03-23T04:03:05+09:00
 ---
 
 ### 방송대 경제학과

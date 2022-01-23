@@ -1,20 +1,14 @@
 ---
-  # _pages
-#  - scope:
-#      permalink: "/docs/_pages/"
- #     type: pages
-	#nav_order: 2
-	#has_children: true
-	#has_toc: false
-#    values:
-#      layout: single
-	#title: 경력
-	#date: 2018-03-23T04:02:42+09:00
-title: 경력
-layout: collection
-permalink: /cv/
+#type: pages
+title: 교재 오류/오타 정정
+permalink: /docs/_pages/cv/
+date: 2019-12-18T17:32:30+09:00
 collection: cv
-entries_layout: grid
+
+#layout: pages
+#permalink: /cv/
+#collection: cv
+#entries_layout: grid
 ---
 
 2021년 11월 3일 현재

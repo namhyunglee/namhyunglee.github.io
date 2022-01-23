@@ -1,15 +1,21 @@
 ---
+#type: pages
+title: 상담
+permalink: /docs/_pages/questions/
+date: 2019-12-18T17:32:30+09:00
+collection: questions
+
   # _pages
-  - scope:
-      path: "/docs/_pages/questions/"
-      type: pages
-	nav_order: 3
-	has_children: true
-	has_toc: false
-    values:
-      layout: single
-	title: 상담
-	date: 2019-12-18T17:32:30+09:00
+#  - scope:
+#      permalink: "/docs/_pages/questions/"
+  #    type: pages
+	#nav_order: 3
+	#has_children: true
+	#has_toc: false
+    #values:
+     # layout: single
+	#title: 상담
+	#date: 2019-12-18T17:32:30+09:00
 ---
 ### 상담
 
