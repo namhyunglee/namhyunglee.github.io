@@ -10,8 +10,8 @@ toc: true
 
 ### 방송대 경제학과
 - 1학기 
-  * [서양 경제사](/docs/teachings/economic_history/)
   * [기술 혁신의 경제학](/docs/teachings/technological_innovation/)
+  * [서양 경제사](/docs/teachings/economic_history/)
 
 - 2학기 
   * [경제분석의 역사](/docs/teachings/history_of_economic_thought/)

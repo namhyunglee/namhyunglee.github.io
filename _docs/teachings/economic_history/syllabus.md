@@ -1,7 +1,7 @@
 ---
 type: pages
 #layout: pages
-title: 서양경제사 (1학기)
+title: 서양경제사 - 장기 경제 성장과 금융제도의 진화 (1학기)
 date: 2022-01-23
 permalink: /docs/teachings/economic_history/
 collection: teachings
@@ -11,7 +11,7 @@ toc: true
 #nav_order: 1
 ---
 
-## 서양경제사: 장기 경제 성장과 금융제도의 진화 (Economic history of western world: a long-run economic growth and an evolution of financial institutions)
+##  Economic history of western world: a long-run economic growth and an evolution of financial institutions
 
 ### 강의 홈페이지
 

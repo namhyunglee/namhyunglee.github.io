@@ -11,7 +11,7 @@ toc: true
 #nav_order: 7
 ---
 
-## 플랫폼 경제의 이해 (Understanding Platform Economy)
+## Understanding Platform Economy
 
 ### 강의 홈페이지
 
