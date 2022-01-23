@@ -11,9 +11,7 @@ toc: true
 #nav_order: 7
 ---
 
-## 기술 혁신의 경제학
-
-### Economics of Technological Innovation
+## 기술 혁신의 경제학 (Economics of Technological Innovation)
 
 ### 강의 개요
 

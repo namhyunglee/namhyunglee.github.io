@@ -11,11 +11,10 @@ toc: true
 #nav_order: 3
 ---
 
-## 경제 분석의 역사
+## 경제 분석의 역사 (History of Economic Analysis)
 
-### History of Economic Analysis
-
-강의 홈페이지: [U-KNOU 캠퍼스, 경제분석의 역사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1331001&cntsId=KNOU1331)
+### 강의 홈페이지
+[U-KNOU 캠퍼스, 경제분석의 역사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1331001&cntsId=KNOU1331)
 
 
 ### 강의 개요

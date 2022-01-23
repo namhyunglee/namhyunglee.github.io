@@ -11,11 +11,11 @@ toc: true
 #nav_order: 7
 ---
 
-## 기술 혁신의 경제학
+## 기술 혁신의 경제학 (Economics of Technological Innovation)
 
-### Economics of Technological Innovation
+### 강의 홈페이지
 
-강의 홈페이지: [U-KNOU 캠퍼스, 기술혁신의 경제학](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1230001&cntsId=KNOU1230)
+[U-KNOU 캠퍼스, 기술혁신의 경제학](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1230001&cntsId=KNOU1230)
 
 ### 강의 개요
 

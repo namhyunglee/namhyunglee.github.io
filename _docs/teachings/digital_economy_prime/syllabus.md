@@ -11,9 +11,7 @@ toc: true
 #nav_order: 6
 ---
 
-## 디지털 경제의 이해: 시장 구조, 가격, 그리고 전략
-
-### Understanding digital economy: market structure, pricing, and strategy
+## 디지털 경제의 이해: 시장 구조, 가격, 그리고 전략 (Understanding digital economy: market structure, pricing, and strategy)
 
 ### 강의 개요
 이 강의는 디지털 기술이 경제에 미치는 영향을 크게 두 부분에서 다루고자 한다. 

@@ -11,9 +11,7 @@ toc: true
 #nav_order: 7
 ---
 
-## 과학기술정책의 경제학적 접근
-
-### Economics of science and technology policy
+## 과학기술정책의 경제학적 접근 (Economics of science and technology policy)
 
 ### 강의 개요
 
