@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "이남형"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "방송통신대학교 경제학과 조교수" # site tagline that appears below site title in masthead
 name                     : #"Your Name"
 description              : "방송통신대학교 경제학과 조교수"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
