@@ -1,9 +1,10 @@
 ---
 #type: pages
 title: 상담
-permalink: /questions-archive/
+permalink: /docs/questions/
 date: 2019-12-18T17:32:30+09:00
 collection: questions
+toc: true
 
   # _pages
 #  - scope:
