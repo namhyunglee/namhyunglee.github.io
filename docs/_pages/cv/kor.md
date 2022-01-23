@@ -2,7 +2,7 @@
 layout: default
 title: 경력
 date: 2020-09-03T16:39:25+09:00
-permalink: /docs/_pages/cv/
+permalink: /docs/cv/
 parent: 경력
 nav_order: 1
 classes: wide
