@@ -25,6 +25,8 @@ docs:
         url: /
       - title: "경력"
         url: /docs/cv/
+      - title: "강의"
+        url: /docs/teachings/
       - title: "상담"
         url: /docs/questions/
       - title: "교재 정정"
