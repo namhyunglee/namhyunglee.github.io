@@ -2,9 +2,15 @@
   # _pages
   - scope:
       path: ""
+	  permalink: /teachings/
       type: pages
+	  nav_order: 3
+	  has_children: true
+	  has_toc: false
     values:
       layout: single
+	  title: 강의
+	  date: 2018-03-23T04:03:05+09:00
 ---
 
 ### 방송대 경제학과

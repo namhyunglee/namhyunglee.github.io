@@ -2,11 +2,15 @@
   # _pages
   - scope:
       path: ""
+	  permalink: /_posts/
       type: pages
+	nav_order: 2
+	has_children: true
+	has_toc: false
     values:
       layout: single
-#has_children: true
-#has_toc: false
+	title: 블로그
+	date: 2018-03-23T04:02:42+09:00
 ---
 
 ### 블로그
