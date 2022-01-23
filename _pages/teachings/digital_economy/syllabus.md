@@ -1,12 +1,18 @@
 ---
-layout: default
+type: pages
+#layout: pages
 title: 디지털 경제의 이해 (2학기)
 date: 2018-03-23T04:04:22+09:00
-permalink: /teachings/digital_economy/
-parent: 강의
-nav_order: 4
+permalink: /docs/teachings/digital_economy/
+collection: teachings
+entries_layout: grid
+toc: true
+#parent: 강의
+#nav_order: 4
 ---
+
 ## 디지털 경제의 이해: 시장 구조, 가격, 그리고 전략
+
 ### Understanding digital economy: market structure, pricing, and strategy
 
 강의 홈페이지: [U-KNOU 캠퍼스, 디지털 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU0911001&cntsId=KNOU0911)

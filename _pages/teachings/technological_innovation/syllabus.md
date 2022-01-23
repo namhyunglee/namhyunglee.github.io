@@ -1,13 +1,18 @@
 ---
-layout: default
+type: pages
+#layout: pages
 title: 기술 혁신의 경제학 (1학기)
 date: 2018-12-07T17:41:17+09:00
-permalink: /teachings/technological_innovation/
-parent: 강의
-nav_order: 2
+permalink: /docs/teachings/technological_innovation/
+collection: teachings
+entries_layout: grid
+toc: true
+#parent: 강의
+#nav_order: 7
 ---
 
 ## 기술 혁신의 경제학
+
 ### Economics of Technological Innovation
 
 강의 홈페이지: [U-KNOU 캠퍼스, 기술혁신의 경제학](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1230001&cntsId=KNOU1230)

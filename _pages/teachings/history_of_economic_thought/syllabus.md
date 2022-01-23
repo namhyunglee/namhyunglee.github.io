@@ -1,13 +1,18 @@
 ---
-layout: default
+type: pages
+#layout: pages
 title: 경제분석의 역사 (2학기)
 date: 2019-07-12T17:27:58+09:00
-permalink: /teachings/history_of_economic_thought/
-parent: 강의
-nav_order: 3
+permalink: /docs/teachings/history_of_economic_thought/
+collection: teachings
+entries_layout: grid
+toc: true
+#parent: 강의
+#nav_order: 3
 ---
 
 ## 경제 분석의 역사
+
 ### History of Economic Analysis
 
 강의 홈페이지: [U-KNOU 캠퍼스, 경제분석의 역사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1331001&cntsId=KNOU1331)

@@ -1,13 +1,18 @@
 ---
-layout: default
+type: pages
+#layout: pages
 title: 디지털 경제의 이해 (프라임 칼리지, 2학기)
 date: 2018-03-23T04:04:22+09:00
-permalink: /teachings/digital_economy_prime/
-parent: 강의
-nav_order: 6
+permalink: /docs/teachings/digital_economy_prime/
+collection: teachings
+entries_layout: grid
+toc: true
+#parent: 강의
+#nav_order: 6
 ---
 
 ## 디지털 경제의 이해: 시장 구조, 가격, 그리고 전략
+
 ### Understanding digital economy: market structure, pricing, and strategy
 
 ### 강의 개요

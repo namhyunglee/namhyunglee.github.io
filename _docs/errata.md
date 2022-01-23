@@ -1,9 +1,11 @@
 ---
-#type: pages
+type: pages
+#layout: pages
 title: 교재 오류/오타 정정
-permalink: /docs/errata/
 date: 2019-12-18T17:32:30+09:00
+permalink: /docs/errata/
 collection: errata
+entries_layout: grid
 toc: true
 
   # _pages

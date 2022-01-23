@@ -1,14 +1,18 @@
 ---
-layout: default
+type: pages
+#layout: pages
 title: 과학기술 정책의 경제학적 접근 (MBA, 1학기)
 date: 2018-06-06T07:39:20+09:00
-author: 이남형
-permalink: /teachings/innvoation_policy/
-parent: 강의
-nav_order: 7
+permalink: /docs/teachings/innvoation_policy/
+collection: teachings
+entries_layout: grid
+toc: true
+#parent: 강의
+#nav_order: 7
 ---
 
 ## 과학기술정책의 경제학적 접근
+
 ### Economics of science and technology policy
 
 ### 강의 개요

@@ -1,10 +1,14 @@
 ---
-layout: default
+type: pages
+#layout: pages
 title: 서양경제사 (1학기)
 date: 2019-01-16T11:48:40+09:00
-permalink: /teachings/economic_history/
-parent: 강의
-nav_order: 1
+permalink: /docs/teachings/economic_history/
+collection: teachings
+entries_layout: grid
+toc: true
+#parent: 강의
+#nav_order: 1
 ---
 
 ## 서양경제사: 장기 경제 성장과 금융제도의 진화

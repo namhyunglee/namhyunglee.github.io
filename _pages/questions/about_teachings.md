@@ -3,9 +3,8 @@ type: pages
 #layout: pages
 title: 과목 상담
 date: 2018-09-05T18:04:38+09:00
-layout: page
 permalink: /docs/questions/about_teachings/
-collection: cv
+collection: questions
 entries_layout: grid
 toc: true
 ---

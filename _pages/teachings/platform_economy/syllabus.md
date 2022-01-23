@@ -1,13 +1,18 @@
 ---
-layout: default
+type: pages
+#layout: pages
 title: 플랫폼 경제의 이해 (2학기)
 date: 2021-07-13
-permalink: /teachings/platform_economy/
-parent: 강의
-nav_order: 4
+permalink: /docs/teachings/platform_economy/
+collection: teachings
+entries_layout: grid
+toc: true
+#parent: 강의
+#nav_order: 7
 ---
 
 ## 플랫폼 경제의 이해 
+
 ### Understanding Platform Economy
 
 강의 홈페이지: [U-KNOU 캠퍼스, 플랫폼 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1716001&cntsId=KNOU1716)

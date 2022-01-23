@@ -1,13 +1,18 @@
 ---
-layout: default
+type: pages
+#layout: pages
 title: 기술 혁신의 경제학 (프라임 칼리지, 1학기)
 date: 2018-12-07T17:41:17+09:00
-permalink: /teachings/technological_innovation_prime/
-parent: 강의
-nav_order: 5
+permalink: /docs/teachings/technological_innovation_prime/
+collection: teachings
+entries_layout: grid
+toc: true
+#parent: 강의
+#nav_order: 7
 ---
 
 ## 기술 혁신의 경제학
+
 ### Economics of Technological Innovation
 
 ### 강의 개요
