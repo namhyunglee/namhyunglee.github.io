@@ -1,10 +1,12 @@
 ---
-layout: default
+type: pages
+#layout: pages
 title: Curriculum Vitae
 date: 2020-09-03T17:17:35+09:00
 permalink: /docs/cv/
-parent: 경력
-nav_order: 2
+collection: cv
+entries_layout: grid
+toc: true
 ---
 
 # Namhyung Lee

@@ -1,14 +1,12 @@
 ---
-layout: default
+type: pages
+#layout: pages
 title: 경력
 date: 2020-09-03T16:39:25+09:00
 permalink: /docs/cv/
-parent: 경력
-nav_order: 1
-classes: wide
+collection: cv
+entries_layout: grid
 toc: true
-#toc_label: "경력"
-#toc_icon: "cog"
 ---
 
 # 이남형
