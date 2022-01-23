@@ -1,3 +1,19 @@
+main:
+  - title: "경력"
+    url: /docs/cv/
+  - title: "강의"
+    url: /docs/teachings/
+  - title: "상담"
+    url: /docs/questions/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "Pages"
+#    url: /page-archive/
+#  - title: "Collections"
+#    url: /collection-archive/
+#  - title: "External Link"
+#    url: https://google.com
+
 docs:
   - title: Getting Started
     children:
