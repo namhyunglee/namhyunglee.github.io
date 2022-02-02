@@ -68,8 +68,9 @@ toc: true
 
 
 
-### Newspaper, Magazines, etc.
+### Newspaper, Magazines, Book Reviews, etc.
 
+- "Worldly Philosopher", <em> Review of Economic History </em>, 45(2), 365--370, 2021.
 - "U.S. Veterans Policy", <em>Research on Veterans Policy</em>, Korea Education and Research Institute for Patriots &amp; Veterans, 4(1), 81--118, 2015.
 - "The Concept of Creative Economy and Related Policies in U.K. and Japan", <em>Expressway</em>, Korea Expressway Corporation, 80, 8--16, 2013.
 
