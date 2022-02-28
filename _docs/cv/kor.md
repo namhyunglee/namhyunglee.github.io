@@ -1,7 +1,7 @@
 ---
 type: default
 title: 이남형
-date: 2021-11-03
+date: 2022-02-28
 permalink: /docs/cv/kor/
 collection: cv
 entries_layout: grid
@@ -34,6 +34,7 @@ toc: true
 ## 연구
 
 ### 연구 논문
+- 신우진, 이남형, 2022, 「온라인 학습 행태와 사회경제적 배경이 학업성취도에 미치는 영향: 성인 학습자의 경제학 개론 녹화 동영상 강의 시청을 중심으로」, 『평생학습사회』, 18(1). [203--239.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002811754){:target="_blank"}
 - 신우진, 이남형, 2020, 「한 번도 보지 않거나 앞 장만 손때가 묻은 교과서: 성인 학습자의 온라인 경제학 강의 시청 행동」, 『교육정보미디어연구』, 26(4). [955--984.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002662948){:target="_blank"}
 - 백종성, 이남형, 2019, 「왜 버찌씨를 받을까?: 하이에크 경쟁 화폐 이론의 재구성」, 『질서경제저널』, 22(1). [151--166.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002453631){:target="_blank"}
 - 신우진, 이남형, 2018, 「온라인 기반 경제학 교육의 학업 성적 분석: 기초 공통 과목과 성인 학습자의 성별을 중심으로」, 『시민교육연구』, 50(3). [181--202.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002390777){:target="_blank"}

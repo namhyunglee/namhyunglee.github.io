@@ -1,7 +1,7 @@
 ---
 type: default
 title: Namhyung Lee
-date: 2021-11-03
+date: 2022-02-28
 permalink: /docs/cv/eng/
 collection: cv
 entries_layout: grid
@@ -35,7 +35,7 @@ toc: true
 ## Research
 
 ### Articles
-
+- Shin, Woojin and Lee, Namhyung, 2022, "The Effects of Online Learning Behavior and Socioeconomic Backgrounds on the Students’ Achievement: Based on the LMS Logs of Adult Learners’ Introductory Economic Course", <em> Journal of Lifelong Learning Society </em>, 18(1), [203--239.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002811754){:target="_blank"}
 - Shin, Woojin and Lee, Namhyung, 2020, "A Textbook without being read or with hand stains only on the front pages: Adult learners’ watching behavior of recorded economics video lectures", <em>Journal of Korean Association for Educational Information and Media</em>, 26(4), [955--984.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002662948){:target="_blank"}
 - Baek, Jongsung and Lee, Namhyung, 2019, "Why do people accept cherry stone?: Reconstruction of Hayek's money competition," <em>Ordo Economics Journal</em>, 22(1), [151--166.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002453631){:target="_blank"}
 - Shin, Woojin and Lee, Namhyung, 2018, "Analysis of Academic Achievement in Online-based Economics Education: Focusing on Basic Courses and Gender of Adult Learners", <em>Theory and Research in Citizenship Education</em>, 50(3), [181--202.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002390777){:target="_blank"}
