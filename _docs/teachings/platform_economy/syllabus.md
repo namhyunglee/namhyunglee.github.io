@@ -42,7 +42,7 @@ toc: true
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, U-KNOU 홈페이지 자료실에 강의안과 프리젠테이션이 업로드 된다(2021년 2학기 Ver. 1.0 예정).
+강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 과목 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1716001&cntsId=KNOU1716) 자료실에 강의안 파일이 업로드 되어 있다.
 
 ### 참고 도서
 
@@ -88,5 +88,5 @@ U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
 또는
 
 2. U-KNOU 캠퍼스 홈페이지 [https://ucampus.knou.ac.kr/](https://www.knou.ac.kr) 로그인 
-→ 학습목록에서 "플랫폼 경제의 이해” 선택
-→  '강의자료실’ 선택
+→ 학습목록에서 "플랫폼 경제의 이해" 선택
+→  '강의자료실' 선택

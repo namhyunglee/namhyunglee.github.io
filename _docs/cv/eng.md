@@ -1,7 +1,7 @@
 ---
 type: default
 title: Namhyung Lee
-date: 2022-02-28
+date: 2022-07-02
 permalink: /docs/cv/eng/
 collection: cv
 entries_layout: grid
@@ -41,7 +41,7 @@ toc: true
 - Shin, Woojin and Lee, Namhyung, 2018, "Analysis of Academic Achievement in Online-based Economics Education: Focusing on Basic Courses and Gender of Adult Learners", <em>Theory and Research in Citizenship Education</em>, 50(3), [181--202.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002390777){:target="_blank"}
 - Choi, Eunju and Lee, Namhyung, 2017, "A Historical Path of North Korea's Trade Institution: based on Europe's pasts", <em>SA-CHONG</em>, (92), [153--206.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002269721){:target="_blank"}
 - Lee, Namhyung and Joonil Kim, 2016, "The knowns and the unknowns about open source software: history, industrial organization and policy implications", <em>The Korean Journal of Economic Studies</em>, 64(2), [127--166.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002117779){:target="_blank"}
-- Lee, Namhyung, Namun Cho, Youngjun Kang, Ahmi Kim, and Euncheol Choi, 2016, "Public R&amp;D Expenditure Framework and Dynamics of Technology Enhancement: Based on the Agent-Based Simulation", <em>The Journal of Business and Economics</em>, 32(2), [227--255.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002118543){:target="_blank"}
+- Lee, Namhyung, Namun Cho, Youngjun Kang, Ahmi Kim, and Euncheol Choi, 2016, "Public R&D Expenditure Framework and Dynamics of Technology Enhancement: Based on the Agent-Based Simulation", <em>The Journal of Business and Economics</em>, 32(2), [227--255.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002118543){:target="_blank"}
 - Lee, Namhyung, Sangsoo Park, Inchul Bae and Chungki Lee, 2016, "Contingent Valuation of Wildlife-Vehicle Collision Prevention Projects", <em>Journal of Environmental Impact Assessment</em>, 25(1), [1--14.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002084602){:target="_blank"}
 
 
@@ -60,7 +60,7 @@ toc: true
 - National Assembly Budget Office, "France's Fiscal Decentralization", <em>Current status and implications of financial decentralization in major countries</em>, Ch. 5, Seoul, 2018.
 - National Assembly Budget Office, "Characteristics and introduction of smart factory: focusing on foreign countries", <em>A Study on the Effect of Smart Factory Introduction on Employment: focusing on foreign case</em>s, Ch. 3, Seoul, 2018.
 - National Assembly Budget Office, "Current status of National and Regional Financial Assistance of Social Welfare State Support Project", <em>Analysis of Local Finance Burden Due to Expansion of Large-scale State-aid Welfare Project</em>, Ch. 2, Seoul, 2017.
-- Korea Education and Research Institute for Patriots &amp; Veterans, "A comparison of old veterans' care services in South Korea, Australia, Canada, and the U.S. and their implications", <em>Evaluation and policy issues on elderly veterans care services</em>, Ch. 3, Suwon, 2014.
+- Korea Education and Research Institute for Patriots & Veterans, "A comparison of old veterans' care services in South Korea, Australia, Canada, and the U.S. and their implications", <em>Evaluation and policy issues on elderly veterans care services</em>, Ch. 3, Suwon, 2014.
 - Korea Expressway Corporation Research Institute and Institute of Economic Research, "The principles of economic evaluation of highway environmental improvement", <em>A Study on the Evaluation of Highway Environmental Improvement</em>, Ch. 4, Seoul, 2011.
 - Korea Expressway Corporation Research Institute and Institute of Economic Research, "A comparison of environmental indices and economic valuation in South Korea, Canada, E.U., and the U.S.", <em>A Study on the Evaluation of Highway Environmental Improvement</em>, Ch. 5, Seoul, 2011.
 - POSCO Research Institute and Institute of Economic Research, "CEO succession programs", <em>A Current Status of Corporate Governance in South Korea and its reformation</em>, Offprint Appendix, Seoul, 2011.
@@ -71,17 +71,18 @@ toc: true
 ### Newspaper, Magazines, Book Reviews, etc.
 
 - "Worldly Philosopher", <em> Review of Economic History </em>, 45(2), 365--370, 2021.
-- "U.S. Veterans Policy", <em>Research on Veterans Policy</em>, Korea Education and Research Institute for Patriots &amp; Veterans, 4(1), 81--118, 2015.
+- "U.S. Veterans Policy", <em>Research on Veterans Policy</em>, Korea Education and Research Institute for Patriots & Veterans, 4(1), 81--118, 2015.
 - "The Concept of Creative Economy and Related Policies in U.K. and Japan", <em>Expressway</em>, Korea Expressway Corporation, 80, 8--16, 2013.
 
 
 
 ### Conference and Seminar Presentations
 
+- "Recent Studies on Neo-liberalism: International Monetary Regime" (written in Korean). 2022 KAPEA Spring Conferences, Korea National Open University, Seoul, South Korea, May 20, 2022.
 - "Who does play video games? Socio-economic backgrounds of adult gamers" (co-authored with Munseok Cho: written in Korean). 2019 The Korean Association for Survey Research Fall Conference, Korea Chamber of Commerce and Industry, Seoul, South Korea, Nov. 11, 2019.
 - "Why do people accept cherry stone?: Reconstruction of the theory of the money and implication for the criptocurrency" (co-authored with Baek Jongsung: written in Korean). 2011 Economics Joint Conference, Chuang Ang University, Seoul, South Korea, Feb. 10--11, 2011.
 - "Analysis of effects of shared economy on finances". 2018 The Korean Association of Public Policy Summer Conference, Hannam University, Daejeon, Jun. 29, 2018.
-- "Public R&amp;D Expenditure Framework and Dynamics of Technology Enhancement: Based on the Agent-Based Simulation" (co-authored with Cho Nam-un, Kang Youngjun, Kim Ahmi, Choi Euncheol). 2015 The Korean Association for Political Economy Fall Conference, Franciscan Education Center, Seoul, Nov. 20, 2015; 2015 The Korean Association of Public Policy Summer Conference, Kyungpook National University, Daegu, South Korea, Jun. 26, 2015.
+- "Public R&D Expenditure Framework and Dynamics of Technology Enhancement: Based on the Agent-Based Simulation" (co-authored with Cho Nam-un, Kang Youngjun, Kim Ahmi, Choi Euncheol). 2015 The Korean Association for Political Economy Fall Conference, Franciscan Education Center, Seoul, Nov. 20, 2015; 2015 The Korean Association of Public Policy Summer Conference, Kyungpook National University, Daegu, South Korea, Jun. 26, 2015.
 - "The Economic Valuation of Wildlife Collision Prevention Projects on the Korean Highways - Measuring WTP on Fauna Crossings and Fences by using CVM" (co-authored with Bae Inchul, Lee Chungki). Korean Society of Environmental Impact Assessment 2014 Fall Conference, Seoul National University Pyeongchang Campus, Gangwon, South Korea, Oct. 1--3, 2014.
 - "Dynamics of license regime: the case of open source software development". 2012 KAPEA Summer Conferences, Chungnam Development Institute, Gongju, South Korea, Jul. 6--7, 2012.
 - "PoA analysis on optimal price of privatized freeway toll fees" (co-authored with Cho Nam-un and Kim Kyun: written in Korean). 2011 Economics Joint Conference, Chuang Ang University, Seoul, South Korea, Feb. 10--11, 2011.
@@ -114,7 +115,7 @@ toc: true
 
 
 
-## Honors, Awards, &amp; Fellowships
+## Honors, Awards, & Fellowships
 
 - Fellowship, Research Support for Academic Seminar, Korea University Graduate School, Spring 2016.
 - Fellowship, Research Support, Korea University Graduate School, Spring 2016.
@@ -138,14 +139,15 @@ toc: true
 
 
 
-- Assistant Professor, Economic history of western world: long-run economic growth and evolution of financial institutions, Spring 2019 -- current.
-- -------------------------, Economics of Technological Innovation, Spring 2019 -- current.
-- -------------------------, History of Economic Analysis, Fall 2019 -- current.
-- -------------------------, Understanding digital economy: market structure, pricing, and strategy, Fall 2018 -- current.
+- Assistant Professor, Understanding Platform Economy, Fall 2021 -- Current.
+- -------------------------, Economic history of western world: long-run economic growth and evolution of financial institutions, Spring 2019 -- Current.
+- -------------------------, Economics of Technological Innovation, Spring 2019 -- Current.
+- -------------------------, History of Economic Analysis, Fall 2019 -- Current.
+- -------------------------, Understanding Digital Economy: Market Structure, Pricing, and Strategy, Fall 2018 -- Current.
 
 
 
-### College of Economics &amp; Finance, Hanyang University
+### College of Economics & Finance, Hanyang University
 
 - Part-time lecturer, Introduction to Economics, Summer 2017.
 - ------------------------, World Economy and Korean Prospect, Spring 2017.

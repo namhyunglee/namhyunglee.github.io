@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 경제분석의 역사 (2학기)
-date: 2022-01-23
+date: 2022-07-02
 permalink: /docs/teachings/history_of_economic_thought/
 collection: teachings
 entries_layout: grid
@@ -18,13 +18,11 @@ toc: true
 
 
 ### 강의 개요
-이 강의에서는 경제학의 중요한 개념이 어디에서 비롯되었고, 그 내용은 무엇이며, 또 어떻게 변해왔는지를 훑어 본다. 
+이 강의에서는 경제학의 중요한 개념이 어떻게 제시되었고, 그 내용은 무엇이며, 또 어떻게 변해왔는지를 훑어 본다. 
 
 과거의 경제 이론에 대한 이해를 돕기 위해, 배경이 되는 역사적 사건도 간략하게 다룬다. 
 
 또한 현대 경제학과 과거의 경제학이 어떻게 연결되는 지도 설명하고자 한다. 
-
-하지만, 모든 경제학자의 아이디어를 다룰 수는 없으며, 특히 맑스 경제학과 제도 경제학이 빠져 있다.
 
 
 ### 강의 목표
@@ -49,8 +47,7 @@ toc: true
 
 ### 강의 교재
 
-
-강의안으로 수업을 진행하며, U-KNOU 홈페이지 자료실에 강의안과 프리젠테이션이 업로드 되어 있다.
+강의안으로 수업을 진행하며, [U-KNOU 홈페이지 자료실](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1331001&cntsId=KNOU1331)에 강의안과 프리젠테이션이 업로드 되어 있다.
 
 
 ### 참고 도서
@@ -61,18 +58,17 @@ toc: true
   * Niall Kishtainy, 2018, <em>A Little History of Economics</em>, Yale University Press.
 - 로버트 하일브로너/장상환 옮김, 『세속의 철학자들』, 이마고. 
   - Robert Heilbroner, 1999, <em>The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers</em>, 7th ed., Touchstone Books.
-- Roger E. Backhouse and Keith Tribe, 2017, <em>The History of Economics: A course for students and teachers</em>, Agenda publishing.
-- Heinz Kurz and Jeremiah Riemer, 2017, <em>Economic Thought: A Brief History</em>, Columbia University Press.
-- Henry William Spiegel, 1991, <em>The Growth of Economic Thought</em>, Duke University Press.
+- Backhouse, Roger E. and Keith Tribe, 2017, <em>The History of Economics: A course for students and teachers</em>, Agenda publishing.
+- Ekelund, Jr., Robert B. and Robert F. Hébert, <em>A History of Economic Theory & Method</em>, Waveland Press. 
+- Kurz, Heinz and Jeremiah Riemer, 2017, <em>Economic Thought: A Brief History</em>, Columbia University Press.
+- Spiegel, Henry William, 1991, <em>The Growth of Economic Thought</em>, Duke University Press.
 
 
 ### 강의 구성
 
 - 경제학 방법론
-- 경제학과 모형
 - 애덤 스미스
-- 맬서스와 리카도
-- 존 스튜어트 밀
+- 맬서스, 리카도, 존 스튜어트 밀
 - 한계효용의 선구자, 제번스, 에지워스
 - 멩거와 오스트리아 학파
 - 발라스와 로잔 학파
@@ -80,7 +76,9 @@ toc: true
 - 케인즈 
 - 슘페터
 - 하이에크
-- 폰 노이만과 존 내쉬
+- 폰 노이만과 존 내시, 라그나르 프리쉬
+- 제임스 뷰캐넌
+- 버논 스미스와 다니엘 카네만
 
 ### 기타: 상세 강의계획서, 연습문제, 과제 관련 자료 등
 U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
@@ -96,5 +94,5 @@ U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
 또는
 
 2. U-KNOU 캠퍼스 홈페이지 [https://ucampus.knou.ac.kr/](https://www.knou.ac.kr) 로그인 
-→ 학습목록에서 "경제분석의 역사” 선택
-→  '강의자료실’ 선택
+→ 학습목록에서 "경제분석의 역사" 선택
+→  '강의자료실' 선택

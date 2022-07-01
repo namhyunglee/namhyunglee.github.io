@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 서양경제사 - 장기 경제 성장과 금융제도의 진화 (1학기)
-date: 2022-01-23
+date: 2022-07-02
 permalink: /docs/teachings/economic_history/
 collection: teachings
 entries_layout: grid
@@ -19,9 +19,9 @@ toc: true
 
 ### 강의 개요
 
-이 강의에서는 19세기 이후 전세계에서 나타나는 괄목할만한 경제 성장의 역사 중 서유럽의 성장사에 초점을 맞추며, 특히 자본주의 시스템의 성격과 변화를 설명하고자 한다.
+이 강의에서는 19세기 이후 서유럽의 성장사에 초점을 맞추며, 특히 자본주의 시스템의 성격과 변화를 설명하고자 한다. 
 
-세부적으로는 중세 유럽 경제의 특징, 영국 산업혁명의 원인과 결과, 19세기 유럽 대륙의 산업화와 근대적 경제성장, 세계화와 불평등, 그리고 11세기 이후 금융제도의 형성을 다룬다.
+세부적으로는 중세 유럽 경제의 특징, 영국 산업혁명의 원인과 결과, 19세기 유럽 대륙의 산업화와 근대적 경제성장, 세계화와 불평등, 그리고 11세기 이후 금융제도의 형성을 다룬다. 
 
 ### 강의 목표
 
@@ -40,7 +40,7 @@ toc: true
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 과목 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231) 자료실에 강의안 파일이 업로드 되어 있다(2022년 1학기 현재 Ver. 2.2).
+강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 과목 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231) 자료실에 강의안 파일이 업로드 되어 있다.
 
 ### 참고 도서
 
@@ -57,6 +57,7 @@ toc: true
   * William Quinn and John D. Turner, 2020, *Boom and Bust: A Global History of Financial Bubbles*, Cambridge University Press.
 - 팀 하포드/박세연 옮김, 2018, 『팀 하포드의 경제학 팟캐스트: 현대 경제를 만든 50가지 생각들』, 세종서적. 
   * Tim Harford, 2017, <em>Fifty Inventions That Shaped the Modern Economy</em>, Riverhead Books.
+- Koyama, Mark and Jared Rubin, 2022, <em>How The World Became Rich: The Historical Origins of Economic Growth</em>, Polity.  
 
 ### 강의 구성
 
@@ -91,5 +92,5 @@ U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
 또는
 
 2. U-KNOU 캠퍼스 홈페이지 [https://ucampus.knou.ac.kr/](https://www.knou.ac.kr) 로그인 
-   → 학습목록에서 "서양경제사” 선택
-   →  '강의자료실’ 선택
+   → 학습목록에서 "서양경제사" 선택
+   →  '강의자료실' 선택
