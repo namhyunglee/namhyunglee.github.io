@@ -8,7 +8,7 @@ entries_layout: grid
 toc: true
 ---
 
-2022년 2월 28일 현재
+2022년 7월 2일 현재
 
 ### [경력](/docs/cv/kor/)
 ### [Curriculum Vitae (in English)](/docs/cv/eng/)
