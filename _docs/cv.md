@@ -1,7 +1,7 @@
 ---
 type: default
 title: 경력
-date: 2022-02-28
+date: 2022-07-02
 permalink: /docs/cv/
 collection: cv
 entries_layout: grid
