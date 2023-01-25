@@ -14,7 +14,7 @@ toc: true
 ## History of Economic Analysis
 
 ### 강의 홈페이지
-[U-KNOU 캠퍼스, 경제분석의 역사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1331001&cntsId=KNOU1331)
+[U-KNOU 캠퍼스, 경제분석의 역사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1913001&cntsId=KNOU1913)
 
 
 ### 강의 개요

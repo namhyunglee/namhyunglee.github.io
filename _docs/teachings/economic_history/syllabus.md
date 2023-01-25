@@ -48,15 +48,20 @@ toc: true
 - 로버트 C. 앨런/이강국 옮김, 2017, 『세계경제사』. 교유서가.
   * Robert C. Allen, 2011, <em>Global Economic History: A Very Short Introduction</em>, Oxford University Press.
 - 칼 군나르 페르손, 폴 샤프/박이택 옮김, 2016, 『유럽경제사: 지식, 제도 성장, 600-현재』, 해남.
-  - Karl Gunnar Persson and Paul Sharp, 2015, *An Economic History of Europe: Knowledge, Institutions and Growth, 600 to the Present*, 2nd ed., Cambridge University Press.
+  * Karl Gunnar Persson and Paul Sharp, 2015, *An Economic History of Europe: Knowledge, Institutions and Growth, 600 to the Present*, 2nd ed., Cambridge University Press.
 - 배리 아이켄그린/박복영 옮김, 2016, 『황금 족쇄: 금본위제와 대공황 1919-1939년』, 미지북스. 
-  - Barry J. Eichengreen, *Golden Fetters: The Gold Standard and the Great Depression, 1919--1939*, Oxford University Press.
+  * Barry J. Eichengreen, *Golden Fetters: The Gold Standard and the Great Depression, 1919--1939*, Oxford University Press.
 - 윌리엄 N. 괴츠만/위대선 옮김, 2019, 『금융의 역사』, 지식의날개. 
   * William N. Goetzman, 2017, <em>Money Changes Everything: How Finance Made Civilization Possible</em>, Princeton University Press.
 - 윌리엄 퀸, 존 D. 터너/최지수 옮김, 2021,『버블: 부의 대전환』, 브라이트.
   * William Quinn and John D. Turner, 2020, *Boom and Bust: A Global History of Financial Bubbles*, Cambridge University Press.
 - 팀 하포드/박세연 옮김, 2018, 『팀 하포드의 경제학 팟캐스트: 현대 경제를 만든 50가지 생각들』, 세종서적. 
   * Tim Harford, 2017, <em>Fifty Inventions That Shaped the Modern Economy</em>, Riverhead Books.
+- Bisin, Alberto and Giovanni Federico (eds.), 2020, <em>The Handbook of Historical Economics</em> Academic Press.
+- Blum, Matthias and Christopher L. Colvin (eds.), 2018, <em>An Economist's Guide to Economic History</em> Palrgrave Macmilan.
+- Broadberry, Stephen and Kevin O'Rourke (eds.), 2010, <em>The Cambridge Economic History of Modern Europe, Vol. 1, 2</em> Cambridge University Press. 
+- DeLong, Bradford, 2022, <em>Slouching Towards Utopia: An Economic History of the Twentieth Century</em> Basic Books. 
+- Galor, Oded, 2022, <em>The Journey of Humanity: The Origins of Wealth and Inequality</em> Dutton.  
 - Koyama, Mark and Jared Rubin, 2022, <em>How The World Became Rich: The Historical Origins of Economic Growth</em>, Polity.  
 
 ### 강의 구성
