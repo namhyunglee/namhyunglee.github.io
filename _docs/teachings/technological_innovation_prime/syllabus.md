@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 기술 혁신의 경제학 (프라임 칼리지, 1학기)
-date: 2022-01-23
+date: 2023-01-25
 permalink: /docs/teachings/technological_innovation_prime/
 collection: teachings
 entries_layout: grid
@@ -47,6 +47,8 @@ toc: true
 강의안으로 수업을 진행하며, 프라임 칼리지 LMS 과목 자료실에 강의안과 프리젠테이션이 업로드 되어 있다.
 
 ### 참고 도서
+
+- 권명중, 『기술혁신의 경제학: 4차산업혁명의 사례와 적용』, 나무미디어.
 - Melissa A. Schilling/김길선 옮김, 『기술경영과 혁신전략』, McGraw-Hill Education.
   * Melissa A. Schilling, <em> Strategic Management of Technological Innovation </em>, McGraw-Hill Education.
 - G. M. Peter Swann, <em>The Economics of Innovation</em>, Edward Elgar Publishing.
@@ -60,15 +62,15 @@ toc: true
 - 기술 경제학의 기초 개념
 - 혁신의 유형과 양상: 제품 혁신 대 공정 혁신
 - 혁신과 가격 전략
-- 표준 경쟁과 지배적 디자인
-- 특허와 지적 재산권
-- 발명, 혁신, 그리고 기업가
-- 기술 혁신을 위한 조직
-- 협력 전략
-- 신제품 개발 과정 관리(프라임칼리지에서만 강의)
-- 신제품 개발 조직 관리(프라임칼리지에서만 강의)
-- 혁신 클러스터와 네트워크
-- 혁신의 확산
-- 혁신과 시장구조
-- 기술 변화와 국제 무역
+- 표준 경쟁
+- 지식 재산권과 특허
+- 창의성, 기업가 정신, 프로젝트 선정
+- 혁신 조직과 비전
+- 신제품 개발 과정 관리
+- 신제품 개발 조직 관리
+- 협력 개발과 혁신 클러스터
+- 혁신의 확산과 시장구조
+- 혁신과 고용
+- 기술 변화와 경제성장
+- 기술 변화와 국제무역
 - 기술 정책
