@@ -46,7 +46,7 @@ toc: true
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU0911001&cntsId=KNOU0911){:target="_blank"} 과목 자료실에 강의안과 프리젠테이션이 업로드 되어 있다.
+강의안으로 수업을 진행하며, [U-KNOU 캠퍼스, 디지털 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU0911001&cntsId=KNOU0911){:target="_blank"} 과목 자료실에 강의안과 프리젠테이션이 업로드 되어 있다.
 
 ### 참고 도서
 
@@ -87,7 +87,7 @@ U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
 
 접속 방법
 
-1. 학교 홈페이지 [https://www.knou.ac.kr](https://www.knou.ac.kr){:target="_blank"} 로그인 
+1. [학교 포털 홈페이지](https://www.knou.ac.kr){:target="_blank"} 로그인 
 → 맞춤 정보 보기 
 → 나의 수강 정보 '학습하기' 클릭 
 → 학습목록에서 "디지털 경제의 이해" 선택 
@@ -95,6 +95,6 @@ U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
 
 또는
 
-2. U-KNOU 캠퍼스 홈페이지 [https://ucampus.knou.ac.kr/](https://www.knou.ac.kr){:target="_blank"} 로그인 
+2. [U-KNOU 캠퍼스 홈페이지](https://www.knou.ac.kr){:target="_blank"} 로그인 
 → 학습목록에서 "디지털 경제의 이해" 선택
 →  '강의자료실' 선택
