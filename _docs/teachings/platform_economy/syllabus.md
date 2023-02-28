@@ -87,6 +87,6 @@ U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
 
 또는
 
-2. [U-KNOU 캠퍼스 홈페이지](https://www.knou.ac.kr){:target="_blank"} 로그인 
+2. [U-KNOU 캠퍼스 홈페이지](https://ucampus.knou.ac.kr/){:target="_blank"} 로그인  
 → 학습목록에서 "플랫폼 경제의 이해" 선택
 →  '강의자료실' 선택
