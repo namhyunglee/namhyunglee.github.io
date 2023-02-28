@@ -47,7 +47,7 @@ toc: true
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, [U-KNOU 홈페이지 자료실](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1331001&cntsId=KNOU1331)에 강의안과 프리젠테이션이 업로드 되어 있다.
+강의안으로 수업을 진행하며, [U-KNOU 홈페이지 자료실](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1913001&cntsId=KNOU1913)에 강의안과 프리젠테이션이 업로드 되어 있다.
 
 
 ### 참고 도서

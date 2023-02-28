@@ -15,7 +15,8 @@ toc: true
 
 ### 강의 홈페이지
 
-[U-KNOU 캠퍼스, 기술혁신의 경제학](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1230001&cntsId=KNOU1230)
+[U-KNOU 캠퍼스, 기술혁신의 경제학](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1962001&cntsId=KNOU1962)
+
 
 ### 강의 개요
 
@@ -48,7 +49,7 @@ toc: true
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 과목 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1230001&cntsId=KNOU1230) 자료실에 강의안 파일이 업로드 되어 있다.
+강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 과목 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1962001&cntsId=KNOU1962) 자료실에 강의안 파일이 업로드 되어 있다.
 
 
 ### 참고 도서
