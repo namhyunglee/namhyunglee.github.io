@@ -15,7 +15,7 @@ toc: true
 
 ### 강의 홈페이지
 
-[U-KNOU 캠퍼스, 플랫폼 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1716001&cntsId=KNOU1716)
+[U-KNOU 캠퍼스, 플랫폼 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1716001&cntsId=KNOU1716){:target="_blank"}
 
 ### 강의 개요
 음식 배달 주문을 처리하는 기업은 음식을 주문하는 소비자와 음식을 판매하는 식당 모두와의 거래가 필요하다는 점에서 소비자 또는 다른 기업 어느 하나와의 거래만 상대하는 전통적인 기업과는 다르다. 이러한 형식의 사업이 새로운 것은 아니며, 신용카드, 광고, 게임 등 이미 다양한 산업에서 운영되었고, 20세기 후반부터 디지털 기술의 발달로 짝짓기 비용이 하락하면서 그 범위가 넓어졌다.
@@ -42,7 +42,7 @@ toc: true
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 과목 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1716001&cntsId=KNOU1716) 자료실에 강의안 파일이 업로드 되어 있다.
+강의안으로 수업을 진행하며, [U-KNOU 캠퍼스 과목 홈페이지](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1716001&cntsId=KNOU1716){:target="_blank"} 자료실에 강의안 파일이 업로드 되어 있다.
 
 ### 참고 도서
 
