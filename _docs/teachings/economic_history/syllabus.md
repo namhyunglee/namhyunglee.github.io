@@ -43,7 +43,8 @@ toc: true
 강의안으로 수업을 진행하며, [U-KNOU 캠퍼스, 서양경제사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231){:target="_blank"} 자료실에 강의안 파일이 업로드 되어 있다.
 
 ### 참고 도서
-
+- 마크 코야마, 재러드 루빈/유강은 옮김, 『부의 빅히스토리 -- 세상은 어떻게 부유해지는가』, 윌북.
+  * Koyama, Mark and Jared Rubin, 2022, <em>How The World Became Rich: The Historical Origins of Economic Growth</em>, Polity.  
 - 경제교육연구회, 2018, 『사람의 역사, 경제의 역사』, 시그마프레스.
 - 로버트 C. 앨런/이강국 옮김, 2017, 『세계경제사』. 교유서가.
   * Robert C. Allen, 2011, <em>Global Economic History: A Very Short Introduction</em>, Oxford University Press.
@@ -62,7 +63,6 @@ toc: true
 - Broadberry, Stephen and Kevin O'Rourke (eds.), 2010, <em>The Cambridge Economic History of Modern Europe, Vol. 1, 2</em> Cambridge University Press. 
 - DeLong, Bradford, 2022, <em>Slouching Towards Utopia: An Economic History of the Twentieth Century</em> Basic Books. 
 - Galor, Oded, 2022, <em>The Journey of Humanity: The Origins of Wealth and Inequality</em> Dutton.  
-- Koyama, Mark and Jared Rubin, 2022, <em>How The World Became Rich: The Historical Origins of Economic Growth</em>, Polity.  
 
 ### 강의 구성
 
