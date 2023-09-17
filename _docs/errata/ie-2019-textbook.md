@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 교재 정정
-date: 2019-09-02T11:11:50+09:00
+date: 2023-09-17T11:11:50+09:00
 permalink: /docs/errata/ie-2019-textbook/
 collection: errata
 #tags: [생활속의 경제, 교재]
