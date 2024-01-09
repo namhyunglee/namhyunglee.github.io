@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 서양경제사 - 장기 경제 성장과 금융제도의 진화 (1학기)
-date: 2022-07-02
+date: 2024-01-09
 permalink: /docs/teachings/economic_history/
 collection: teachings
 entries_layout: grid
@@ -12,6 +12,10 @@ toc: true
 ---
 
 ##  Economic history of western world: a long-run economic growth and an evolution of financial institutions
+
+### 상세 강의 계획서
+
+2024년 1학기 강의 계획서: [다운로드](https://drive.google.com/file/d/16Ud5irgfiKy0wvtTKlnP22ukXanUu5JT/view?usp=drive_link){:target="_blank"}
 
 ### 강의 홈페이지
 
@@ -40,7 +44,7 @@ toc: true
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, [U-KNOU 캠퍼스, 서양경제사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231){:target="_blank"} 자료실에 강의안 파일이 업로드 되어 있다.
+강의안으로 수업을 진행하며, 형성 평가 시작 시점에 맞춰 [U-KNOU 캠퍼스, 서양경제사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231){:target="_blank"} 강의 자료실에 업로드된다.
 
 ### 참고 도서
 - 마크 코야마, 재러드 루빈/유강은 옮김, 『부의 빅히스토리 -- 세상은 어떻게 부유해지는가』, 윌북.
@@ -62,7 +66,13 @@ toc: true
 - Blum, Matthias and Christopher L. Colvin (eds.), 2018, <em>An Economist's Guide to Economic History</em> Palrgrave Macmilan.
 - Broadberry, Stephen and Kevin O'Rourke (eds.), 2010, <em>The Cambridge Economic History of Modern Europe, Vol. 1, 2</em> Cambridge University Press. 
 - DeLong, Bradford, 2022, <em>Slouching Towards Utopia: An Economic History of the Twentieth Century</em> Basic Books. 
-- Galor, Oded, 2022, <em>The Journey of Humanity: The Origins of Wealth and Inequality</em> Dutton.  
+
+### 추천 동영상
+- [EBS, 앙트레프레너](https://youtube.com/playlist?list=PLVXj7EDVpVJuUkjcDE00HN_Y0KovqXqkj&feature=shared){:target="_blank"}
+- [KBS, 바다의 제국](https://youtube.com/playlist?list=PLVXj7EDVpVJtdu3mDU-IijPIqQl2g0raE&feature=shared){:target="_blank"}
+- [KBS, 부국의 조건](https://youtube.com/playlist?list=PLVXj7EDVpVJtk1J8MHQP9vXCnCBz7xzfS&feature=shared){:target="_blank"}
+- [유튜브, 함께하는 세계사 외](https://youtube.com/playlist?list=PLVXj7EDVpVJtABdTBHy-wn9MESgPL5I50&feature=shared){:target="_blank"}
+- [유튜브, 경제사 관련 강의 (영어)](https://youtube.com/playlist?list=PLVXj7EDVpVJuPXIk9OAchViqyJH04RDnJ&feature=shared){:target="_blank"}
 
 ### 강의 구성
 
@@ -82,9 +92,9 @@ toc: true
 - 20세기 후반의 경제 성장과 복지국가
 - 세계화와 불평등 
 
-### 기타: 상세 강의계획서, 연습문제, 과제 관련 자료 등
+### 기타: 연습문제, 과제 관련 자료 등
 
-U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
+[U-KNOU 캠퍼스, 서양경제사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1231001&cntsId=KNOU1231){:target="_blank"} 강의자료실에서 확인 가능하다.
 
 접속 방법
 

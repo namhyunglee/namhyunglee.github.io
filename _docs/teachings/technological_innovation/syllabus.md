@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 기술 혁신의 경제학 (1학기)
-date: 2023-01-25
+date: 2024-01-09
 permalink: /docs/teachings/technological_innovation/
 collection: teachings
 entries_layout: grid
@@ -12,6 +12,10 @@ toc: true
 ---
 
 ## Economics of Technological Innovation
+
+### 상세 강의 계획서
+
+2024년 1학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1w5Y3qUKsGRvBfcaDStKyp-2HHs2JJcUB/view?usp=sharing){:target="_blank"}
 
 ### 강의 홈페이지
 
@@ -28,7 +32,7 @@ toc: true
 
 ### 강의 목표
 
-이 강의를 수강한 후, 다음의 질문에 대한 나름의 답을 찾을 수 있는 기본적 논리를 갖게 될 것이다.
+수업을 마친 후에는 기술 혁신으로 추동되는 산업의 변화를 이해하고 기술 혁신을 전략적으로 바라보아, 다음의 질문에 대한 나름의 답을 찾을 수 있는 기본적 논리를 갖게 될 것이다.
 
 - 혁신과 발명의 차이는 무엇인가?
 - 혁신 제품의 가격 전략은 무엇이 있는가?
@@ -37,6 +41,8 @@ toc: true
 - 기업이 독자 개발 또는 협력 개발을 선택하는 이유는 무엇이고, 효과적인 협력 전략은 무엇인가?
 - 기업이 특허와 저작권으로 기술을 보호할 것인가 아니면 사용자 확보와 보완재 판매를 위해 기술을 배포할 것인가?
 - 신제품 개발을 위해 조직과 프로젝트를 어떻게 관리할 것인가?
+- 혁신은 고용, 소득, 경제 성장에 어떤 영향을 주는가?
+- 정부의 혁신 정책이 필요한 이유와 장단점은 무엇인가?
 
 
 
@@ -44,12 +50,12 @@ toc: true
 
 필수는 아니지만, 다음 과목을 들으면 강의 내용을 이해하는 데 큰 도움이 된다.
 
-- 기초미시경제론, 고급미시경제론, 기초거시경제론, 산업구조와 경쟁
+- 기초미시경제론, 고급미시경제론, 기초거시경제론, 기업경제학, 산업구조와 경쟁
 
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, [U-KNOU 캠퍼스, 기술혁신의 경제학](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1962001&cntsId=KNOU1962){:target="_blank"} 자료실에 강의안 파일이 업로드 되어 있다.
+강의안으로 수업을 진행하며, 형성 평가 시작 시점에 맞춰 [U-KNOU 캠퍼스, 기술혁신의 경제학](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1962001&cntsId=KNOU1962){:target="_blank"} 강의 자료실에 업로드된다.
 
 
 ### 참고 도서
@@ -81,8 +87,8 @@ toc: true
 - 기술 변화와 국제무역
 - 기술 정책
 
-### 기타: 상세 강의계획서, 연습문제, 과제 관련 자료 등
-U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능
+### 기타: 연습문제, 과제 관련 자료 등
+[U-KNOU 캠퍼스, 기술혁신의 경제학](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1962001&cntsId=KNOU1962){:target="_blank"} 강의자료실에서 확인 가능하다.
 
 접속 방법
 

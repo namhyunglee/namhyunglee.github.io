@@ -47,7 +47,7 @@ toc: true
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, [U-KNOU 캠퍼스, 경제분석의 역사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1913001&cntsId=KNOU1913){:target="_blank"}에 강의안과 프리젠테이션이 업로드 되어 있다.
+강의안과 프리젠테이션으로 수업을 진행하며 [U-KNOU 캠퍼스, 경제분석의 역사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1913001&cntsId=KNOU1913){:target="_blank"}의 강의 자료실에서 받을 수 있다.
 
 
 ### 참고 도서
