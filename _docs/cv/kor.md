@@ -1,7 +1,7 @@
 ---
 type: default
 title: 이남형
-date: 2022-07-02
+date: 2024-04-05
 permalink: /docs/cv/kor/
 collection: cv
 entries_layout: grid
@@ -45,6 +45,7 @@ toc: true
 
 ### 도서
 
+- 이남형, 정세윤, 『기술혁신의 경제학』, 서울: 한국방송통신대학교 출판문화원, 2024.
 - 심지영, 이남형, 이용철, 장일, 정세윤, 차지연, 최문선, 『이슈로 보는 오늘날의 유럽』, 서울: 한국방송통신대학교 출판문화원, 2021. (10, 12, 14장).
 - 이충기, 이남형, 『기업경제학』, 서울: 한국방송통신대학교 출판문화원, 2020. (7--11장).
 - 이충기, 이남형, 『생활속의 경제』, 서울: 한국방송통신대학교 출판문화원, 2019. (7--13장, 부록 1, 부록 2).
@@ -52,6 +53,7 @@ toc: true
 
 ### 연구보고서
 
+- 한국콘텐츠진흥원, 「게임과 소비」, 『게임이용자 패널 연구』, 2021, 2022, 2023.
 - 한국콘텐츠진흥원, 「게임 이용의 경제적 행태」, 『2019 게임이용자 패널 연구 예비조사』, 5장 3절, 2019.
 - 국회예산정책처, 「프랑스의 재정분권 추진 현황」, 『주요국의 재정분권 추진 현황과 시사점』, 5장, 2018.
 - 국회예산정책처, 「스마트 공장 특성과 국내외 도입 현황」, 『스마트공장 도입이 고용에 미치는 효과 연구 - 해외 사례를 중심으로』, 3장, 2017.
@@ -76,6 +78,8 @@ toc: true
 
 ### 학회 발표
 
+- "Balancing the Potential and Limitations of Large Language Models: Exploring Teaching Projects in Western European Economic History and History of Economic Thought Class." The 36th AAOU Conference, Istanbul University, Istanbul, Turkye, 28--30, Sep., 2023.
+- "Improving Applicant Support and Counseling Staff's Burden Through Chatbot Services: A Case of KNOU (co-authored with Suna La)." The 36th AAOU Conference, Istanbul University, Istanbul, Turkye, 28--30, Sep., 2023.
 - 「최근 신자유주의 연구의 검토: 국제통화체제론을 중심으로」 . 2022년 한국사회경제학회 봄 학술대회,
     2022년 5월 20일, 한국방송통신대학교, 서울.
 - 「누가 비디오 게임을 하는가? 성인이용자의 사회경제적 배경」 (공동저자 조문석). 2019년 한국조사연구학회 추계학술대회, 2019년 11월 22일, 대한상공회의소, 서울.
@@ -94,7 +98,7 @@ toc: true
 ## 기타 학술 활동
 
 ### 온라인 공개 강의
-
+- [넷로고와 파이선을 활용한 게임이론 시뮬레이션](https://www.kmooc.kr/view/course/detail/10298), 2023, K-MOOC.
 - [코로나 19의 경제학](https://sites.google.com/knou.ac.kr/econlecture/home/lectures/COVID19){:target="_blank"}, 2020, 한국방송통신대학교.
 - [경제사와 감염병](https://sites.google.com/knou.ac.kr/econlecture/home/special_lectures/Economic-History){:target="_blank"}, 2020, 한국방송통신대학교.
 - [경제학이 오픈소스 소프트웨어에 대해 알고 있는 것](https://sites.google.com/knou.ac.kr/econlecture/home/lectures/OSS){:target="_blank"}, 2018, 연세대학교 경영연구소 4차 산업혁명 런치 포럼.

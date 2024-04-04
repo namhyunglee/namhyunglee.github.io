@@ -1,7 +1,7 @@
 ---
 type: default
 title: Namhyung Lee
-date: 2022-07-02
+date: 2024-04-05
 permalink: /docs/cv/eng/
 collection: cv
 entries_layout: grid
@@ -47,6 +47,7 @@ toc: true
 
 
 ### Books
+- Lee, Namhyung and Seyoun Jung, <em> Economics of Technological Innovation </em>, KNOU Press: Seoul, 2024.
 - Shim, Jiyoung, Namhyung Lee, Yongchul Lee, Il Jang, Seyoun Jeong, Jiyoun Cha and Moonsun Chou, <em> Issues on the Current Europe</em>, KNOU Press: Seoul, 2021. (Chs. 10, 12, 14).
 - Lee, Chungki and Namhyung Lee, <em>Economics of Firms</em>, KNOU Press: Seoul, 2020. (Chs. 7--11).
 - Lee, Chungki and Namhyung Lee, <em>Economy in Life</em>, KNOU Press: Seoul. (Chs. 7--13, Appendix 1--2).
@@ -55,7 +56,7 @@ toc: true
 
 
 ### Technical Reports
-
+- Korea Creative Content Agency, "Economic Behavior of playing video games", <em>Studies on Game Users Panel</em>, 2021, 2022, 2023.
 - Korea Creative Content Agency, "Economic Behavior of playing video games", <em>Preliminary Survey on Game Users Panel 2020</em>, Ch. 5 Sec. 3, 2019.
 - National Assembly Budget Office, "France's Fiscal Decentralization", <em>Current status and implications of financial decentralization in major countries</em>, Ch. 5, Seoul, 2018.
 - National Assembly Budget Office, "Characteristics and introduction of smart factory: focusing on foreign countries", <em>A Study on the Effect of Smart Factory Introduction on Employment: focusing on foreign case</em>s, Ch. 3, Seoul, 2018.
@@ -77,7 +78,8 @@ toc: true
 
 
 ### Conference and Seminar Presentations
-
+- "Balancing the Potential and Limitations of Large Language Models: Exploring Teaching Projects in Western European Economic History and History of Economic Thought Class." The 36th AAOU Conference, Istanbul University, Istanbul, Turkye, 28--30, Sep., 2023.
+- "Improving Applicant Support and Counseling Staff's Burden Through Chatbot Services: A Case of KNOU (co-authored with Suna La)." The 36th AAOU Conference, Istanbul University, Istanbul, Turkye, 28--30, Sep., 2023.
 - "Recent Studies on Neo-liberalism: International Monetary Regime" (written in Korean). 2022 KAPEA Spring Conferences, Korea National Open University, Seoul, South Korea, May 20, 2022.
 - "Who does play video games? Socio-economic backgrounds of adult gamers" (co-authored with Munseok Cho: written in Korean). 2019 The Korean Association for Survey Research Fall Conference, Korea Chamber of Commerce and Industry, Seoul, South Korea, Nov. 11, 2019.
 - "Why do people accept cherry stone?: Reconstruction of the theory of the money and implication for the criptocurrency" (co-authored with Baek Jongsung: written in Korean). 2011 Economics Joint Conference, Chuang Ang University, Seoul, South Korea, Feb. 10--11, 2011.
@@ -94,7 +96,7 @@ toc: true
 ## Professional Activities
 
 ### Online Public Lectures
-
+- ["Game Theory Simulation with Netlogo and Python"](https://www.kmooc.kr/view/course/detail/10298), 2023, K-MOOC.
 - ["Economics on COVID-19(in Korean)"](https://sites.google.com/knou.ac.kr/econlecture/home/lectures/COVID19){:target="_blank"}, 2020, Korea National Open University.
 - ["Economic History and Epidemics (in Korean)"](https://sites.google.com/knou.ac.kr/econlecture/home/special_lectures/Economic-History){:target="_blank"}, 2020, Korea National Open University.
 - ["What Economics Knows About Open Source Software (in Korean)"](https://sites.google.com/knou.ac.kr/econlecture/home/lectures/OSS){:target="_blank"}, 2018, Yonsei Business Research Institute Lunch Forum on 4th Industrial Revolution.
@@ -103,7 +105,7 @@ toc: true
 
 ### Referee
 
-- <em>Journal of Korean Social Trends and Perspectives</em>, <em>The Korean Journal of Economic Studies</em>, <em>The Korean Historical Review</em>, <em>Ordo Economics Journal</em>.
+- <em>The Korean Journal of Economic Studies</em>, <em>Journal of Korean Social Trends and Perspectives</em>, <em>The Korean Historical Review</em>, <em>Ordo Economics Journal</em>.
 
 
 
@@ -228,4 +230,4 @@ toc: true
 
 ## Miscellaneous
 
-- Military Service: in the Republic of Korea Navy, retired as Lieutenant Jr, Jul. 2000--Jun. 2003.
+- Military Service: in the Republic of Korea Navy, retired as Lieutenant Jr., Jul. 2000--Jun. 2003.
