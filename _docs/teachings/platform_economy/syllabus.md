@@ -13,6 +13,13 @@ toc: true
 
 ## Understanding Platform Economy
 
+<!-- ### 상세 강의 계획서
+
+2024년 1학기 강의 계획서: [다운로드](https://drive.google.com/file/d/16Ud5irgfiKy0wvtTKlnP22ukXanUu5JT/view?usp=drive_link){:target="_blank"}
+
+2024년 1학기 오리엔테이션 동영상: [클릭](https://youtu.be/UrbAOUGCAkE){:target="_blank"} -->
+
+
 ### 강의 홈페이지
 
 [U-KNOU 캠퍼스, 플랫폼 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1716001&cntsId=KNOU1716){:target="_blank"}

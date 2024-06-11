@@ -17,7 +17,10 @@ toc: true
   * [경제분석의 역사](/docs/teachings/history_of_economic_thought/)
   * [디지털 경제의 이해](/docs/teachings/digital_economy/)
   * [플랫폼 경제의 이해](/docs/teachings/platform_economy/)
-
+    
+### 방송대 교양
+- 2학기 
+  * [생활 속의 경제](/docs/teachings/introduction_to_economics/)
 
 ### 방송대 프라임 칼리지
 - 1학기 
