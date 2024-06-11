@@ -20,7 +20,7 @@ toc: true
     
 ### 방송대 교양
 - 2학기 
-  * [생활 속의 경제](/docs/teachings/introduction_to_economics/)
+  * [생활 속의 경제](/docs/teachings/introduction_to_economics)
 
 ### 방송대 프라임 칼리지
 - 1학기 

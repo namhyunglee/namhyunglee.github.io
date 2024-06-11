@@ -3,7 +3,7 @@ type: default
 #layout: pages
 title: 생활 속의 경제(2학기)
 date: 2022-01-23
-permalink: /docs/teachings/innvoation_policy/
+permalink: /docs/teachings/introduction_to_economics/
 collection: teachings
 entries_layout: grid
 toc: true
