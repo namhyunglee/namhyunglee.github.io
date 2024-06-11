@@ -49,9 +49,11 @@ toc: true
 - 교재 외의 개설서와 용어 설명 등은 아래 도서를 참고하기 바람
 
 - 하나오카 사치코, 하마바타케 가노우/송서휘 옮김, 『경제용어도감』, 서해문집.
-- 한국은행, 『경제금융용어 700선』, [다운로드](). \url{https://www.bok.or.kr/portal/bbs/B0000216/view.do?nttId=10075809&type=PEPL&searchOptn8=22&menuNo=20064
+- 한국은행, 『경제금융용어 700선』, [다운로드](https://www.bok.or.kr/portal/bbs/B0000216/view.do?nttId=10075809&type=PEPL&searchOptn8=22&menuNo=20064). 
 - 한국은행, 『알기 쉬운 경제이야기』, [다운로드](https://www.bok.or.kr/portal/bbs/B0000216/view.do?nttId=10061729&type=PEPL&searchOptn8=22&menuNo=200648).
-- 한국은행, 『알기 쉬운 금융생활』, [다운로드](https://www.bok.or.kr/portal/bbs/B0000216/view.do?nttId=10046971&type=PEPL&searchOptn8=22&menuNo=200648).
+- 한국은행, 『알기 쉬운 경제지표해설』, [다운로드](https://www.bok.or.kr/portal/bbs/P0000605/view.do?nttId=10081245&menuNo=200462)
+<!-- - 한국은행, 『알기 쉬운 금융생활』, [다운로드](https://www.bok.or.kr/portal/bbs/B0000216/view.do?nttId=10046971&type=PEPL&searchOptn8=22&menuNo=200648). -->
+
 - 이준구, 이창용, 『경제학원론』, 문우사.
 - Daron Acemoglu, David Laibson, and John List/손광락, 권남훈, 김원중, 박경로, 정태훈, 홍인기 옮김, 『경제학원론』, 시그마프레스.
 - Paul Krugman and Robin Wells/김재영, 박대근, 전병헌 옮김, 『크루그먼의 경제학』, 시그마프레스.
