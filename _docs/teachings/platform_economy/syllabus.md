@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 플랫폼 경제의 이해 (2학기)
-date: 2022-01-23
+date: 2024-06-18
 permalink: /docs/teachings/platform_economy/
 collection: teachings
 entries_layout: grid
@@ -35,15 +35,22 @@ toc: true
 
 ### 강의 목표
 
-이 강의를 수강한 후, 다음의 질문에 대한 나름의 답을 찾고, 이어지는 질문을 가질 수 있기 바란다.
+이 강의를 수강한 후, 다음의 질문에 대한 체계적인 답을 할 수 있을 것이다.
 
-- 시장에서 지배적 사업자가 나타나는 과정은 무엇인가?
-- 플랫폼 시장의 구조와 보완재가 있을 때의 특징은 무엇인가?
-- 플랫폼은 경제 전체에 심대한 영향을 미칠 것인가?
+- 플랫폼을 양면 시장이론으로 설명할 수 있는가?
+- 기술 플랫폼과 거래 플랫폼의 특징은 무엇인가?
+- 플랫폼에서 왜 네트워크 효과가 중요한가?
+- 플랫폼 사업의 네 가지 단계와 각 단계에서 해결해야할 문제는 무엇인가?
+
+나아가  다음의 문제에 대해 자신만의 답을 찾을 수 있는 아이디어를 갖기 바란다.
+
+- 플랫폼 산업의 조세 정책은 어떤 목적을 가져야 하는가?
+- 플랫폼 산업의 반독점 정책은 어떤 목적을 가져야 하는가?
+- 플랫폼 산업의 노동 정책은 어떤 목적을 가져야 하는가?
 
 ### 수강 전에 들어야 하는 과목
 
-필수는 아니지만, 다음 과목의 수강을 강력히 권한다.
+필수는 아니지만, 다음 과목을 들으면 강의 내용을 이해하는 데 큰 도움이 된다.
 
 - 기초미시경제론, 고급미시경제론, 디지털 경제의 이해, 기업경제학
 
@@ -53,14 +60,15 @@ toc: true
 
 ### 참고 도서
 
-- 마셜 밴 앨스타인, 상지트 폴 초더리, 제프리 파커/이현경 옮김, 2017, 『플랫폼 레볼루션』, 부키.
-  * Geoffrey G. Parker, Marshall W. Van Alstyne and Sangeet Paul Choudary, 2017, <em> Platform Revolution: How Networked Markets Are Transforming the Economy </em>, W.W. Norton &amp; Company.
 - 마이클 쿠수마노, 데이비드 요피, 애너벨 가우어/오수원 옮김, 2021, 『플랫폼 비즈니스의 모든 것』, 부키. 
   * Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie, 2019,<em> The Business of Platforms: Strategy in the Age of Digital Competition, Innovation, and Power </em>, Harper Business.
+- 데이비드 에반스, 리차드 슈몰렌제/이진원 옮김, 2016, <em> 매치메이커스 </em>, 더퀘스트.
+  * David S. Evans and Richard Schmalensee, 2016, <em> Matchmakers </em>, Harvard Business Review Press.
+- Robin Mansell and W. Edward Steinmueller, 2020, <em> Advanced Introduction to Platform Economics </em>, Edward Elgar.
 - 알렉스 모아제드, 니콜라스 존슨/이경식 옮김, 2019, 『플랫폼 기업 전략』, 세종연구원. 
   * Alex Moazed and Nicholas L. Johnson, 2016, <em> Modern Monopolies: What It Takes to Dominate the 21st Century Economy </em>, St. Martin's Press.
-- David S. Evans and Richard Schmalensee, 2016, <em> Matchmakers </em>, Harvard Business Review Press.
-- Robin Mansell and W. Edward Steinmueller, 2020, <em> Advanced Introduction to Platform Economics </em>, Edward Elgar.
+- 마셜 밴 앨스타인, 상지트 폴 초더리, 제프리 파커/이현경 옮김, 2017, 『플랫폼 레볼루션』, 부키.
+  * Geoffrey G. Parker, Marshall W. Van Alstyne and Sangeet Paul Choudary, 2017, <em> Platform Revolution: How Networked Markets Are Transforming the Economy </em>, W.W. Norton & Company.
 - Laure Claie Reillier and Benoit Reillier, 2017, <em> Platform Strategy: How to Unlock the Power of Communities and Networks to Grow Your Business </em>, Routledge.
 
 ### 강의 구성
@@ -70,16 +78,16 @@ toc: true
 - 네트워크 이론
 - 데이터 기반 의사 결정
 - 시장 설계
-- 플랫폼 산업(1) 전자상거래: 아마존
-- 플랫폼 산업(2) 게임: 닌텐도, 마이크로소프트, 소니
-- 플랫폼 산업(3) 미디어: 넷플릭스와 애플
-- 플랫폼 산업(4) 뉴스와 광고: 구글과 페이스북
+- 전자상거래: 아마존
+- 게임: 닌텐도, 마이크로소프트, 소니
+- 뉴스와 광고: 구글과 페이스북
+- 미디어: 넷플릭스와 애플
 - 플랫폼의 성공과 실패
-- 플랫폼 기업에 대한 과세
-- 플랫포 기업과 반독점 정책
-- 플랫폼 기업의 노동 (1): 실태와 문제
-- 플랫폼 기업의 노동 (2)
-- 플랫폼 경제의 미래
+- 플랫폼과 조세
+- 플랫폼과 반독점: 이론
+- 플랫폼과 반독점: 현실과 정책
+- 플랫폼과 노동: 이론
+- 플랫폼과 노동: 현실과 정책
 
 ### 기타: 상세 강의계획서, 강의안, 연습문제, 과제 관련 자료 등
 U-KNOU 캠퍼스 홈페이지 과목 자료실에서 확인 가능

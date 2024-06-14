@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 디지털 경제의 이해 - 시장 구조, 가격, 그리고 전략 (프라임 칼리지, 2학기)
-date: 2022-01-23
+date: 2024-06-18
 permalink: /docs/teachings/digital_economy_prime/
 collection: teachings
 entries_layout: grid
@@ -14,15 +14,15 @@ toc: true
 ## Understanding digital economy: market structure, pricing, and strategy
 
 ### 강의 개요
-이 강의는 디지털 기술이 경제에 미치는 영향을 크게 두 부분에서 다루고자 한다. 
+이 강의는 디지털 기술이 경제에 미치는 영향을 이론과 현실의 두 방향에서 접근한다.
 
-먼저 디지털 경제를 분석할 수 있는 기본적인 경제학 개념을 배운다.
+먼저 정보재의 특성, 정보재 시장의 가격 결정, 고착 효과와 네트워크 효과 등 디지털 경제를 분석할 수 있는 기본적인 경제학 개념을 배운다. 
 
-그리고, 소매업, 금융 등 산업의 변화, 고용, 노동생산성, 소비자 후생의 변화 등의 현실 동향과 연구를 살펴본다.
+이론을 토대로, 소매업 등 산업과 노동생산성 및 고용 등에 디지털 기술이 어떤 영향을 미쳤는 지의 현상과 또 어떤 영향이 예상되는 지에 대한 전망을 학습한다.
 
 ### 강의 목표
 
-이 강의를 수강한 후, 다음의 질문에 대한 체계적인 답을 할 수 있게 될 것이다.
+이 강의를 수강한 후, 다음의 질문에 대한 체계적인 답을 할 수 있을 것이다.
 
 - 정보재의 특성은 무엇인가?
 - 정보재가 거래되는 시장에서의 전략은 무엇인가?
@@ -30,18 +30,16 @@ toc: true
 
 나아가 미래 경제 환경 변화, 특히 다음의 문제에 대해 자신만의 답을 만들 수 있는 아이디어를 얻기 바란다.
 
-- 디지털 기술은 소매업, 금융업에 어떤 변화를 가져올 것인가?
 - 정보재의 확산은 소유의 개념을 변화시킬 것인가?
-- 기술 발전이 끊임없이 경제를 성장시킬 것인가?
+- 디지털 기술은 산업에 어떤 변화를 가져올 것인가?
 - 고용의 미래는 어떻게 될 것인가?
+- 기술 발전이 끊임없이 경제를 성장시킬 것인가?
 
 ### 수강 전에 들어야 하는 과목
 
-필수는 아니지만, 다음 과목을 들었다면 강의 내용을 이해하는 데 도움이 된다.
+필수는 아니지만, 다음 과목에 준하는 수업을 들으면 본 수업을 이해하는 데 도움이 된다.
 
-- 기초미시경제론, 고급미시경제론, 기초거시경제론, 기업경제학
-
-
+- 경제원론, 미시경제학, 산업조직론
 
 ### 강의 교재
 
@@ -51,12 +49,15 @@ toc: true
 
 - 칼 샤피로, 할 배리언/임세윤 옮김, 1999, 『정보법칙을 알면 .COM이 보인다』, 미디어퓨전. (절판)
   * Carl Shapiro and Hal R. Varian, 1999,<em> Information Rules</em>, Harvard Business School Press.
+- Ajay Agrawal, Joshua Gans, and Avi Goldfarb, 2022, <em>Power and Prediction: The Disruptive Economics of Artificial Intelligence</em>, Harvard Business Review Press.
 - 어제이 애그러월, 조슈아 갠스, 아비 골드파브/이경남 옮김, 2019, 『예측 기계』, 생각의힘. 
   * Ajay Agrawal, Joshua Gans, and Avi Goldfarb, 2018, <em>Prediction Machines: The Simple Economics of Artificial Intelligence</em>, Harvard Business Review Press.
-- 앤드류 맥아피, 에릭 브린욜프슨/이한음 옮김, 2018, 『머신, 플랫폼, 크라우드 - 트리플 레볼루션의 시대가 온다』, 청림출판.
-  * Andrew McAfee and Erik Brynjolfsson, 2017, <em>Machine, Platform, Crowd: Harnessing Our Digital Future</em>, W.W. Norton &amp; Company.
 - 에릭 브린욜프슨, 앤드류 맥아피/이한음 옮김, 2014,『제2의 기계시대: 인간과 기계의 공생이 시작된다』, 청림출판. 
-  * Erik Brynjolfsson and Andrew McAfee, 2014, The <em>Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies</em>, W.W. Norton &amp; Company.
+  * Erik Brynjolfsson and Andrew McAfee, 2014, The <em>Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies</em>, W.W. Norton & Company.
+- 앤드류 맥아피, 에릭 브린욜프슨/이한음 옮김, 2018, 『머신, 플랫폼, 크라우드 - 트리플 레볼루션의 시대가 온다』, 청림출판.
+  * Andrew McAfee and Erik Brynjolfsson, 2017, <em>Machine, Platform, Crowd: Harnessing Our Digital Future</em>, W.W. Norton & Company.
+- 대런 아세모글루, 사이먼 존슨/김승진 옮김, 2023, 『권력과 진보』, 생각의힘.
+  * Acemoglu, Daron and Johnson Simon, <em>Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity</em>, Hachette Books.    
 - 대럴 웨스트/김인수 옮김, 2018, 『일자리 빅뱅이 다가온다』, 한빛비즈.
   * Darrell M. West, 2018, <em>The Future of Work: Robots, AI, and Automation</em>, Brookings Institution Press.
 - 손용엽, 이상호, 2001, 『사이버시장의 경쟁원리』, 시그마인사이트.
@@ -65,17 +66,17 @@ toc: true
 ### 강의 구성
 
 - 디지털 경제의 특성
-- 디지털 경제의 시장 전략
-- 전환비용과 고착효과
-- 네트워크 효과와 표준화 전략
-- 디지털 경제의 양면시장
-- 디지털 경제의 신뢰 구축
-- 디지털 경제의 소비자 이득
-- 블록체인의 발달과 미래
-- 인공 지능의 발달과 미래
-- 공유 경제의 발달과 미래
-- 소매업의 변화와 미래
-- 자동차 산업의 변화와 미래
-- 디지털 경제의 불평등 문제
-- 노동생산성의 수수께끼
-- 미래는 과거와 다를 것인가
+- 네트워크 효과
+- 고착 효과
+- 디지털 경제의 가격 전략
+- 양면 시장
+- 비대면 신뢰 구축
+- 소비자 후생
+- 인공 지능
+- 블록체인
+- 게임 산업
+- 미디어 산업의 변화
+- 이동 산업의 변화
+- 공유 경제의 등장
+- 노동의 미래
+- 기술 발전과 불평등
