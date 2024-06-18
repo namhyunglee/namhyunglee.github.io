@@ -31,7 +31,8 @@ toc: true
 필수는 아니지만, 다음 과목을 이수했다면 수업 내용을 이해하는 데 도움이 된다.
 
 - 미시경제학, 산업조직론, 게임이론
-  * [미시경제학](https://www.edwith.org/microeconomics), 7--13장, 17--21장 참고
+  * [게임이론](https://www.kmooc.kr/view/course/detail/12423){:target="_blank"}
+  <!-- * [미시경제학](https://www.edwith.org/microeconomics){:target="_blank"}, 7--13장, 17--21장 참고 -->
 
 ### 강의 교재
 
@@ -43,7 +44,7 @@ toc: true
   * Paula Stephan, 2012, <em>How Economics Shapes Science</em>, Harvard University Press.
 - 마리아나 마주카토/김광래 옮김, 2015, 『기업가형 국가』, 매일경제신문사.
   * Mariana Mazzucato, 2015, <em>The Entrepreneurial State: Debunking Public vs. Private Sector Myths</em>, Public Affairs.
-- Austan Goolsbee and Benjamin F. Jones, 2022, <em> Innovation and Public Policy </em>, University of Chicago Press. [관련 홈페이지](https://www.nber.org/books-and-chapters/innovation-and-public-policy)
+- Austan Goolsbee and Benjamin F. Jones, 2022, <em> Innovation and Public Policy </em>, University of Chicago Press. [관련 홈페이지](https://www.nber.org/books-and-chapters/innovation-and-public-policy){:target="_blank"} 
 
 
 ### 강의 구성
