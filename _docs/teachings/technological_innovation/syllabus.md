@@ -13,11 +13,11 @@ toc: true
 
 ## Economics of Technological Innovation
 
-<!-- ### 상세 강의 계획서
+### 상세 강의 계획서
 
-2024년 1학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1w5Y3qUKsGRvBfcaDStKyp-2HHs2JJcUB/view?usp=sharing){:target="_blank"}
+2025년 1학기 강의 계획서: [다운로드]( https://drive.google.com/file/d/1w5Y3qUKsGRvBfcaDStKyp-2HHs2JJcUB/view?usp=share_link){:target="_blank"}
 
-2024년 1학기 오리엔테이션 동영상: [클릭](https://youtu.be/sgr5Gs9yDvA){:target="_blank"} -->
+2025년 1학기 오리엔테이션 동영상: [클릭](https://youtu.be/PB3JYrQFvuc){:target="_blank"}
 
 ### 강의 홈페이지
 
@@ -62,10 +62,12 @@ toc: true
 
 ### 참고 도서
 
+- 이남형, 정세윤, 『기술혁신의 경제학』, 한국방송통신대학교 출판문화원.
 - 권명중, 『기술혁신의 경제학: 4차산업혁명의 사례와 적용』, 나무미디어.
 - Melissa A. Schilling/김길선 옮김, 『기술경영과 혁신전략』, McGraw-Hill Education.
   * Melissa A. Schilling, <em> Strategic Management of Technological Innovation </em>, McGraw-Hill Education.
 - G. M. Peter Swann, <em>The Economics of Innovation</em>, Edward Elgar Publishing.
+- 송성수, 『과학기술의 경영과 정책』, 박영사.
 - 클레이튼 M. 크리스텐슨/이진원 옮김, 2009, 『혁신기업의 딜레마』, 세종서적. 
   * Clayton Christesen, 2016, <em>Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</em>, Harvard University Press.
  - 데이비드 로버트슨, 빌 브린/김태훈 옮김, 2016, 『레고 어떻게 무너진 블록을 다시 쌓았나』, 해냄. 
