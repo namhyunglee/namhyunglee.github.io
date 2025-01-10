@@ -48,15 +48,15 @@ toc: true
 
 ### 참고 도서
 
-- 이남형, 정세윤, <기술혁신의 경제학>, 한국방송통신대학교 출판문화원.
-- 권명중, <기술혁신의 경제학: 4차산업혁명의 사례와 적용>, 나무미디어.
-- Melissa A. Schilling/김길선 옮김, <기술경영과 혁신전략>, McGraw-Hill Education.
+- 이남형, 정세윤, 기술혁신의 경제학, 한국방송통신대학교 출판문화원.
+- 권명중, 기술혁신의 경제학: 4차산업혁명의 사례와 적용, 나무미디어.
+- Melissa A. Schilling/김길선 옮김, 기술경영과 혁신전략, McGraw-Hill Education.
   * Melissa A. Schilling, <em> Strategic Management of Technological Innovation </em>, McGraw-Hill Education.
 - G. M. Peter Swann, <em>The Economics of Innovation</em>, Edward Elgar Publishing.
-- 송성수, <과학기술의 경영과 정책>, 박영사.
-- 클레이튼 M. 크리스텐슨/이진원 옮김, 2009, <혁신기업의 딜레마>, 세종서적. 
+- 송성수, 과학기술의 경영과 정책, 박영사.
+- 클레이튼 M. 크리스텐슨/이진원 옮김, 2009, 혁신기업의 딜레마, 세종서적. 
   * Clayton Christesen, 2016, <em>Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</em>, Harvard University Press.
- - 데이비드 로버트슨, 빌 브린/김태훈 옮김, 2016, <레고 어떻게 무너진 블록을 다시 쌓았나>, 해냄. 
+ - 데이비드 로버트슨, 빌 브린/김태훈 옮김, 2016, 레고 어떻게 무너진 블록을 다시 쌓았나, 해냄. 
    * David Robertson and Bill Breen, 2014, <em>Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry</em>, Crown Business.
 
 ### 강의 구성

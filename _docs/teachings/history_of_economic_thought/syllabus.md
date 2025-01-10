@@ -61,10 +61,10 @@ toc: true
 
 ### 참고 도서
 
-- 니알 키시타이니/김진원 옮김, 2018, <경제학의 모험>, 부키.
+- 니알 키시타이니/김진원 옮김, 2018, 경제학의 모험, 부키.
   * Niall Kishtainy, 2018, <em>A Little History of Economics</em>, Yale University Press.
   * 최근 경제학자까지 폭 넓고 간략하게 다루고 있음
-- 로버트 하일브로너/장상환 옮김, <세속의 철학자들>, 이마고. 
+- 로버트 하일브로너/장상환 옮김, 세속의 철학자들, 이마고. 
   - Robert Heilbroner, 1999, <em>The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers</em>, 7th ed., Touchstone Books.
   - 키시타이니의 책보다 출간된 지 오래되었고, 최신 연구는 다루지 않았지만, 조금 더 깊이 있는 내용을 다루고 있음
 - Backhouse, Roger E. and Keith Tribe, 2017, <em>The History of Economics: A course for students and teachers</em>, Agenda publishing.
