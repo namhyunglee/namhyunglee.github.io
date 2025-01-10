@@ -1,7 +1,7 @@
 ---
 type: default
 title: 이남형
-date: 2024-04-05
+date: 2025-01-10
 permalink: /docs/cv/kor/
 collection: cv
 entries_layout: grid
@@ -77,7 +77,7 @@ toc: true
 
 
 ### 학회 발표
-
+- "AI as a Catalyst: Pedagogical Challenges of History of Economic Thought Class in Open Distance Digital Education.'" 51st Annual Meeting of the History of Economics Society, Universidad del Desarrollo Santiago, Santiago, Chile, Jul. 14--17, 2024.
 - "Balancing the Potential and Limitations of Large Language Models: Exploring Teaching Projects in Western European Economic History and History of Economic Thought Class." The 36th AAOU Conference, Istanbul University, Istanbul, Turkye, 28--30, Sep., 2023.
 - "Improving Applicant Support and Counseling Staff's Burden Through Chatbot Services: A Case of KNOU (co-authored with Suna La)." The 36th AAOU Conference, Istanbul University, Istanbul, Turkye, 28--30, Sep., 2023.
 - 「최근 신자유주의 연구의 검토: 국제통화체제론을 중심으로」 . 2022년 한국사회경제학회 봄 학술대회,

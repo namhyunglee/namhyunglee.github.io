@@ -1,7 +1,7 @@
 ---
 type: default
 title: Namhyung Lee
-date: 2024-04-05
+date: 2025-01-10
 permalink: /docs/cv/eng/
 collection: cv
 entries_layout: grid
@@ -78,6 +78,7 @@ toc: true
 
 
 ### Conference and Seminar Presentations
+- "AI as a Catalyst: Pedagogical Challenges of History of Economic Thought Class in Open Distance Digital Education.'" 51st Annual Meeting of the History of Economics Society, Universidad del Desarrollo Santiago, Santiago, Chile, Jul. 14--17, 2024.
 - "Balancing the Potential and Limitations of Large Language Models: Exploring Teaching Projects in Western European Economic History and History of Economic Thought Class." The 36th AAOU Conference, Istanbul University, Istanbul, Turkye, 28--30, Sep., 2023.
 - "Improving Applicant Support and Counseling Staff's Burden Through Chatbot Services: A Case of KNOU (co-authored with Suna La)." The 36th AAOU Conference, Istanbul University, Istanbul, Turkye, 28--30, Sep., 2023.
 - "Recent Studies on Neo-liberalism: International Monetary Regime" (written in Korean). 2022 KAPEA Spring Conferences, Korea National Open University, Seoul, South Korea, May 20, 2022.
