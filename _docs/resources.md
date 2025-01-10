@@ -20,7 +20,7 @@ toc: true
 
 
 ### 구글 서비스
-- ~~ [구글 아이디 생성 및 클래스룸 접속 안내](https://sites.google.com/knou.ac.kr/econlecture/home/gsuite){:target="_blank"}~~
+- ~~[구글 아이디 생성 및 클래스룸 접속 안내](https://sites.google.com/knou.ac.kr/econlecture/home/gsuite){:target="_blank"}~~
 (2023년 1학기 현재, 구글 교육 서비스 사용 제한이 있어 클래스룸 운영을 무기한 중지합니다.)
 
 ### 포드캐스트
