@@ -17,7 +17,7 @@ toc: true
 
 2024년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/19Xz_dB6zualWuItVsdFNHK_BCD3sZEAn/view){:target="_blank"}
 
-2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/J1yrf8KSikI){:target="_blank"}
+<!-- 2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/J1yrf8KSikI){:target="_blank"} -->
 
 
 ### 강의 홈페이지
@@ -60,14 +60,14 @@ toc: true
 
 ### 참고 도서
 
-- 마이클 쿠수마노, 데이비드 요피, 애너벨 가우어/오수원 옮김, 2021, 『플랫폼 비즈니스의 모든 것』, 부키. 
+- 마이클 쿠수마노, 데이비드 요피, 애너벨 가우어/오수원 옮김, 2021, <플랫폼 비즈니스의 모든 것>, 부키. 
   * Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie, 2019,<em> The Business of Platforms: Strategy in the Age of Digital Competition, Innovation, and Power </em>, Harper Business.
 - 데이비드 에반스, 리차드 슈몰렌제/이진원 옮김, 2016, <em> 매치메이커스 </em>, 더퀘스트.
   * David S. Evans and Richard Schmalensee, 2016, <em> Matchmakers </em>, Harvard Business Review Press.
 - Robin Mansell and W. Edward Steinmueller, 2020, <em> Advanced Introduction to Platform Economics </em>, Edward Elgar.
-- 알렉스 모아제드, 니콜라스 존슨/이경식 옮김, 2019, 『플랫폼 기업 전략』, 세종연구원. 
+- 알렉스 모아제드, 니콜라스 존슨/이경식 옮김, 2019, <플랫폼 기업 전략>, 세종연구원. 
   * Alex Moazed and Nicholas L. Johnson, 2016, <em> Modern Monopolies: What It Takes to Dominate the 21st Century Economy </em>, St. Martin's Press.
-- 마셜 밴 앨스타인, 상지트 폴 초더리, 제프리 파커/이현경 옮김, 2017, 『플랫폼 레볼루션』, 부키.
+- 마셜 밴 앨스타인, 상지트 폴 초더리, 제프리 파커/이현경 옮김, 2017, <플랫폼 레볼루션>, 부키.
   * Geoffrey G. Parker, Marshall W. Van Alstyne and Sangeet Paul Choudary, 2017, <em> Platform Revolution: How Networked Markets Are Transforming the Economy </em>, W.W. Norton & Company.
 - Laure Claie Reillier and Benoit Reillier, 2017, <em> Platform Strategy: How to Unlock the Power of Communities and Networks to Grow Your Business </em>, Routledge.
 

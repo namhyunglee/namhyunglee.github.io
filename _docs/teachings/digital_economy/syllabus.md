@@ -17,7 +17,7 @@ toc: true
 
 2024년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1Q3KQRtZd_aXi_jsOqtFCsvL7vIJmdJ1v/view){:target="_blank"}
 
-2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/KxVj8ESFvWo){:target="_blank"}
+<!-- 2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/KxVj8ESFvWo){:target="_blank"} -->
 
 
 ### 강의 홈페이지
@@ -28,7 +28,7 @@ toc: true
 
 먼저 정보재의 특성, 정보재 시장의 가격 결정, 고착 효과와 네트워크 효과 등 디지털 경제를 분석할 수 있는 기본적인 경제학 개념을 배운다. 
 
-이론을 토대로, 소매업 등 산업과 노동생산성 및 고용 등에 디지털 기술이 어떤 영향을 미쳤는 지의 현상과 또 어떤 영향이 예상되는 지에 대한 전망을 학습한다.
+이론을 토대로, 게임과 미디어 등 산업과 노동생산성 및 고용 등에 디지털 기술이 어떤 영향을 미쳤는 지의 현상과 또 어떤 영향이 예상되는 지에 대한 전망을 학습한다.
 
 ### 강의 목표
 
@@ -57,21 +57,22 @@ toc: true
 
 ### 참고 도서
 
-- 칼 샤피로, 할 배리언/임세윤 옮김, 1999, 『정보법칙을 알면 .COM이 보인다』, 미디어퓨전. (절판)
+- 칼 샤피로, 할 배리언/임세윤 옮김, 1999, <정보법칙을 알면 .COM이 보인다>, 미디어퓨전. (절판)
   * Carl Shapiro and Hal R. Varian, 1999,<em> Information Rules</em>, Harvard Business School Press.
-- Ajay Agrawal, Joshua Gans, and Avi Goldfarb, 2022, <em>Power and Prediction: The Disruptive Economics of Artificial Intelligence</em>, Harvard Business Review Press.
-- 어제이 애그러월, 조슈아 갠스, 아비 골드파브/이경남 옮김, 2019, 『예측 기계』, 생각의힘. 
+- 어제이 애그러월, 조슈아 갠스, 아비 골드파브/천형석 옮김, 2024, <AI 경제학>, 에코리브르.  
+  * Ajay Agrawal, Joshua Gans, and Avi Goldfarb, 2022, <em>Power and Prediction: The Disruptive Economics of Artificial Intelligence</em>, Harvard Business Review Press.
+- 어제이 애그러월, 조슈아 갠스, 아비 골드파브/이경남 옮김, 2019, <예측 기계>, 생각의힘. 
   * Ajay Agrawal, Joshua Gans, and Avi Goldfarb, 2018, <em>Prediction Machines: The Simple Economics of Artificial Intelligence</em>, Harvard Business Review Press.
-- 에릭 브린욜프슨, 앤드류 맥아피/이한음 옮김, 2014,『제2의 기계시대: 인간과 기계의 공생이 시작된다』, 청림출판. 
+- 에릭 브린욜프슨, 앤드류 맥아피/이한음 옮김, 2014,<제2의 기계시대: 인간과 기계의 공생이 시작된다>, 청림출판. 
   * Erik Brynjolfsson and Andrew McAfee, 2014, The <em>Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies</em>, W.W. Norton & Company.
-- 앤드류 맥아피, 에릭 브린욜프슨/이한음 옮김, 2018, 『머신, 플랫폼, 크라우드 - 트리플 레볼루션의 시대가 온다』, 청림출판.
+- 앤드류 맥아피, 에릭 브린욜프슨/이한음 옮김, 2018, <머신, 플랫폼, 크라우드 - 트리플 레볼루션의 시대가 온다>, 청림출판.
   * Andrew McAfee and Erik Brynjolfsson, 2017, <em>Machine, Platform, Crowd: Harnessing Our Digital Future</em>, W.W. Norton & Company.
-- 대런 아세모글루, 사이먼 존슨/김승진 옮김, 2023, 『권력과 진보』, 생각의힘.
+- 대런 아세모글루, 사이먼 존슨/김승진 옮김, 2023, <권력과 진보>, 생각의힘.
   * Acemoglu, Daron and Johnson Simon, <em>Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity</em>, Hachette Books.    
-- 대럴 웨스트/김인수 옮김, 2018, 『일자리 빅뱅이 다가온다』, 한빛비즈.
+- 대럴 웨스트/김인수 옮김, 2018, <일자리 빅뱅이 다가온다>, 한빛비즈.
   * Darrell M. West, 2018, <em>The Future of Work: Robots, AI, and Automation</em>, Brookings Institution Press.
-- 손용엽, 이상호, 2001, 『사이버시장의 경쟁원리』, 시그마인사이트.
-- 이상호, 2015,『네트워크 시장과 정보재』, 전남대학교 출판부.
+- 손용엽, 이상호, 2001, <사이버시장의 경쟁원리>, 시그마인사이트.
+- 이상호, 2015,<네트워크 시장과 정보재>, 전남대학교 출판부.
 
 ### 강의 구성
 

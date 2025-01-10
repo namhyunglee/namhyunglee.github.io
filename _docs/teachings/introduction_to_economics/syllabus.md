@@ -17,7 +17,7 @@ toc: true
 
 2024년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1ZfuWmsbDNj_VhHbhcKCDx28QEv9NpzI9/view){:target="_blank"}
 
-2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/nOQOCTp1bs8){:target="_blank"}
+<!-- 2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/nOQOCTp1bs8){:target="_blank"} -->
 
 ### 강의 개요
 
@@ -40,7 +40,7 @@ toc: true
 
 ### 강의 교재
 
-- 이충기, 이남형, 2019, 『생활 속의 경제』, 한국방송통신대학교 출판문화원.
+- 이충기, 이남형, 2019, <생활 속의 경제>, 한국방송통신대학교 출판문화원.
 
   * 프리젠테이션 파일은 유노캠퍼스 홈페이지 과목 자료실에서 받을 수 있음
 
@@ -48,17 +48,17 @@ toc: true
 ### 참고 자료
 - 교재 외의 개설서와 용어 설명 등은 아래 도서를 참고하기 바람
 
-- 하나오카 사치코, 하마바타케 가노우/송서휘 옮김, 『경제용어도감』, 서해문집.
-- 한국은행, 『경제금융용어 700선』, [다운로드](https://www.bok.or.kr/portal/bbs/B0000216/view.do?nttId=10075809&type=PEPL&searchOptn8=22&menuNo=20064). 
-- 한국은행, 『알기 쉬운 경제이야기』, [다운로드](https://www.bok.or.kr/portal/bbs/B0000216/view.do?nttId=10061729&type=PEPL&searchOptn8=22&menuNo=200648).
-- 한국은행, 『알기 쉬운 경제지표해설』, [다운로드](https://www.bok.or.kr/portal/bbs/P0000605/view.do?nttId=10081245&menuNo=200462)
-<!-- - 한국은행, 『알기 쉬운 금융생활』, [다운로드](https://www.bok.or.kr/portal/bbs/B0000216/view.do?nttId=10046971&type=PEPL&searchOptn8=22&menuNo=200648). -->
+  * 하나오카 사치코, 하마바타케 가노우/송서휘 옮김, <경제용어도감>, 서해문집.
+  * 한국은행, <알기 쉬운 경제이야기>, [다운로드](https://www.bok.or.kr/fileSrc/portal/4c0228b4ad7123204827e0b0320ab3bc/2/202402200940133750.pdf).
+  * 한국은행, <알기 쉬운 경제지표해설>, [다운로드](https://www.bok.or.kr/fileSrc/portal/0e2ebe46a6dbd89453440b8e85142443/1/b1216cbd65664826ac4760723a097993.pdf)
+  * 한국은행, <경제금융용어 700선>, [다운로드](https://www.bok.or.kr/fileSrc/portal/9b9ee59b5cdb4206abc5a1a3a1844ba6/4/202307101118324470.pdf). 
+<!-- - 한국은행, <알기 쉬운 금융생활>, [다운로드](https://www.bok.or.kr/portal/bbs/B0000216/view.do?nttId=10046971&type=PEPL&searchOptn8=22&menuNo=200648). -->
 
-- 이준구, 이창용, 『경제학원론』, 문우사.
-- Daron Acemoglu, David Laibson, and John List/손광락, 권남훈, 김원중, 박경로, 정태훈, 홍인기 옮김, 『경제학원론』, 시그마프레스.
-- Paul Krugman and Robin Wells/김재영, 박대근, 전병헌 옮김, 『크루그먼의 경제학』, 시그마프레스.
-- Gregory Mankiw/김경환, 김종석 옮김, 『맨큐의 경제학』, 교보문고.
-- Samuel Bowles, Richard Edwards and Frank Roosevelt/최정규, 최민식, 이강국 옮김, 『자본주의 이해하기』, 후마니타스.
+- 이준구, 이창용, <경제학원론>, 문우사.
+- Daron Acemoglu, David Laibson, and John List/손광락, 권남훈, 김원중, 박경로, 정태훈, 홍인기 옮김, <경제학원론>, 시그마프레스.
+- Paul Krugman and Robin Wells/김재영, 박대근, 전병헌 옮김, <크루그먼의 경제학>, 시그마프레스.
+- Gregory Mankiw/김경환, 김종석 옮김, <맨큐의 경제학>, 교보문고.
+- Samuel Bowles, Richard Edwards and Frank Roosevelt/최정규, 최민식, 이강국 옮김, <자본주의 이해하기>, 후마니타스.
 
 ### 강의 구성
 

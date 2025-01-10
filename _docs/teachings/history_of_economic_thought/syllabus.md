@@ -17,7 +17,7 @@ toc: true
 
 2024년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1mf25h0AkOF6TRPxRl539hvr4bT7vPy0I/view){:target="_blank"}
 
-2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/iNSFarMkOu0){:target="_blank"}
+<!-- 2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/iNSFarMkOu0){:target="_blank"} -->
 
 ### 강의 홈페이지
 [U-KNOU 캠퍼스, 경제분석의 역사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1913001&cntsId=KNOU1913){:target="_blank"}
@@ -61,10 +61,10 @@ toc: true
 
 ### 참고 도서
 
-- 니알 키시타이니/김진원 옮김, 2018, 『경제학의 모험』, 부키.
+- 니알 키시타이니/김진원 옮김, 2018, <경제학의 모험>, 부키.
   * Niall Kishtainy, 2018, <em>A Little History of Economics</em>, Yale University Press.
   * 최근 경제학자까지 폭 넓고 간략하게 다루고 있음
-- 로버트 하일브로너/장상환 옮김, 『세속의 철학자들』, 이마고. 
+- 로버트 하일브로너/장상환 옮김, <세속의 철학자들>, 이마고. 
   - Robert Heilbroner, 1999, <em>The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers</em>, 7th ed., Touchstone Books.
   - 키시타이니의 책보다 출간된 지 오래되었고, 최신 연구는 다루지 않았지만, 조금 더 깊이 있는 내용을 다루고 있음
 - Backhouse, Roger E. and Keith Tribe, 2017, <em>The History of Economics: A course for students and teachers</em>, Agenda publishing.
@@ -73,8 +73,8 @@ toc: true
   - 강의 중 2차세계대전 이후 경제학 발전 부분에 가장 많이 참고한 책
 <!-- - Kurz, Heinz and Jeremiah Riemer, 2017, <em>Economic Thought: A Brief History</em>, Columbia University Press.
 - Spiegel, Henry William, 1991, <em>The Growth of Economic Thought</em>, Duke University Press. -->
-<!-- - 홍훈, 류동민, 박종현, 김진방, 박만섭, 2014,  『경제의 교양을 읽는다 - 고전편』, 더난출판사.
-- 홍훈, 최정규, 김진방, 박만섭, 이규상, 2014,  『경제의 교양을 읽는다 - 현대편』, 더난출판사. -->
+<!-- - 홍훈, 류동민, 박종현, 김진방, 박만섭, 2014,  <경제의 교양을 읽는다 - 고전편>, 더난출판사.
+- 홍훈, 최정규, 김진방, 박만섭, 이규상, 2014,  <경제의 교양을 읽는다 - 현대편>, 더난출판사. -->
 
 ### 강의 구성
 
