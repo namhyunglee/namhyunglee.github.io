@@ -54,7 +54,7 @@ toc: true
 - 경제교육연구회, 2018, <사람의 역사, 경제의 역사>, 시그마프레스.
 - 로버트 C. 앨런/이강국 옮김, 2017, <세계경제사>. 교유서가.
   * Robert C. Allen, 2011, <em>Global Economic History: A Very Short Introduction</em>, Oxford University Press.
-- 칼 군나르 페르손, 폴 샤프/박이택 옮김, 2016, <유럽경제사: 지식, 제도 성장, 600-현재>, 해남.
+- 칼 군나르 페르손, 폴 샤프/박이택 옮김, 2016, <유럽경제사: 지식, 제도 성장, 600 -- 현재>, 해남.
   * Karl Gunnar Persson and Paul Sharp, 2015, *An Economic History of Europe: Knowledge, Institutions and Growth, 600 to the Present*, 2nd ed., Cambridge University Press.
 - 마시모 리비-바치/송병건 옮김, 2009, <세계인구의 역사>, 해남.
   * Livi-Bacci, M.. 1992. \textit{A Concise History of World Population}. Blackwell.  

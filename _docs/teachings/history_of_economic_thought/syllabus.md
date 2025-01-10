@@ -71,9 +71,10 @@ toc: true
   - 전체적으로 강의 준비에 가장 많이 참고한 책
 - Ekelund, Jr., Robert B. and Robert F. Hébert, <em>A History of Economic Theory & Method</em>, Waveland Press. 
   - 강의 중 2차세계대전 이후 경제학 발전 부분에 가장 많이 참고한 책
+  
 <!-- - Kurz, Heinz and Jeremiah Riemer, 2017, <em>Economic Thought: A Brief History</em>, Columbia University Press.
-- Spiegel, Henry William, 1991, <em>The Growth of Economic Thought</em>, Duke University Press. -->
-<!-- - 홍훈, 류동민, 박종현, 김진방, 박만섭, 2014,  <경제의 교양을 읽는다 - 고전편>, 더난출판사.
+- Spiegel, Henry William, 1991, <em>The Growth of Economic Thought</em>, Duke University Press.
+- 홍훈, 류동민, 박종현, 김진방, 박만섭, 2014,  <경제의 교양을 읽는다 - 고전편>, 더난출판사.
 - 홍훈, 최정규, 김진방, 박만섭, 이규상, 2014,  <경제의 교양을 읽는다 - 현대편>, 더난출판사. -->
 
 ### 강의 구성
