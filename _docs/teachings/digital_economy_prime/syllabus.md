@@ -14,11 +14,9 @@ toc: true
 ## Understanding digital economy: market structure, pricing, and strategy
 
 ### 강의 개요
-이 강의는 디지털 기술이 경제에 미치는 영향을 이론과 현실의 두 방향에서 접근한다.
+이 강의는 디지털 기술이 경제에 미치는 영향을 이론과 현실의 두 방향에서 접근한다. 
 
-먼저 정보재의 특성, 정보재 시장의 가격 결정, 고착 효과와 네트워크 효과 등 디지털 경제를 분석할 수 있는 기본적인 경제학 개념을 배운다. 
-
-이론을 토대로, 게임과 미디어 등 산업과 노동생산성 및 고용 등에 디지털 기술이 어떤 영향을 미쳤는 지의 현상과 또 어떤 영향이 예상되는 지에 대한 전망을 학습한다.
+먼저 정보재의 특성, 정보재 시장의 가격 결정, 고착 효과와 네트워크 효과, 일반목적기술 등 디지털 경제를 분석할 수 있는 기본적인 경제학 개념을 학습한다. 이를 토대로, 인공지능과 블록체인 등 기술 변화와 영향, 게임과 미디어 등 산업 변화와 특성을  분석한다. 그리고, 노동생산성, 고용 및 불평등 등에 디지털 기술이 미친 영향을 살펴본다. 
 
 ### 강의 목표
 
@@ -39,21 +37,21 @@ toc: true
 
 필수는 아니지만, 다음 과목에 준하는 수업을 들으면 본 수업을 이해하는 데 도움이 된다.
 
-- 경제원론, 미시경제학, 산업조직론
+- 경제원론, 미시경제학, 기업경쟁모형의 이해
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, 프라임 칼리지 LMS 과목 자료실에 강의안과 프리젠테이션이 업로드 되어 있다.
+강의안으로 수업을 진행하며, 프라임 칼리지 LMS 과목 자료실에 강의안과 프리젠테이션을 확인할 수 있다.
 
 ### 참고 도서
-
+- 이남형, 손경우, 신우진, 디지털 경제의 이해, 한국방송통신대학교 출판문화원.
 - 칼 샤피로, 할 배리언/임세윤 옮김, 1999, 정보법칙을 알면 .COM이 보인다, 미디어퓨전. (절판)
   * Carl Shapiro and Hal R. Varian, 1999,<em> Information Rules</em>, Harvard Business School Press.
 - 어제이 애그러월, 조슈아 갠스, 아비 골드파브/천형석 옮김, 2024, AI 경제학, 에코리브르.  
   * Ajay Agrawal, Joshua Gans, and Avi Goldfarb, 2022, <em>Power and Prediction: The Disruptive Economics of Artificial Intelligence</em>, Harvard Business Review Press.
 - 어제이 애그러월, 조슈아 갠스, 아비 골드파브/이경남 옮김, 2019, 예측 기계, 생각의힘. 
   * Ajay Agrawal, Joshua Gans, and Avi Goldfarb, 2018, <em>Prediction Machines: The Simple Economics of Artificial Intelligence</em>, Harvard Business Review Press.
-- 에릭 브린욜프슨, 앤드류 맥아피/이한음 옮김, 2014,제2의 기계시대: 인간과 기계의 공생이 시작된다, 청림출판. 
+- 에릭 브린욜프슨, 앤드류 맥아피/이한음 옮김, 2014, 제2의 기계시대: 인간과 기계의 공생이 시작된다, 청림출판. 
   * Erik Brynjolfsson and Andrew McAfee, 2014, The <em>Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies</em>, W.W. Norton & Company.
 - 앤드류 맥아피, 에릭 브린욜프슨/이한음 옮김, 2018, 머신, 플랫폼, 크라우드 - 트리플 레볼루션의 시대가 온다, 청림출판.
   * Andrew McAfee and Erik Brynjolfsson, 2017, <em>Machine, Platform, Crowd: Harnessing Our Digital Future</em>, W.W. Norton & Company.
@@ -67,17 +65,16 @@ toc: true
 ### 강의 구성
 
 - 디지털 경제의 특성
-- 네트워크 효과
 - 고착 효과
-- 디지털 경제의 가격 전략
-- 양면 시장
-- 비대면 신뢰 구축
-- 소비자 후생
+- 네트워크 효과
+- 디지털 경제에서의 신뢰
+- 디지털 경제에서의 가격 전략
+- 디지털 경제의 플랫폼: 양면시장 이론
 - 인공 지능
 - 블록체인
 - 게임 산업
-- 미디어 산업의 변화
-- 이동 산업의 변화
-- 공유 경제의 등장
+- 미디어 산업
+- 이동 산업
+- 디지털 경제의 이득
 - 노동의 미래
-- 기술 발전과 불평등
+- 기술 발전과 불평등 문제

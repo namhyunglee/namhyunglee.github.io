@@ -71,7 +71,7 @@ toc: true
   - 전체적으로 강의 준비에 가장 많이 참고한 책
 - Ekelund, Jr., Robert B. and Robert F. Hébert, <em>A History of Economic Theory & Method</em>, Waveland Press. 
   - 강의 중 2차세계대전 이후 경제학 발전 부분에 가장 많이 참고한 책
-- 조지 G. 슈피로/김현정, <경제학 오디세이>, 비즈니스 북스.
+- 조지 G. 슈피로/김현정, 경제학 오디세이, 비즈니스 북스.
   - George G. Szpiro, <em>Risk, Choice, and Uncertainty: Three Centuries of Economic Decision-Making</em>, Columbia University Press.
   - 20세기 후반 경제학 내부, 즉 경제학자 사이에서 연구 관심의 변화를 잘 보여주고 있음
   - 현재의 경제학으로부터 모형화 그리고 수학화의 과정을 17세기 베르누이까지 거슬러 올라가 짚어내려오고 있음
@@ -80,9 +80,9 @@ toc: true
     - 원제에서처럼 위험(risk)와 불확실성(uncertainty)은 구분되어야 하며, 그랬을 때의 선택(choice) 또는 의사 결정(decision making)을 나누어 접근해야할 필요가 있지만, 후반부로 갈 수록 이러한 구분이 흐려짐
     - 또 어떤 연구자가 누구로부터 영향을 받았고 또 영향을 주었는 지는 문헌적 증거로 뒷받침되어야할 필요가 있음
   - 그렇지만, 참고도서로 충분히 활용할만 함
-- 한국사회과학연구회 기획, <경제학들의 귀환>, 박영률출판사.
+- 한국사회과학연구회 기획, 경제학들의 귀환, 박영률출판사.
   - 애덤 스미스, 데이비드 리카도뿐만 아니라 아리스토텔레스, 프리드리히 리스트, 카를 마르크스, 헨리 조지 등 강의에서 다루지 않는 경제학자들까지 좀 더 깊이 있게 소개하고 있음
-- 조너선 콘린/우진하, <나의 첫 경제사 수업>, 대원씨아이.
+- 조너선 콘린/우진하, 나의 첫 경제사 수업, 대원씨아이.
   - Jonathan Conlin, <em> Great Economic Thinkers: An Introduction -- from Adam Smith to Amartya Sen </em>, Reaktion Books.
   - 애덤 스미스를 비롯 내시, 카너먼, 센, 스티글리츠와 같은 현대 경제학자의 아이디어까지 다루고 있음
   - 경제학자 개인과 시대상에 대한 설명이 좀 더 충실하지만, 경제학의 발달에 대해서도 잘 정리되어 있음
