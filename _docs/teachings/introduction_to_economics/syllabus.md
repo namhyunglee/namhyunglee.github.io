@@ -1,7 +1,7 @@
 ---
 type: default
 #layout: pages
-title: 경제학의 이해(2학기)
+title: 경제학의 이해 (2학기)
 date: 2022-01-23
 permalink: /docs/teachings/introduction_to_economics/
 collection: teachings
