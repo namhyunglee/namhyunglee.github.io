@@ -13,11 +13,11 @@ toc: true
 
 ## Economics of Technological Innovation
 
-### 상세 강의 계획서
+<!-- ### 상세 강의 계획서
 
 2025년 1학기 강의 계획서: [다운로드]( https://drive.google.com/file/d/1w5Y3qUKsGRvBfcaDStKyp-2HHs2JJcUB/view?usp=share_link){:target="_blank"}
 
-2025년 1학기 오리엔테이션 동영상: [클릭](https://youtu.be/PB3JYrQFvuc){:target="_blank"}
+2025년 1학기 오리엔테이션 동영상: [클릭](https://youtu.be/PB3JYrQFvuc){:target="_blank"} -->
 
 ### 강의 홈페이지
 

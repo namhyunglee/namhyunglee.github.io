@@ -1,7 +1,7 @@
 ---
 type: default
 #layout: pages
-title: 생활 속의 경제(2학기)
+title: 경제학의 이해(2학기)
 date: 2022-01-23
 permalink: /docs/teachings/introduction_to_economics/
 collection: teachings
@@ -15,9 +15,9 @@ toc: true
 
 ### 상세 강의 계획서
 
-2024년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1ZfuWmsbDNj_VhHbhcKCDx28QEv9NpzI9/view){:target="_blank"}
+2025년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1ZfuWmsbDNj_VhHbhcKCDx28QEv9NpzI9/view){:target="_blank"}
 
-<!-- 2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/nOQOCTp1bs8){:target="_blank"} -->
+2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/2CLxOJtDSr0){:target="_blank"}
 
 ### 강의 개요
 
