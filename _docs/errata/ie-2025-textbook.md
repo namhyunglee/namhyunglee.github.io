@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 교재 정정
-date: 2025-03-31T11:11:50+09:00
+date: 2025-08-05T11:11:50+09:00
 permalink: /docs/errata/ie-2025-textbook/
 collection: errata
 #tags: [경제학의 이해, 교재]
