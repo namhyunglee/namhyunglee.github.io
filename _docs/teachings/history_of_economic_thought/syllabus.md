@@ -17,7 +17,7 @@ toc: true
 
 2025년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1mf25h0AkOF6TRPxRl539hvr4bT7vPy0I/view){:target="_blank"}
 
-2025년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/RKJUiiGXOv0){:target="_blank"}
+<!-- 2025년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/RKJUiiGXOv0){:target="_blank"} -->
 
 ### 강의 홈페이지
 [U-KNOU 캠퍼스, 경제분석의 역사](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1913001&cntsId=KNOU1913){:target="_blank"}

@@ -17,7 +17,7 @@ toc: true
 
 2025년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1ZfuWmsbDNj_VhHbhcKCDx28QEv9NpzI9/view){:target="_blank"}
 
-2024년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/2CLxOJtDSr0){:target="_blank"}
+<!-- 2025년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/2CLxOJtDSr0){:target="_blank"} -->
 
 ### 강의 개요
 
