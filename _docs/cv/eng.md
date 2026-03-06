@@ -42,8 +42,8 @@ toc: true
 - Lee, Namhyung and Seyoun Jung, <em> Economics of Technological Innovation </em>, KNOU Press: Seoul, 2024.
 - Shim, Jiyoung, Namhyung Lee, Yongchul Lee, Il Jang, Seyoun Jeong, Jiyoun Cha and Moonsun Chou, <em> Issues on the Current Europe</em>, KNOU Press: Seoul, 2021. 
 - Lee, Chungki and Namhyung Lee, <em>Economics of Firms</em>, KNOU Press: Seoul, 2020. 
-<!-- - Shim, Jiyoung, Namhyung Lee, Yongchul Lee, Il Jang, Seyoun Jeong, Jiyoun Cha and Moonsun Chou, <em> Issues on the Current Europe</em>, KNOU Press: Seoul, 2021. (Chs. 10, 12, 14).
-- Lee, Chungki and Namhyung Lee, <em>Economics of Firms</em>, KNOU Press: Seoul, 2020. (Chs. 7--11). -->
+<!-- - Shim, Jiyoung, Namhyung Lee, Yongchul Lee, Il Jang, Seyoun Jeong, Jiyoun Cha and Moonsun Chou, <em> Issues on the Current Europe</em>, KNOU Press: Seoul, 2021. (Chs. 10, 12, 14). -->
+<!-- - Lee, Chungki and Namhyung Lee, <em>Economics of Firms</em>, KNOU Press: Seoul, 2020. (Chs. 7--11). -->
 <!-- - Lee, Chungki and Namhyung Lee, <em>Economy in Life</em>, KNOU Press: Seoul. (Chs. 7--13, Appendix 1--2). -->
 - Naval Warfare Command Center, <em>Spanish Naval Warfare History</em>, Gyeryong: ROKN, 2002. (part of Spanish naval development in 15-17th century and public finance.)
 
