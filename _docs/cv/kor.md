@@ -1,7 +1,7 @@
 ---
 type: default
 title: 이남형
-date: 2025-01-10
+date: 2023-03-01
 permalink: /docs/cv/kor/
 collection: cv
 entries_layout: grid
@@ -17,19 +17,14 @@ toc: true
 - 박사, 경제학, 고려대학교, 2017.
   * 학위논문: <em>Cooperative Innovation and Evolutionary Dynamics of Open Source Software: Agent-Based Simulation on the Private Provision of Public Goods</em>.
     * 심사 위원: 김균 (위원장), 남재현, 박만섭, 정동진, 최정규.
-
 - 석사, 경제학, 고려대학교, 2007.
   * 학위논문: 『미시 기업지배구조론의 기업이론적 기반: 소유와 효율성을 중심으로』
-
 - 학사, 경제학, 고려대학교, 2000.
 
 
 
 ## 연구 관심
-
 - 오픈소스 소프트웨어, 지식 공유와 제도, 공공재 게임, 행위자 기반 시뮬레이션, 기술혁신 경제학, 게임이론, 경제사, 경제학사.
-
-
 
 ## 연구
 
@@ -44,16 +39,18 @@ toc: true
 - 이남형, 박상수, 배인철, 이충기, 2016,「조건부가치측정법을 이용한 야생동물 교통사고 예방사업의 경제적 가치 추정」, 『환경영향평가』, 25(1). [1--14.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002084602){:target="_blank"}
 
 ### 도서
-
+- 이남형, 손경우, 신우진, 『디지털 경제의 이해』, 서울: 한국방송통신대학교 출판문화원, 2025.
+- 이충기, 이남형, 『경제학의 이해』, 서울: 한국방송통신대학교 출판문화원, 2025.
 - 이남형, 정세윤, 『기술혁신의 경제학』, 서울: 한국방송통신대학교 출판문화원, 2024.
-- 심지영, 이남형, 이용철, 장일, 정세윤, 차지연, 최문선, 『이슈로 보는 오늘날의 유럽』, 서울: 한국방송통신대학교 출판문화원, 2021. (10, 12, 14장).
-- 이충기, 이남형, 『기업경제학』, 서울: 한국방송통신대학교 출판문화원, 2020. (7--11장).
-- 이충기, 이남형, 『생활속의 경제』, 서울: 한국방송통신대학교 출판문화원, 2019. (7--13장, 부록 1, 부록 2).
+- 심지영, 이남형, 이용철, 장일, 정세윤, 차지연, 최문선, 『이슈로 보는 오늘날의 유럽』, 서울: 한국방송통신대학교 출판문화원, 2021. 
+- 이충기, 이남형, 『기업경제학』, 서울: 한국방송통신대학교 출판문화원, 2020. 
+<!-- - 심지영, 이남형, 이용철, 장일, 정세윤, 차지연, 최문선, 『이슈로 보는 오늘날의 유럽』, 서울: 한국방송통신대학교 출판문화원, 2021. (10, 12, 14장).
+- 이충기, 이남형, 『기업경제학』, 서울: 한국방송통신대학교 출판문화원, 2020. (7--11장). -->
+<!-- - 이충기, 이남형, 『생활속의 경제』, 서울: 한국방송통신대학교 출판문화원, 2019. (7--13장, 부록 1, 부록 2). -->
 - 해군전투발전단, 『스페인 해전사』, 계룡: 대한민국 해군, 2002. (15--17세기 스페인 해군 발전과 재정).
 
 ### 연구보고서
-
-- 한국콘텐츠진흥원, 「게임과 소비」, 『게임이용자 패널 연구』, 2021, 2022, 2023.
+- 한국콘텐츠진흥원, 「게임과 소비」, 『게임이용자 패널 연구』, 2021--2025.
 - 한국콘텐츠진흥원, 「게임 이용의 경제적 행태」, 『2019 게임이용자 패널 연구 예비조사』, 5장 3절, 2019.
 - 국회예산정책처, 「프랑스의 재정분권 추진 현황」, 『주요국의 재정분권 추진 현황과 시사점』, 5장, 2018.
 - 국회예산정책처, 「스마트 공장 특성과 국내외 도입 현황」, 『스마트공장 도입이 고용에 미치는 효과 연구 - 해외 사례를 중심으로』, 3장, 2017.
@@ -69,7 +66,6 @@ toc: true
 
 
 ### 기타 기고
-
 - 서평, 「『앨버트 허시먼: 반동에 저항하되 혁명을 의심한 경제사상가』」,『경제사학』, 45(2), 365--370, 2021.
 - 보훈교육연구원, 「미국의 상이제대 군인 지원 제도」, 『보훈연구』, 4(1), 81--118, 2015.
 - 한국도로공사, 「창조경제의 개념과 영국과 일본의 관련 정책 방향」,『고속도로』, 80, 8--16, 2013.
@@ -77,6 +73,8 @@ toc: true
 
 
 ### 학회 발표
+- "Students Behavior in Using Large Language Models: A Case of Introduction to Economics in Korea National Open University (co-authored with Se-Youn Jung)." 30th ICDE World Conference, Open Polytechnic and Massey University, Wellington, New Zealand, Nov. 10--13, 2025.
+- "AI as a Study Peer: A Case Study of Economic History and History of Economic Thought Courses (co-authored with Chanwoo Yoo)." 30th ICDE World Conference, Open Polytechnic and Massey University, Wellington, New Zealand, Nov. 10--13, 2025.
 - "AI as a Catalyst: Pedagogical Challenges of History of Economic Thought Class in Open Distance Digital Education.'" 51st Annual Meeting of the History of Economics Society, Universidad del Desarrollo Santiago, Santiago, Chile, Jul. 14--17, 2024.
 - "Balancing the Potential and Limitations of Large Language Models: Exploring Teaching Projects in Western European Economic History and History of Economic Thought Class." The 36th AAOU Conference, Istanbul University, Istanbul, Turkye, 28--30, Sep., 2023.
 - "Improving Applicant Support and Counseling Staff's Burden Through Chatbot Services: A Case of KNOU (co-authored with Suna La)." The 36th AAOU Conference, Istanbul University, Istanbul, Turkye, 28--30, Sep., 2023.
@@ -105,13 +103,11 @@ toc: true
 
 
 ### 논문심사
-
 - 『경제학연구』, 『동향과 전망』, 『역사학보』, 『질서경제저널』 등
 
 
 
 ### 학회, 워크숍 등 참석
-
 - 제1회 한국사회경제학회 동계학교, 고려대학교, 2019년 2월 20-21일. 
 - First Graz Summer School, "Evolutionary Economics 25 years after the seminal contribution of Nelson and Winter: Problems and Perspectives", Graz Schumpeter Center, Graz, Austria, July 15-22, 2007.
 - SASE 17th Annual Meeting, "What Counts? Calculation, Representation, Association", Central European University, Budapest, Hungary, June 30--July 2, 2005.
@@ -120,10 +116,10 @@ toc: true
 ## 강의 경력
 
 ### 한국방송통신대학교 MBA 경제정책 전공
-- 조교수, 과학기술의 경제학적 접근, 2018년 2학기 -- 현재.
+- 부교수, 과학기술의 경제학적 접근, 2018년 2학기 -- 현재.
 
 ### 한국방송통신대학교 경제학과
-- 조교수, 플랫폼 경제의 이해, 2021년 1학기 -- 현재. 
+- 부교수, 플랫폼 경제의 이해, 2021년 1학기 -- 현재. 
 - --------, 경제분석의 역사, 2019년 2학기 -- 현재.
 - --------, 기술혁신의 경제학, 2019년 1학기 -- 현재.
 - --------, 서양 경제사, 2019년 1학기 -- 현재.
@@ -147,17 +143,14 @@ toc: true
 - ------------, 시장과 기업행동, 2013년 1학기.
 
 ### 경남과학기술대학교 산업경제학과
-
 - 시간강사, 시장조사분석, 2013년 2학기.
 - ------------, 시사경제영어, 2013년 2학기.
 - ------------, 시사경제영어, 2012년 2학기.
 
 ### 한국외국어대학교 경영대학원
-
 - 시간강사, 경제학개론, 2011년 2학기.
 
 ### 고려대학교 경제학과
-
 - 시간강사, 경제원론 1, 2012년 1학기.
 - ------------, 경제원론 2, 2012년 1학기.
 - ------------, 경제원론 2, 2011년 겨울학기.
@@ -168,9 +161,7 @@ toc: true
 - ------------, 경제학개론, 2009년 1학기.
 
 
-
 ### 목원대학교 경제학과
-
 - 시간강사, 디지털 경제학, 2007년 2학기.
 - ------------, 지방재정론, 2007년 2학기.
 - ------------, 미시경제학, 2007년 1학기.
@@ -181,15 +172,12 @@ toc: true
 ## 기타 경력
 
 ### 연세대학교 경영연구소
-
 - 박사 후 연구원, 2017.8--2017.12.
 
 ### 고려대학교 경제연구소
-
 - 연구보조원, 2009.3--2016.11.
 
 ## 수상 및 장학금 수혜
-
 - 장학생, 고려대학교 일반대학원 학술연구회장학금, 2016년 1학기.
 - 장학생, 고려대학교 일반대학원 연구장려장학금, 2016년 1학기.
 - 장학생, BK21 한국경제의 균형발전과 국제적 선도 역할에 관한 연구 및 전문인력 양성 사업단, 2007년 1학기 -- 2010년 1학기.
@@ -197,5 +185,4 @@ toc: true
 - 장학생, BK21 개방체제하의 한국경제, 2004년 1학기; 2005년 1학기.
 
 ## 기타
-
 - 군 복무: 대한민국 해군, 중위 전역, 2000년 7월 -- 2003년 6월.
