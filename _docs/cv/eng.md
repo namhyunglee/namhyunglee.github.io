@@ -90,7 +90,7 @@ toc: true
 - ["What Economics Knows About Open Source Software (in Korean)"](https://sites.google.com/knou.ac.kr/econlecture/home/lectures/OSS){:target="_blank"}, 2018, Yonsei Business Research Institute Lunch Forum on 4th Industrial Revolution.
 
 ### Referee
-- <em>The Korean Journal of Economic Studies</em>, <em>Journal of Korean Social Trends and Perspectives</em>, <em>The Korean Historical Review</em>, <em>Ordo Economics Journal</em>.
+- <em>Journal of Korean Social Trends and Perspectives</em>, <em>The Korean Historical Review</em>, <em>The Korean Journal of Economic Studies</em>, <em>Ordo Economics Journal</em>, <em>The Review of Social & Economic Studies</em>.
 
 ### Conferences, Workshops, and Summer School Attended
 - First Korean Association for Political Economy Winter School, Korea University, Seoul, Feb. 20-21, 2019.
