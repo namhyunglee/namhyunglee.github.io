@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 교재 정정
-date: 2026-04-09T11:11:50+09:00
+date: 2026-04-09 T11:11:50+09:00
 permalink: /docs/errata/de-2025-textbook/
 collection: errata
 #tags: [디지털 경제의 이해, 교재]
