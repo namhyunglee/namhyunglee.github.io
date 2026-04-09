@@ -19,7 +19,7 @@ toc: true
 <tbody><tr><td>22</td><td>10</td><td>"대체 되지..."</td><td> "대체되지..."</td></tr></tbody>
 <tbody><tr><td>66</td><td>참고문헌</td><td>"... Varia (1999)"</td><td> "Varian (1999)"</td></tr></tbody>
 <tbody><tr><td>87</td><td>끝에서 2번째</td><td>"... 매몰비용은 한번 ..."</td><td> "... 한 번 ... "</td></tr></tbody>
-<tbody><tr><td>149</td><td>참고문헌</td><td>"Epoch AI (2024) ... , Epoch AI (2025) ... "</td><td> "홈페이지 주소 뒤바꾸기"</td></tr></tbody>
+<tbody><tr><td>149</td><td>참고문헌</td><td>"Epoch AI (2024) ... , Epoch AI (2025) ... "</td><td> 홈페이지 주소 뒤바뀜</td></tr></tbody>
 <tbody><tr><td>161</td><td>1</td><td>"... 스마트 계약 ..."</td><td> "... 스마트계약 ..."</td></tr></tbody>
 <tbody><tr><td>165</td><td>17</td><td>"실제로 코로나-19 감영증... "</td><td> "... 감염증 ..."</td></tr></tbody>
 <tbody><tr><td>175</td><td>참고문헌</td><td>"... Christine ... "</td><td> "... Christin ..."</td></tr></tbody>
