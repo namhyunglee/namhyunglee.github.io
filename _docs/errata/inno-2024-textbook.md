@@ -2,7 +2,7 @@
 type: default
 #layout: pages
 title: 교재 정정
-date: 2024-01-29T11:11:50+09:00
+date: 2026-04-10T11:11:50+09:00
 permalink: /docs/errata/inno-2024-textbook/
 collection: errata
 #tags: [기술혁신의경제학, 교재]
