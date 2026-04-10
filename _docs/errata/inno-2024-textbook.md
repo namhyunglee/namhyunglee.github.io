@@ -12,7 +12,5 @@ toc: true
 
 ### 기술혁신의경제학(2024)
 
-<figure class="wp-block-table alignwide is-style-stripes"><table class="has-fixed-layout">
-<thead><tr><th>쪽</th><th>줄</th><th>기존 내용</th><th>정정 내용</th></tr></thead>
-<tbody><tr><td>2</td><td>주요용어</td><td>패러다임 / 혁신 / 발명 / ... </td><td> ***패러다임 삭제***, 혁신 / 발명 / ...</td></tr></tbody>
-</table></figure>
+|쪽|줄|기존 내용|정정 내용|
+|2|주요용어|패러다임 / 혁신 / 발명 / ... |**패러다임 삭제**, 혁신 / 발명 / ...|
