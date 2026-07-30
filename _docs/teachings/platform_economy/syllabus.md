@@ -15,14 +15,14 @@ toc: true
 
 ### 상세 강의 계획서
 
-2025년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/19Xz_dB6zualWuItVsdFNHK_BCD3sZEAn/view){:target="_blank"}
+2026년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/19Xz_dB6zualWuItVsdFNHK_BCD3sZEAn/view){:target="_blank"}
 
-<!-- 2025년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/z93vFYTGrBw){:target="_blank"} -->
+2026년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/BnhK26mkfGQ){:target="_blank"} 
 
 
-### 강의 홈페이지
+<!-- ### 강의 홈페이지
 
-[U-KNOU 캠퍼스, 플랫폼 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1716001&cntsId=KNOU1716){:target="_blank"}
+[U-KNOU 캠퍼스, 플랫폼 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU1716001&cntsId=KNOU1716){:target="_blank"} -->
 
 ### 강의 개요
 이 강의는 플랫폼 경제를 양면 시장 이론과 네트워크 효과 등 경제학적인 개념으로 접근한다. 

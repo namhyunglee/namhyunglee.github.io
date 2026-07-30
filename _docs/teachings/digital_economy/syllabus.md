@@ -15,13 +15,13 @@ toc: true
 
 ### 상세 강의 계획서
 
-2025년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1Q3KQRtZd_aXi_jsOqtFCsvL7vIJmdJ1v/view){:target="_blank"}
+2026년 2학기 강의 계획서: [다운로드](https://drive.google.com/file/d/1Q3KQRtZd_aXi_jsOqtFCsvL7vIJmdJ1v/view){:target="_blank"}
 
-<!-- 2025년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/4PtEYarfjD0){:target="_blank"} -->
+2026년 2학기 오리엔테이션 동영상: [클릭](https://youtu.be/XI99p_N_eCk){:target="_blank"}
 
 
-### 강의 홈페이지
-[U-KNOU 캠퍼스, 디지털 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU0911001&cntsId=KNOU0911){:target="_blank"}
+<!-- ### 강의 홈페이지
+[U-KNOU 캠퍼스, 디지털 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU0911001&cntsId=KNOU0911){:target="_blank"} -->
 
 ### 강의 개요
 이 강의는 디지털 기술이 경제에 미치는 영향을 이론과 현실의 두 방향에서 접근한다. 
@@ -51,7 +51,7 @@ toc: true
 
 ### 강의 교재
 
-강의안으로 수업을 진행하며, [U-KNOU 캠퍼스, 디지털 경제의 이해](https://ucampus.knou.ac.kr/ekp/user/course/initUCRCourse.sdo?sbjtId=KNOU0911001&cntsId=KNOU0911){:target="_blank"} 과목 자료실에 강의안과 프리젠테이션이 업로드 되어 있다.
+
 
 ### 참고 도서
 - 이남형, 손경우, 신우진, 디지털 경제의 이해, 한국방송통신대학교 출판문화원.
