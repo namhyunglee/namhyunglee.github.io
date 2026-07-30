@@ -35,4 +35,3 @@ toc: true
 
 ### K-MOOC
 - [게임이론을 이해하는 사회 현상](https://knougametheory.github.io/Lecture_Notes/)
-- 
