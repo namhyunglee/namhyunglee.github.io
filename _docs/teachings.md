@@ -1,7 +1,7 @@
 ---
 type: default
 title: 강의
-date: 2022-01-23
+date: 2026-07-30
 permalink: /docs/teachings/
 collection: teachings
 entries_layout: grid
