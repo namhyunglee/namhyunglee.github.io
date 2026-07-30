@@ -31,7 +31,7 @@ toc: true
 필수는 아니지만, 다음 과목을 이수했다면 수업 내용을 이해하는 데 도움이 된다.
 
 - 미시경제학, 산업조직론, 게임이론
-  * [게임이론](https://www.kmooc.kr/view/course/detail/12423){:target="_blank"}
+  * [게임이론](https://knougametheory.github.io/Lecture_Notes/){:target="_blank"}
   <!-- * [미시경제학](https://www.edwith.org/microeconomics){:target="_blank"}, 7--13장, 17--21장 참고 -->
 
 ### 강의 교재
