@@ -32,3 +32,7 @@ toc: true
 ### 방송대 경영대학원 MBA 경제정책전공
 - 1학기
   * [과학기술정책의 경제학적 접근](/docs/teachings/innvoation_policy/)
+
+### K-MOOC
+- [게임이론을 이해하는 사회 현상](https://knougametheory.github.io/Lecture_Notes/)
+- 
